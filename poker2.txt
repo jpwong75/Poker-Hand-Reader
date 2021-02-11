@@ -1,0 +1,4511 @@
+The player Sean @ pL8pVRDugg requested a seat.
+The admin approved the player Sean @ pL8pVRDugg participation with a stack of 2000.
+The player Ryan @ htQeCcunRv requested a seat.
+The admin approved the player Ryan @ htQeCcunRv participation with a stack of 2000.
+WARNING: the admin queued the stack change for the player Ryan @ htQeCcunRv removing 1500 chips in the next hand.
+The admin updated the player Ryan @ htQeCcunRv stack from 2000 to 500.
+The player jp @ m3-N51qfDy requested a seat.
+The admin approved the player jp @ m3-N51qfDy participation with a stack of 2000.
+-- starting hand #1  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+The player Sean @ pL8pVRDugg joined the game with a stack of 2000.
+The player Ryan @ htQeCcunRv joined the game with a stack of 500.
+The player jp @ m3-N51qfDy joined the game with a stack of 2000.
+Player stacks: #1 Sean @ pL8pVRDugg (2000) | #2 Ryan @ htQeCcunRv (500) | #10 jp @ m3-N51qfDy (2000)
+Your hand is Q♣, Q♠
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+jp @ m3-N51qfDy calls 60
+Flop:  [5♥, 3♠, 8♥]
+Ryan @ htQeCcunRv bets 90
+jp @ m3-N51qfDy raises to 200
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 200
+Turn: 5♥, 3♠, 8♥ [4♣]
+Ryan @ htQeCcunRv bets 240 and go all in
+jp @ m3-N51qfDy calls 240
+Remaining players decide whether to run it twice.
+Some players choose to not run it twice.
+Ryan @ htQeCcunRv shows a 9♥, 9♣.
+Ryan @ htQeCcunRv shows a 9♥, 9♣.
+jp @ m3-N51qfDy shows a Q♣, Q♠.
+River: 5♥, 3♠, 8♥, 4♣ [2♠]
+jp @ m3-N51qfDy collected 1060 from pot with Pair, Q's (combination: Q♣, Q♠, 8♥, 5♥, 4♣)
+-- ending hand #1 --
+The player Ryan @ htQeCcunRv quits the game with a stack of 0.
+-- starting hand #2  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (1940) | #10 jp @ m3-N51qfDy (2560)
+Your hand is 2♠, 5♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [A♣, 8♠, 9♣]
+The player Ryan @ htQeCcunRv requested a seat.
+Sean @ pL8pVRDugg checks
+The player boobs @ gV2_hmR6Ex requested a seat.
+jp @ m3-N51qfDy checks
+Turn: A♣, 8♠, 9♣ [K♣]
+The admin approved the player Ryan @ htQeCcunRv participation with a stack of 2000.
+The admin approved the player boobs @ gV2_hmR6Ex participation with a stack of 2000.
+Sean @ pL8pVRDugg bets 40
+jp @ m3-N51qfDy folds
+Uncalled bet of 40 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #2 --
+The player Ryan @ htQeCcunRv joined the game with a stack of 2000.
+The player boobs @ gV2_hmR6Ex joined the game with a stack of 2000.
+-- starting hand #3  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (1960) | #2 Ryan @ htQeCcunRv (2000) | #3 boobs @ gV2_hmR6Ex (2000) | #10 jp @ m3-N51qfDy (2540)
+Your hand is A♣, Q♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex checks
+Flop:  [6♣, Q♦, 8♦]
+Ryan @ htQeCcunRv bets 40
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy calls 40
+Turn: 6♣, Q♦, 8♦ [J♦]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 100
+Ryan @ htQeCcunRv calls 100
+River: 6♣, Q♦, 8♦, J♦ [K♥]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 120
+Ryan @ htQeCcunRv folds
+Uncalled bet of 120 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 340 from pot
+-- ending hand #3 --
+-- starting hand #4  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (1960) | #2 Ryan @ htQeCcunRv (1840) | #3 boobs @ gV2_hmR6Ex (1980) | #10 jp @ m3-N51qfDy (2720)
+Your hand is K♥, 4♣
+boobs @ gV2_hmR6Ex posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex calls 60
+jp @ m3-N51qfDy folds
+Flop:  [J♥, 3♦, 8♣]
+boobs @ gV2_hmR6Ex bets 70
+Ryan @ htQeCcunRv calls 70
+Turn: J♥, 3♦, 8♣ [10♣]
+boobs @ gV2_hmR6Ex bets 90
+Ryan @ htQeCcunRv calls 90
+River: J♥, 3♦, 8♣, 10♣ [5♦]
+boobs @ gV2_hmR6Ex bets 140
+Ryan @ htQeCcunRv calls 140
+Ryan @ htQeCcunRv shows a Q♥, J♠.
+Ryan @ htQeCcunRv collected 740 from pot with Pair, J's (combination: J♠, J♥, Q♥, 10♣, 8♣)
+boobs @ gV2_hmR6Ex shows a 5♠, A♣.
+-- ending hand #4 --
+-- starting hand #5  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (1960) | #2 Ryan @ htQeCcunRv (2220) | #3 boobs @ gV2_hmR6Ex (1620) | #10 jp @ m3-N51qfDy (2700)
+Your hand is 6♥, Q♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [Q♣, 4♣, 8♦]
+jp @ m3-N51qfDy bets 80
+Sean @ pL8pVRDugg raises to 200
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy calls 200
+Turn: Q♣, 4♣, 8♦ [Q♠]
+jp @ m3-N51qfDy bets 230
+Sean @ pL8pVRDugg calls 230
+River: Q♣, 4♣, 8♦, Q♠ [5♠]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg checks
+jp @ m3-N51qfDy shows a 6♥, Q♦.
+jp @ m3-N51qfDy collected 920 from pot with Three of a Kind, Q's (combination: Q♦, Q♣, Q♠, 8♦, 6♥)
+-- ending hand #5 --
+-- starting hand #6  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (1510) | #2 Ryan @ htQeCcunRv (2200) | #3 boobs @ gV2_hmR6Ex (1620) | #10 jp @ m3-N51qfDy (3170)
+Your hand is 7♥, 7♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex raises to 70
+jp @ m3-N51qfDy calls 70
+Sean @ pL8pVRDugg raises to 350
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 350
+jp @ m3-N51qfDy folds
+Flop:  [3♣, 3♠, 9♣]
+Sean @ pL8pVRDugg bets 350
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 350 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 790 from pot
+-- ending hand #6 --
+Undealt cards: 3♣, 3♠, 9♣ [Q♦, 7♠]
+jp @ m3-N51qfDy shows a 7♥, 7♦.
+-- starting hand #7  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (1950) | #2 Ryan @ htQeCcunRv (2180) | #3 boobs @ gV2_hmR6Ex (1270) | #10 jp @ m3-N51qfDy (3100)
+Your hand is 7♦, 5♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 60
+Flop:  [6♣, 9♦, 8♠]
+boobs @ gV2_hmR6Ex bets 80
+Sean @ pL8pVRDugg calls 80
+Turn: 6♣, 9♦, 8♠ [A♦]
+boobs @ gV2_hmR6Ex checks
+Sean @ pL8pVRDugg bets 95
+boobs @ gV2_hmR6Ex calls 95
+River: 6♣, 9♦, 8♠, A♦ [4♦]
+boobs @ gV2_hmR6Ex checks
+Sean @ pL8pVRDugg bets 230
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 230 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 480 from pot
+-- ending hand #7 --
+Ryan @ htQeCcunRv shows a 5♦, 2♦.
+-- starting hand #8  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2195) | #2 Ryan @ htQeCcunRv (2170) | #3 boobs @ gV2_hmR6Ex (1035) | #10 jp @ m3-N51qfDy (3100)
+Your hand is 9♥, 10♣
+boobs @ gV2_hmR6Ex posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy calls 60
+Flop:  [2♠, 6♠, 6♣]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv checks
+Turn: 2♠, 6♠, 6♣ [9♦]
+jp @ m3-N51qfDy bets 65
+Ryan @ htQeCcunRv folds
+Uncalled bet of 65 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 130 from pot
+-- ending hand #8 --
+Sean @ pL8pVRDugg shows a 6♥, 9♠.
+Undealt cards: 2♠, 6♠, 6♣, 9♦ [Q♦]
+-- starting hand #9  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2195) | #2 Ryan @ htQeCcunRv (2110) | #3 boobs @ gV2_hmR6Ex (1025) | #10 jp @ m3-N51qfDy (3170)
+Your hand is 5♥, J♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex calls 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [K♠, 10♣, 8♥]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 80
+boobs @ gV2_hmR6Ex calls 80
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 80
+Turn: K♠, 10♣, 8♥ [9♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 160
+boobs @ gV2_hmR6Ex folds
+Sean @ pL8pVRDugg calls 160
+River: K♠, 10♣, 8♥, 9♥ [Q♣]
+Sean @ pL8pVRDugg bets 400
+Ryan @ htQeCcunRv folds
+Uncalled bet of 400 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 640 from pot
+-- ending hand #9 --
+-- starting hand #10  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2575) | #2 Ryan @ htQeCcunRv (1850) | #3 boobs @ gV2_hmR6Ex (925) | #10 jp @ m3-N51qfDy (3150)
+Your hand is 4♠, Q♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [J♣, 5♦, 5♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Turn: J♣, 5♦, 5♥ [7♦]
+Sean @ pL8pVRDugg bets 25
+Ryan @ htQeCcunRv folds
+Uncalled bet of 25 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #10 --
+Sean @ pL8pVRDugg shows a 3♥, 5♣.
+-- starting hand #11  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2595) | #2 Ryan @ htQeCcunRv (1830) | #3 boobs @ gV2_hmR6Ex (925) | #10 jp @ m3-N51qfDy (3150)
+Your hand is 7♥, 10♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 20 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 40 from pot
+-- ending hand #11 --
+Undealt cards:  [Q♥, 8♣, 7♦, 3♣, A♣]
+-- starting hand #12  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2595) | #2 Ryan @ htQeCcunRv (1850) | #3 boobs @ gV2_hmR6Ex (905) | #10 jp @ m3-N51qfDy (3150)
+Your hand is 5♥, K♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Flop:  [4♦, 3♦, 7♦]
+Sean @ pL8pVRDugg bets 75
+Ryan @ htQeCcunRv calls 75
+Turn: 4♦, 3♦, 7♦ [6♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+River: 4♦, 3♦, 7♦, 6♦ [8♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Ryan @ htQeCcunRv shows a 6♥, K♠.
+Ryan @ htQeCcunRv collected 300 from pot with Pair, 6's (combination: 6♥, 6♦, K♠, 8♥, 7♦)
+Sean @ pL8pVRDugg shows a A♠, Q♥.
+-- ending hand #12 --
+jp @ m3-N51qfDy shows a 5♥, K♦.
+-- starting hand #13  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2460) | #2 Ryan @ htQeCcunRv (2015) | #3 boobs @ gV2_hmR6Ex (895) | #10 jp @ m3-N51qfDy (3130)
+Your hand is 10♥, 2♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 80
+boobs @ gV2_hmR6Ex calls 80
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 320
+Ryan @ htQeCcunRv calls 320
+boobs @ gV2_hmR6Ex calls 320
+Flop:  [Q♥, Q♠, Q♣]
+Sean @ pL8pVRDugg bets 575
+The player Nick @ mXtR2R3-I6 requested a seat.
+The admin approved the player Nick @ mXtR2R3-I6 participation with a stack of 2000.
+Ryan @ htQeCcunRv calls 575
+boobs @ gV2_hmR6Ex calls 575 and go all in
+Turn: Q♥, Q♠, Q♣ [6♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+River: Q♥, Q♠, Q♣, 6♥ [J♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 1120 and go all in
+Sean @ pL8pVRDugg folds
+Uncalled bet of 1120 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv shows a A♠, J♦.
+Ryan @ htQeCcunRv collected 2695 from pot with Full House, Q's over J's (combination: Q♥, Q♠, Q♣, J♦, J♣)
+boobs @ gV2_hmR6Ex shows a K♦, 2♦.
+-- ending hand #13 --
+The player boobs @ gV2_hmR6Ex quits the game with a stack of 0.
+The player Nick @ mXtR2R3-I6 joined the game with a stack of 2000.
+-- starting hand #14  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (1565) | #2 Ryan @ htQeCcunRv (3815) | #9 Nick @ mXtR2R3-I6 (2000) | #10 jp @ m3-N51qfDy (3120)
+Your hand is 2♠, 2♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+The player boobs @ gV2_hmR6Ex requested a seat.
+jp @ m3-N51qfDy calls 20
+The admin approved the player boobs @ gV2_hmR6Ex participation with a stack of 2000.
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [5♠, J♥, 7♦]
+Sean @ pL8pVRDugg bets 45
+Ryan @ htQeCcunRv calls 45
+jp @ m3-N51qfDy folds
+Turn: 5♠, J♥, 7♦ [J♣]
+Sean @ pL8pVRDugg bets 95
+Ryan @ htQeCcunRv calls 95
+River: 5♠, J♥, 7♦, J♣ [10♣]
+Sean @ pL8pVRDugg bets 270
+Ryan @ htQeCcunRv calls 270
+Ryan @ htQeCcunRv shows a 7♣, 10♠.
+Ryan @ htQeCcunRv collected 880 from pot with Two Pair, J's & 10's (combination: J♥, J♣, 10♠, 10♣, 7♣)
+Sean @ pL8pVRDugg shows a 6♦, 4♦.
+-- ending hand #14 --
+The player boobs @ gV2_hmR6Ex joined the game with a stack of 2000.
+-- starting hand #15  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (1135) | #2 Ryan @ htQeCcunRv (4265) | #3 boobs @ gV2_hmR6Ex (2000) | #9 Nick @ mXtR2R3-I6 (2000) | #10 jp @ m3-N51qfDy (3100)
+Your hand is 7♣, Q♣
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 50
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 50
+Flop:  [6♦, 4♠, 10♦]
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 bets 40
+boobs @ gV2_hmR6Ex calls 40
+Turn: 6♦, 4♠, 10♦ [9♠]
+boobs @ gV2_hmR6Ex bets 95
+Nick @ mXtR2R3-I6 raises to 300
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 205 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 380 from pot
+-- ending hand #15 --
+Nick @ mXtR2R3-I6 shows a K♣, K♠.
+-- starting hand #16  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (1135) | #2 Ryan @ htQeCcunRv (4255) | #3 boobs @ gV2_hmR6Ex (1815) | #9 Nick @ mXtR2R3-I6 (2195) | #10 jp @ m3-N51qfDy (3100)
+Your hand is Q♦, J♥
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy raises to 60
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 40 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 50 from pot
+-- ending hand #16 --
+Undealt cards:  [4♠, 4♥, 5♠, 10♥, 6♣]
+-- starting hand #17  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (1135) | #2 Ryan @ htQeCcunRv (4255) | #3 boobs @ gV2_hmR6Ex (1805) | #9 Nick @ mXtR2R3-I6 (2175) | #10 jp @ m3-N51qfDy (3130)
+Your hand is 4♠, 2♥
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex calls 40
+Nick @ mXtR2R3-I6 calls 40
+jp @ m3-N51qfDy folds
+Flop:  [A♦, 8♣, 2♣]
+Nick @ mXtR2R3-I6 checks
+Ryan @ htQeCcunRv bets 70
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 calls 70
+Turn: A♦, 8♣, 2♣ [2♠]
+Nick @ mXtR2R3-I6 checks
+Ryan @ htQeCcunRv bets 210
+Nick @ mXtR2R3-I6 calls 210
+River: A♦, 8♣, 2♣, 2♠ [9♦]
+Nick @ mXtR2R3-I6 bets 200
+Ryan @ htQeCcunRv calls 200
+Ryan @ htQeCcunRv shows a Q♣, A♣.
+Ryan @ htQeCcunRv collected 1100 from pot with Two Pair, A's & 2's (combination: A♣, A♦, 2♣, 2♠, Q♣)
+Nick @ mXtR2R3-I6 shows a A♥, 5♦.
+-- ending hand #17 --
+-- starting hand #18  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Sean @ pL8pVRDugg (1135) | #2 Ryan @ htQeCcunRv (4835) | #3 boobs @ gV2_hmR6Ex (1765) | #9 Nick @ mXtR2R3-I6 (1655) | #10 jp @ m3-N51qfDy (3110)
+Your hand is 6♦, 9♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex calls 60
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Flop:  [Q♣, A♠, 5♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Turn: Q♣, A♠, 5♠ [4♣]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 75
+Ryan @ htQeCcunRv folds
+Uncalled bet of 75 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 150 from pot
+-- ending hand #18 --
+Nick @ mXtR2R3-I6 shows a Q♠, 4♠.
+Undealt cards: Q♣, A♠, 5♠, 4♣ [A♦]
+-- starting hand #19  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (1115) | #2 Ryan @ htQeCcunRv (4775) | #3 boobs @ gV2_hmR6Ex (1855) | #9 Nick @ mXtR2R3-I6 (1655) | #10 jp @ m3-N51qfDy (3100)
+Your hand is 2♣, 6♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex raises to 40
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 40
+Flop:  [J♥, 3♥, 4♥]
+Ryan @ htQeCcunRv bets 60
+boobs @ gV2_hmR6Ex raises to 120
+Ryan @ htQeCcunRv calls 120
+Turn: J♥, 3♥, 4♥ [K♣]
+Ryan @ htQeCcunRv bets 330
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 330 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 330 from pot
+-- ending hand #19 --
+boobs @ gV2_hmR6Ex shows a A♦, A♣.
+Undealt cards: J♥, 3♥, 4♥, K♣ [J♠]
+-- starting hand #20  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (1105) | #2 Ryan @ htQeCcunRv (4945) | #3 boobs @ gV2_hmR6Ex (1695) | #9 Nick @ mXtR2R3-I6 (1655) | #10 jp @ m3-N51qfDy (3100)
+Your hand is 7♥, 9♣
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+boobs @ gV2_hmR6Ex folds
+Flop:  [8♥, 4♥, 4♦]
+Ryan @ htQeCcunRv checks
+Sean @ pL8pVRDugg bets 65
+Ryan @ htQeCcunRv raises to 130
+Sean @ pL8pVRDugg calls 130
+Turn: 8♥, 4♥, 4♦ [10♦]
+Ryan @ htQeCcunRv bets 400
+Sean @ pL8pVRDugg folds
+Uncalled bet of 400 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 400 from pot
+-- ending hand #20 --
+Undealt cards: 8♥, 4♥, 4♦, 10♦ [3♣]
+-- starting hand #21  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (915) | #2 Ryan @ htQeCcunRv (5155) | #3 boobs @ gV2_hmR6Ex (1675) | #9 Nick @ mXtR2R3-I6 (1655) | #10 jp @ m3-N51qfDy (3100)
+Your hand is 2♥, 9♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 20
+Nick @ mXtR2R3-I6 raises to 50
+boobs @ gV2_hmR6Ex calls 50
+Flop:  [K♠, 2♣, 5♦]
+boobs @ gV2_hmR6Ex checks
+WARNING: the admin queued the stack change for the player Sean @ pL8pVRDugg adding 1200 chips in the next hand.
+Nick @ mXtR2R3-I6 bets 65
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 65 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 100 from pot
+-- ending hand #21 --
+Undealt cards: K♠, 2♣, 5♦ [5♣, 10♥]
+The admin updated the player Sean @ pL8pVRDugg stack from 915 to 2115.
+-- starting hand #22  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2115) | #2 Ryan @ htQeCcunRv (5155) | #3 boobs @ gV2_hmR6Ex (1625) | #9 Nick @ mXtR2R3-I6 (1705) | #10 jp @ m3-N51qfDy (3100)
+Your hand is 10♦, A♦
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 60
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy raises to 140
+Sean @ pL8pVRDugg calls 140
+boobs @ gV2_hmR6Ex calls 140
+Flop:  [10♥, 5♥, 4♦]
+jp @ m3-N51qfDy bets 80
+Sean @ pL8pVRDugg folds
+boobs @ gV2_hmR6Ex calls 80
+Turn: 10♥, 5♥, 4♦ [5♣]
+jp @ m3-N51qfDy bets 120
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 120 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 590 from pot
+-- ending hand #22 --
+Undealt cards: 10♥, 5♥, 4♦, 5♣ [3♥]
+-- starting hand #23  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Sean @ pL8pVRDugg (1975) | #2 Ryan @ htQeCcunRv (5155) | #3 boobs @ gV2_hmR6Ex (1405) | #9 Nick @ mXtR2R3-I6 (1695) | #10 jp @ m3-N51qfDy (3470)
+Your hand is A♠, 9♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 raises to 50
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg calls 80
+Nick @ mXtR2R3-I6 calls 80
+Flop:  [Q♣, 8♦, 7♦]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 120
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 120
+Turn: Q♣, 8♦, 7♦ [J♣]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 200
+Sean @ pL8pVRDugg raises to 660
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 460 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 880 from pot
+-- ending hand #23 --
+Undealt cards: Q♣, 8♦, 7♦, J♣ [K♥]
+-- starting hand #24  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2455) | #2 Ryan @ htQeCcunRv (5155) | #3 boobs @ gV2_hmR6Ex (1405) | #9 Nick @ mXtR2R3-I6 (1295) | #10 jp @ m3-N51qfDy (3390)
+Your hand is 3♦, 5♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Nick @ mXtR2R3-I6 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv checks
+Flop:  [3♣, 7♠, 9♥]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 bets 25
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 25
+Turn: 3♣, 7♠, 9♥ [6♣]
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 bets 50
+boobs @ gV2_hmR6Ex raises to 215
+Nick @ mXtR2R3-I6 calls 215
+River: 3♣, 7♠, 9♥, 6♣ [6♠]
+boobs @ gV2_hmR6Ex bets 412
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 412 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 550 from pot
+-- ending hand #24 --
+-- starting hand #25  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2445) | #2 Ryan @ htQeCcunRv (5135) | #3 boobs @ gV2_hmR6Ex (1695) | #9 Nick @ mXtR2R3-I6 (1035) | #10 jp @ m3-N51qfDy (3390)
+Your hand is J♠, 2♣
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 60
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 60
+Flop:  [10♦, 6♣, Q♠]
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg checks
+Turn: 10♦, 6♣, Q♠ [7♦]
+boobs @ gV2_hmR6Ex bets 142
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg calls 142
+River: 10♦, 6♣, Q♠, 7♦ [J♣]
+boobs @ gV2_hmR6Ex bets 355
+Sean @ pL8pVRDugg raises to 1539
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 1184 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 1184 from pot
+-- ending hand #25 --
+Nick @ mXtR2R3-I6 shows a A♣, K♣.
+-- starting hand #26  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3072) | #2 Ryan @ htQeCcunRv (5125) | #3 boobs @ gV2_hmR6Ex (1138) | #9 Nick @ mXtR2R3-I6 (975) | #10 jp @ m3-N51qfDy (3390)
+Your hand is K♦, K♥
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg calls 80
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 folds
+Flop:  [6♥, 2♣, J♥]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg checks
+Turn: 6♥, 2♣, J♥ [8♦]
+jp @ m3-N51qfDy bets 95
+Sean @ pL8pVRDugg calls 95
+River: 6♥, 2♣, J♥, 8♦ [Q♣]
+jp @ m3-N51qfDy bets 285
+Sean @ pL8pVRDugg calls 285
+jp @ m3-N51qfDy shows a K♦, K♥.
+jp @ m3-N51qfDy collected 950 from pot with Pair, K's (combination: K♦, K♥, Q♣, J♥, 8♦)
+-- ending hand #26 --
+-- starting hand #27  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2612) | #2 Ryan @ htQeCcunRv (5125) | #3 boobs @ gV2_hmR6Ex (1128) | #9 Nick @ mXtR2R3-I6 (955) | #10 jp @ m3-N51qfDy (3880)
+Your hand is 3♠, J♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex calls 40
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Flop:  [Q♥, 4♠, 6♦]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Turn: Q♥, 4♠, 6♦ [10♦]
+Ryan @ htQeCcunRv bets 40
+boobs @ gV2_hmR6Ex calls 40
+River: Q♥, 4♠, 6♦, 10♦ [4♦]
+Ryan @ htQeCcunRv bets 55
+boobs @ gV2_hmR6Ex raises to 110
+Ryan @ htQeCcunRv raises to 520
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 410 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 410 from pot
+-- ending hand #27 --
+-- starting hand #28  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Sean @ pL8pVRDugg (2612) | #2 Ryan @ htQeCcunRv (5345) | #3 boobs @ gV2_hmR6Ex (938) | #9 Nick @ mXtR2R3-I6 (945) | #10 jp @ m3-N51qfDy (3860)
+Your hand is 8♠, 10♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 calls 40
+jp @ m3-N51qfDy calls 40
+Sean @ pL8pVRDugg folds
+Flop:  [J♠, 3♣, 4♠]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv bets 40
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy calls 40
+Turn: J♠, 3♣, 4♠ [8♥]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv checks
+River: J♠, 3♣, 4♠, 8♥ [Q♦]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy shows a 8♠, 10♠.
+jp @ m3-N51qfDy collected 220 from pot with Pair, 8's (combination: 8♠, 8♥, Q♦, J♠, 10♠)
+-- ending hand #28 --
+Ryan @ htQeCcunRv shows a A♠, K♠.
+-- starting hand #29  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2592) | #2 Ryan @ htQeCcunRv (5265) | #3 boobs @ gV2_hmR6Ex (938) | #9 Nick @ mXtR2R3-I6 (905) | #10 jp @ m3-N51qfDy (4000)
+Your hand is J♣, 6♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv checks
+Flop:  [2♦, 10♣, 5♥]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Turn: 2♦, 10♣, 5♥ [Q♣]
+Ryan @ htQeCcunRv bets 20
+boobs @ gV2_hmR6Ex calls 20
+River: 2♦, 10♣, 5♥, Q♣ [4♣]
+Ryan @ htQeCcunRv bets 67
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 67 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 90 from pot
+-- ending hand #29 --
+-- starting hand #30  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2582) | #2 Ryan @ htQeCcunRv (5315) | #3 boobs @ gV2_hmR6Ex (898) | #9 Nick @ mXtR2R3-I6 (905) | #10 jp @ m3-N51qfDy (4000)
+Your hand is 5♦, Q♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 50
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 50
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Flop:  [K♦, 5♠, 6♠]
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg bets 55
+Nick @ mXtR2R3-I6 calls 55
+Turn: K♦, 5♠, 6♠ [6♣]
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg bets 90
+Nick @ mXtR2R3-I6 raises to 250
+Sean @ pL8pVRDugg calls 250
+River: K♦, 5♠, 6♠, 6♣ [7♦]
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg checks
+Sean @ pL8pVRDugg shows a 9♦, K♠.
+Sean @ pL8pVRDugg collected 740 from pot with Two Pair, K's & 6's (combination: K♠, K♦, 6♠, 6♣, 9♦)
+Nick @ mXtR2R3-I6 shows a A♦, 10♦.
+-- ending hand #30 --
+-- starting hand #31  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2967) | #2 Ryan @ htQeCcunRv (5305) | #3 boobs @ gV2_hmR6Ex (878) | #9 Nick @ mXtR2R3-I6 (550) | #10 jp @ m3-N51qfDy (4000)
+Your hand is 10♠, 4♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex calls 40
+Nick @ mXtR2R3-I6 calls 40
+Flop:  [J♥, 6♥, 8♣]
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 checks
+Ryan @ htQeCcunRv bets 60
+boobs @ gV2_hmR6Ex raises to 120
+Nick @ mXtR2R3-I6 folds
+Ryan @ htQeCcunRv calls 120
+Turn: J♥, 6♥, 8♣ [3♥]
+boobs @ gV2_hmR6Ex bets 180
+Ryan @ htQeCcunRv folds
+Uncalled bet of 180 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 360 from pot
+-- ending hand #31 --
+Undealt cards: J♥, 6♥, 8♣, 3♥ [A♦]
+-- starting hand #32  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2967) | #2 Ryan @ htQeCcunRv (5145) | #3 boobs @ gV2_hmR6Ex (1078) | #9 Nick @ mXtR2R3-I6 (510) | #10 jp @ m3-N51qfDy (4000)
+Your hand is 7♠, J♦
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 10 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 20 from pot
+-- ending hand #32 --
+jp @ m3-N51qfDy shows a 7♠, J♦.
+Undealt cards:  [9♦, 8♣, 7♥, 8♠, 10♥]
+Sean @ pL8pVRDugg shows a 5♣, 10♠.
+-- starting hand #33  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Sean @ pL8pVRDugg (2967) | #2 Ryan @ htQeCcunRv (5145) | #3 boobs @ gV2_hmR6Ex (1078) | #9 Nick @ mXtR2R3-I6 (500) | #10 jp @ m3-N51qfDy (4010)
+Your hand is 6♥, 9♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 100
+boobs @ gV2_hmR6Ex calls 100
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Flop:  [8♠, 3♥, 8♥]
+Ryan @ htQeCcunRv bets 95
+boobs @ gV2_hmR6Ex raises to 190
+Ryan @ htQeCcunRv calls 190
+Turn: 8♠, 3♥, 8♥ [J♦]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 100
+Ryan @ htQeCcunRv raises to 910
+boobs @ gV2_hmR6Ex calls 788 and go all in
+Remaining players decide whether to run it twice.
+boobs @ gV2_hmR6Ex shows a 8♦, K♥.
+boobs @ gV2_hmR6Ex chooses to  run it twice.
+Ryan @ htQeCcunRv chooses to not run it twice.
+Some players choose to not run it twice.
+Uncalled bet of 122 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv shows a J♣, A♥.
+boobs @ gV2_hmR6Ex shows a 8♦, K♥.
+River: 8♠, 3♥, 8♥, J♦ [Q♠]
+boobs @ gV2_hmR6Ex collected 2186 from pot with Three of a Kind, 8's (combination: 8♦, 8♠, 8♥, K♥, Q♠)
+-- ending hand #33 --
+-- starting hand #34  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2947) | #2 Ryan @ htQeCcunRv (4067) | #3 boobs @ gV2_hmR6Ex (2186) | #9 Nick @ mXtR2R3-I6 (500) | #10 jp @ m3-N51qfDy (4000)
+Your hand is A♦, K♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Nick @ mXtR2R3-I6 calls 20
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 80
+boobs @ gV2_hmR6Ex calls 80
+Nick @ mXtR2R3-I6 calls 80
+Flop:  [Q♣, 3♥, 4♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 checks
+jp @ m3-N51qfDy checks
+Turn: Q♣, 3♥, 4♠ [9♣]
+Ryan @ htQeCcunRv bets 60
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy calls 60
+River: Q♣, 3♥, 4♠, 9♣ [2♣]
+Ryan @ htQeCcunRv bets 225
+jp @ m3-N51qfDy folds
+Uncalled bet of 225 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 450 from pot
+-- ending hand #34 --
+Sean @ pL8pVRDugg shows a 9♥, 4♦.
+-- starting hand #35  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2937) | #2 Ryan @ htQeCcunRv (4377) | #3 boobs @ gV2_hmR6Ex (2106) | #9 Nick @ mXtR2R3-I6 (420) | #10 jp @ m3-N51qfDy (3860)
+Your hand is 9♣, 10♦
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 40
+jp @ m3-N51qfDy calls 40
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 40
+boobs @ gV2_hmR6Ex calls 40
+Flop:  [7♦, 6♦, 8♦]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 bets 100
+jp @ m3-N51qfDy raises to 375
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex raises to 650
+Nick @ mXtR2R3-I6 calls 380 and go all in
+jp @ m3-N51qfDy calls 650
+Turn: 7♦, 6♦, 8♦ [2♥]
+boobs @ gV2_hmR6Ex bets 1380
+jp @ m3-N51qfDy calls 1380
+River: 7♦, 6♦, 8♦, 2♥ [3♥]
+boobs @ gV2_hmR6Ex bets 36 and go all in
+jp @ m3-N51qfDy calls 36
+boobs @ gV2_hmR6Ex shows a 3♦, K♦.
+boobs @ gV2_hmR6Ex collected 1300 from pot with Flush, Kd High (combination: K♦, 8♦, 7♦, 6♦, 3♦)
+boobs @ gV2_hmR6Ex collected 3372 from pot with Flush, Kd High (combination: K♦, 8♦, 7♦, 6♦, 3♦)
+Nick @ mXtR2R3-I6 shows a 5♣, 5♦.
+jp @ m3-N51qfDy shows a 9♣, 10♦.
+-- ending hand #35 --
+The player Nick @ mXtR2R3-I6 quits the game with a stack of 0.
+-- starting hand #36  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2937) | #2 Ryan @ htQeCcunRv (4337) | #3 boobs @ gV2_hmR6Ex (4672) | #10 jp @ m3-N51qfDy (1754)
+Your hand is 4♥, 3♥
+boobs @ gV2_hmR6Ex posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex calls 20
+The player Nick @ mXtR2R3-I6 requested a seat.
+The admin approved the player Nick @ mXtR2R3-I6 participation with a stack of 1000.
+jp @ m3-N51qfDy checks
+Flop:  [2♠, 5♥, 2♣]
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy bets 80
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 80
+Turn: 2♠, 5♥, 2♣ [J♥]
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy checks
+River: 2♠, 5♥, 2♣, J♥ [Q♥]
+boobs @ gV2_hmR6Ex bets 110
+jp @ m3-N51qfDy raises to 300
+WARNING: the admin queued the stack change for the player Nick @ mXtR2R3-I6 adding 1000 chips in the next hand.
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 190 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 440 from pot
+-- ending hand #36 --
+The admin updated the player Nick @ mXtR2R3-I6 stack from 1000 to 2000.
+-- starting hand #37  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2937) | #2 Ryan @ htQeCcunRv (4317) | #3 boobs @ gV2_hmR6Ex (4462) | #10 jp @ m3-N51qfDy (1984)
+Your hand is 9♠, 3♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [7♦, 8♦, A♠]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 25
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 25 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 60 from pot
+-- ending hand #37 --
+Undealt cards: 7♦, 8♦, A♠ [9♥, J♥]
+The player Nick @ mXtR2R3-I6 joined the game with a stack of 2000.
+-- starting hand #38  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2977) | #2 Ryan @ htQeCcunRv (4297) | #3 boobs @ gV2_hmR6Ex (4462) | #9 Nick @ mXtR2R3-I6 (2000) | #10 jp @ m3-N51qfDy (1964)
+Your hand is J♦, Q♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Nick @ mXtR2R3-I6 raises to 80
+jp @ m3-N51qfDy calls 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 80
+boobs @ gV2_hmR6Ex calls 80
+Flop:  [10♥, J♣, J♠]
+Ryan @ htQeCcunRv bets 40
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 calls 40
+jp @ m3-N51qfDy raises to 100
+Ryan @ htQeCcunRv folds
+Nick @ mXtR2R3-I6 raises to 300
+jp @ m3-N51qfDy raises to 620
+Nick @ mXtR2R3-I6 raises to 1920 and go all in
+jp @ m3-N51qfDy calls 1884 and go all in
+Remaining players decide whether to run it twice.
+Nick @ mXtR2R3-I6 chooses to not run it twice.
+Some players choose to not run it twice.
+Uncalled bet of 36 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 shows a 10♦, 10♣.
+jp @ m3-N51qfDy shows a J♦, Q♦.
+Turn: 10♥, J♣, J♠ [Q♠]
+River: 10♥, J♣, J♠, Q♠ [3♥]
+jp @ m3-N51qfDy collected 4138 from pot with Full House, J's over Q's (combination: J♦, J♣, J♠, Q♦, Q♠)
+-- ending hand #38 --
+-- starting hand #39  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2967) | #2 Ryan @ htQeCcunRv (4177) | #3 boobs @ gV2_hmR6Ex (4382) | #9 Nick @ mXtR2R3-I6 (36) | #10 jp @ m3-N51qfDy (4138)
+Your hand is 4♠, 8♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 36 and go all in
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 95
+Ryan @ htQeCcunRv calls 95
+boobs @ gV2_hmR6Ex calls 95
+Flop:  [5♦, Q♦, K♣]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Sean @ pL8pVRDugg bets 110
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Remaining players decide whether to run it twice.
+Sean @ pL8pVRDugg chooses to  run it twice.
+Nick @ mXtR2R3-I6 chooses to not run it twice.
+Some players choose to not run it twice.
+Uncalled bet of 110 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg shows a 9♣, 9♥.
+Nick @ mXtR2R3-I6 shows a J♣, 10♦.
+Turn: 5♦, Q♦, K♣ [10♣]
+River: 5♦, Q♦, K♣, 10♣ [8♥]
+Nick @ mXtR2R3-I6 collected 144 from pot with Pair, 10's (combination: 10♦, 10♣, K♣, Q♦, J♣)
+Sean @ pL8pVRDugg collected 177 from pot with Pair, 9's (combination: 9♣, 9♥, K♣, Q♦, 10♣)
+-- ending hand #39 --
+-- starting hand #40  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3049) | #2 Ryan @ htQeCcunRv (4082) | #3 boobs @ gV2_hmR6Ex (4287) | #9 Nick @ mXtR2R3-I6 (144) | #10 jp @ m3-N51qfDy (4138)
+Your hand is 3♣, 8♥
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 10 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 20 from pot
+-- ending hand #40 --
+-- starting hand #41  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (3049) | #2 Ryan @ htQeCcunRv (4082) | #3 boobs @ gV2_hmR6Ex (4277) | #9 Nick @ mXtR2R3-I6 (154) | #10 jp @ m3-N51qfDy (4138)
+Your hand is 3♥, Q♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 60
+Nick @ mXtR2R3-I6 raises to 154 and go all in
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 400
+boobs @ gV2_hmR6Ex folds
+Remaining players decide whether to run it twice.
+Sean @ pL8pVRDugg chooses to not run it twice.
+Some players choose to not run it twice.
+Uncalled bet of 246 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg shows a K♦, A♣.
+Nick @ mXtR2R3-I6 shows a 10♠, K♣.
+Flop:  [J♣, 9♠, 6♣]
+Turn: J♣, 9♠, 6♣ [9♥]
+River: J♣, 9♠, 6♣, 9♥ [K♠]
+Sean @ pL8pVRDugg collected 388 from pot with Two Pair, K's & 9's (combination: K♦, K♠, 9♠, 9♥, A♣)
+-- ending hand #41 --
+The player Nick @ mXtR2R3-I6 quits the game with a stack of 0.
+-- starting hand #42  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #1 Sean @ pL8pVRDugg (3283) | #2 Ryan @ htQeCcunRv (4082) | #3 boobs @ gV2_hmR6Ex (4217) | #10 jp @ m3-N51qfDy (4118)
+Your hand is K♠, 9♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 100
+boobs @ gV2_hmR6Ex calls 100
+jp @ m3-N51qfDy calls 100
+Sean @ pL8pVRDugg folds
+Flop:  [3♦, 8♥, 2♦]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv bets 160
+boobs @ gV2_hmR6Ex calls 160
+jp @ m3-N51qfDy folds
+Turn: 3♦, 8♥, 2♦ [3♥]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 320
+Ryan @ htQeCcunRv folds
+Uncalled bet of 320 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 640 from pot
+-- ending hand #42 --
+boobs @ gV2_hmR6Ex shows a 8♠, 7♦.
+-- starting hand #43  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3263) | #2 Ryan @ htQeCcunRv (3822) | #3 boobs @ gV2_hmR6Ex (4597) | #10 jp @ m3-N51qfDy (4018)
+Your hand is Q♠, 5♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [5♠, K♣, 2♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Turn: 5♠, K♣, 2♦ [7♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 60
+boobs @ gV2_hmR6Ex calls 60
+Sean @ pL8pVRDugg folds
+River: 5♠, K♣, 2♦, 7♦ [10♣]
+Ryan @ htQeCcunRv bets 70
+boobs @ gV2_hmR6Ex calls 70
+Ryan @ htQeCcunRv shows a 7♣, 10♠.
+Ryan @ htQeCcunRv collected 320 from pot with Two Pair, 10's & 7's (combination: 10♠, 10♣, 7♣, 7♦, K♣)
+-- ending hand #43 --
+-- starting hand #44  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3243) | #2 Ryan @ htQeCcunRv (3992) | #3 boobs @ gV2_hmR6Ex (4447) | #10 jp @ m3-N51qfDy (4018)
+Your hand is 8♦, 5♥
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 80
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 80
+Flop:  [6♣, J♦, 3♦]
+boobs @ gV2_hmR6Ex checks
+Sean @ pL8pVRDugg bets 140
+boobs @ gV2_hmR6Ex calls 140
+Turn: 6♣, J♦, 3♦ [Q♣]
+boobs @ gV2_hmR6Ex bets 200
+Sean @ pL8pVRDugg folds
+Uncalled bet of 200 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 450 from pot
+-- ending hand #44 --
+Undealt cards: 6♣, J♦, 3♦, Q♣ [6♥]
+boobs @ gV2_hmR6Ex shows a 6♠, J♥.
+-- starting hand #45  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3023) | #2 Ryan @ htQeCcunRv (3982) | #3 boobs @ gV2_hmR6Ex (4677) | #10 jp @ m3-N51qfDy (4018)
+Your hand is 7♠, 7♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex calls 40
+jp @ m3-N51qfDy raises to 80
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 80
+Flop:  [8♠, 9♠, 6♠]
+boobs @ gV2_hmR6Ex bets 100
+jp @ m3-N51qfDy calls 100
+Turn: 8♠, 9♠, 6♠ [2♥]
+boobs @ gV2_hmR6Ex bets 150
+jp @ m3-N51qfDy calls 150
+River: 8♠, 9♠, 6♠, 2♥ [6♣]
+boobs @ gV2_hmR6Ex bets 200
+jp @ m3-N51qfDy calls 200
+jp @ m3-N51qfDy shows a 7♠, 7♦.
+jp @ m3-N51qfDy collected 1100 from pot with Two Pair, 7's & 6's (combination: 7♠, 7♦, 6♠, 6♣, 9♠)
+boobs @ gV2_hmR6Ex shows a Q♠, 5♣.
+-- ending hand #45 --
+-- starting hand #46  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (3023) | #2 Ryan @ htQeCcunRv (3942) | #3 boobs @ gV2_hmR6Ex (4147) | #10 jp @ m3-N51qfDy (4588)
+Your hand is 8♦, 4♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex calls 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [Q♣, K♥, 2♠]
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv bets 40
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 40 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 80 from pot
+-- ending hand #46 --
+Ryan @ htQeCcunRv shows a 2♥, Q♠.
+Undealt cards: Q♣, K♥, 2♠ [7♦, J♣]
+boobs @ gV2_hmR6Ex shows a J♥, 7♣.
+-- starting hand #47  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3003) | #2 Ryan @ htQeCcunRv (4002) | #3 boobs @ gV2_hmR6Ex (4127) | #10 jp @ m3-N51qfDy (4568)
+Your hand is 5♦, Q♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv checks
+Flop:  [3♣, 7♥, 7♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy checks
+Turn: 3♣, 7♥, 7♠ [9♠]
+Ryan @ htQeCcunRv bets 20
+boobs @ gV2_hmR6Ex calls 20
+jp @ m3-N51qfDy calls 20
+River: 3♣, 7♥, 7♠, 9♠ [2♠]
+Ryan @ htQeCcunRv bets 97
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 97 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 130 from pot
+-- ending hand #47 --
+-- starting hand #48  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2993) | #2 Ryan @ htQeCcunRv (4092) | #3 boobs @ gV2_hmR6Ex (4087) | #10 jp @ m3-N51qfDy (4528)
+Your hand is 5♥, A♣
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex checks
+Flop:  [7♣, A♥, 2♦]
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy checks
+Turn: 7♣, A♥, 2♦ [4♥]
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy checks
+River: 7♣, A♥, 2♦, 4♥ [7♥]
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy checks
+jp @ m3-N51qfDy shows a 5♥, A♣.
+jp @ m3-N51qfDy collected 60 from pot with Two Pair, A's & 7's (combination: A♣, A♥, 7♣, 7♥, 5♥)
+boobs @ gV2_hmR6Ex shows a 6♦, 8♦.
+-- ending hand #48 --
+-- starting hand #49  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2993) | #2 Ryan @ htQeCcunRv (4072) | #3 boobs @ gV2_hmR6Ex (4067) | #10 jp @ m3-N51qfDy (4568)
+Your hand is K♦, 2♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex calls 40
+jp @ m3-N51qfDy calls 40
+Flop:  [6♠, A♣, A♥]
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv checks
+Turn: 6♠, A♣, A♥ [10♣]
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv checks
+River: 6♠, A♣, A♥, 10♣ [9♠]
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy bets 60
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 60
+jp @ m3-N51qfDy shows a K♦, 2♦.
+jp @ m3-N51qfDy collected 240 from pot with Pair, A's (combination: A♣, A♥, K♦, 10♣, 9♠)
+-- ending hand #49 --
+boobs @ gV2_hmR6Ex shows a J♦, 4♦.
+-- starting hand #50  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2993) | #2 Ryan @ htQeCcunRv (4032) | #3 boobs @ gV2_hmR6Ex (3967) | #10 jp @ m3-N51qfDy (4708)
+Your hand is 6♥, Q♣
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex calls 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [K♠, K♦, 8♠]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 55
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 55
+jp @ m3-N51qfDy folds
+Turn: K♠, K♦, 8♠ [3♣]
+Sean @ pL8pVRDugg bets 120
+boobs @ gV2_hmR6Ex raises to 240
+Sean @ pL8pVRDugg folds
+Uncalled bet of 120 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 430 from pot
+-- ending hand #50 --
+Undealt cards: K♠, K♦, 8♠, 3♣ [9♠]
+boobs @ gV2_hmR6Ex shows a 3♦, 3♥.
+-- starting hand #51  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2798) | #2 Ryan @ htQeCcunRv (4012) | #3 boobs @ gV2_hmR6Ex (4202) | #10 jp @ m3-N51qfDy (4688)
+Your hand is 7♣, 6♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 80
+Ryan @ htQeCcunRv calls 80
+boobs @ gV2_hmR6Ex calls 80
+Flop:  [9♦, J♥, 2♣]
+Sean @ pL8pVRDugg bets 90
+Ryan @ htQeCcunRv calls 90
+boobs @ gV2_hmR6Ex calls 90
+Turn: 9♦, J♥, 2♣ [Q♠]
+Sean @ pL8pVRDugg bets 390
+The player Nick @ mXtR2R3-I6 requested a seat.
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 390 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 510 from pot
+-- ending hand #51 --
+The admin approved the player Nick @ mXtR2R3-I6 participation with a stack of 2000.
+Undealt cards: 9♦, J♥, 2♣, Q♠ [9♠]
+boobs @ gV2_hmR6Ex shows a 8♦, 9♣.
+The player Nick @ mXtR2R3-I6 joined the game with a stack of 2000.
+-- starting hand #52  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3138) | #2 Ryan @ htQeCcunRv (3842) | #3 boobs @ gV2_hmR6Ex (4032) | #9 Nick @ mXtR2R3-I6 (2000) | #10 jp @ m3-N51qfDy (4688)
+Your hand is Q♦, 7♦
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex calls 60
+jp @ m3-N51qfDy calls 60
+Flop:  [8♣, 3♥, Q♣]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 135
+jp @ m3-N51qfDy raises to 270
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex raises to 405
+jp @ m3-N51qfDy calls 405
+Turn: 8♣, 3♥, Q♣ [K♥]
+boobs @ gV2_hmR6Ex bets 495
+jp @ m3-N51qfDy folds
+Uncalled bet of 495 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 990 from pot
+-- ending hand #52 --
+boobs @ gV2_hmR6Ex shows a 3♦, 3♠.
+jp @ m3-N51qfDy shows a Q♦, 7♦.
+Undealt cards: 8♣, 3♥, Q♣, K♥ [9♣]
+-- starting hand #53  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3138) | #2 Ryan @ htQeCcunRv (3782) | #3 boobs @ gV2_hmR6Ex (4557) | #9 Nick @ mXtR2R3-I6 (2000) | #10 jp @ m3-N51qfDy (4223)
+Your hand is 10♦, 2♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+boobs @ gV2_hmR6Ex calls 60
+Nick @ mXtR2R3-I6 calls 60
+Flop:  [7♥, 5♠, A♠]
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 bets 100
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 100 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 240 from pot
+-- ending hand #53 --
+Undealt cards: 7♥, 5♠, A♠ [8♠, 4♦]
+-- starting hand #54  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (3078) | #2 Ryan @ htQeCcunRv (3722) | #3 boobs @ gV2_hmR6Ex (4497) | #9 Nick @ mXtR2R3-I6 (2180) | #10 jp @ m3-N51qfDy (4223)
+Your hand is J♥, 3♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 20
+Nick @ mXtR2R3-I6 calls 20
+jp @ m3-N51qfDy checks
+Flop:  [5♠, 2♣, 9♣]
+Nick @ mXtR2R3-I6 checks
+jp @ m3-N51qfDy checks
+boobs @ gV2_hmR6Ex checks
+Turn: 5♠, 2♣, 9♣ [7♥]
+Nick @ mXtR2R3-I6 bets 25
+jp @ m3-N51qfDy folds
+boobs @ gV2_hmR6Ex calls 25
+River: 5♠, 2♣, 9♣, 7♥ [6♣]
+Nick @ mXtR2R3-I6 bets 55
+boobs @ gV2_hmR6Ex raises to 200
+Nick @ mXtR2R3-I6 calls 200
+Nick @ mXtR2R3-I6 shows a 8♠, 10♠.
+Nick @ mXtR2R3-I6 collected 510 from pot with Straight, 10 High (combination: 10♠, 9♣, 8♠, 7♥, 6♣)
+boobs @ gV2_hmR6Ex shows a 6♦, 6♠.
+-- ending hand #54 --
+-- starting hand #55  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Sean @ pL8pVRDugg (3078) | #2 Ryan @ htQeCcunRv (3722) | #3 boobs @ gV2_hmR6Ex (4252) | #9 Nick @ mXtR2R3-I6 (2445) | #10 jp @ m3-N51qfDy (4203)
+Your hand is J♣, 8♣
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 80
+boobs @ gV2_hmR6Ex calls 80
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy calls 80
+Sean @ pL8pVRDugg calls 80
+Flop:  [5♠, Q♦, 2♠]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 80
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Uncalled bet of 80 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 320 from pot
+-- ending hand #55 --
+Undealt cards: 5♠, Q♦, 2♠ [2♣, 10♥]
+-- starting hand #56  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2998) | #2 Ryan @ htQeCcunRv (3962) | #3 boobs @ gV2_hmR6Ex (4172) | #9 Nick @ mXtR2R3-I6 (2445) | #10 jp @ m3-N51qfDy (4123)
+Your hand is Q♦, 7♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv raises to 80
+boobs @ gV2_hmR6Ex calls 80
+Sean @ pL8pVRDugg calls 80
+Flop:  [2♦, 8♠, 6♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 80 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 240 from pot
+-- ending hand #56 --
+Undealt cards: 2♦, 8♠, 6♦ [Q♣, 9♣]
+boobs @ gV2_hmR6Ex shows a A♦, 4♦.
+-- starting hand #57  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2918) | #2 Ryan @ htQeCcunRv (3882) | #3 boobs @ gV2_hmR6Ex (4332) | #9 Nick @ mXtR2R3-I6 (2445) | #10 jp @ m3-N51qfDy (4123)
+Your hand is A♣, 8♦
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 posts a straddle of 40
+jp @ m3-N51qfDy calls 40
+Sean @ pL8pVRDugg calls 40
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 40
+Nick @ mXtR2R3-I6 checks
+Flop:  [2♣, 4♥, K♥]
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 checks
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 90
+boobs @ gV2_hmR6Ex calls 90
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Turn: 2♣, 4♥, K♥ [7♣]
+boobs @ gV2_hmR6Ex bets 80
+Sean @ pL8pVRDugg raises to 390
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 310 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 510 from pot
+-- ending hand #57 --
+Undealt cards: 2♣, 4♥, K♥, 7♣ [Q♠]
+-- starting hand #58  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3218) | #2 Ryan @ htQeCcunRv (3872) | #3 boobs @ gV2_hmR6Ex (4122) | #9 Nick @ mXtR2R3-I6 (2405) | #10 jp @ m3-N51qfDy (4083)
+Your hand is A♦, 3♣
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy posts a straddle of 40
+Sean @ pL8pVRDugg raises to 120
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 120
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Flop:  [3♦, J♠, 4♦]
+boobs @ gV2_hmR6Ex bets 95
+Sean @ pL8pVRDugg raises to 330
+boobs @ gV2_hmR6Ex raises to 565
+Sean @ pL8pVRDugg folds
+Uncalled bet of 235 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 960 from pot
+-- ending hand #58 --
+Undealt cards: 3♦, J♠, 4♦ [J♥, K♣]
+boobs @ gV2_hmR6Ex shows a 4♠, J♣.
+-- starting hand #59  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2768) | #2 Ryan @ htQeCcunRv (3872) | #3 boobs @ gV2_hmR6Ex (4632) | #9 Nick @ mXtR2R3-I6 (2385) | #10 jp @ m3-N51qfDy (4043)
+Your hand is 7♦, 10♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 40
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg checks
+Flop:  [A♥, J♦, A♣]
+Sean @ pL8pVRDugg checks
+boobs @ gV2_hmR6Ex checks
+Turn: A♥, J♦, A♣ [9♣]
+Sean @ pL8pVRDugg bets 55
+boobs @ gV2_hmR6Ex calls 55
+River: A♥, J♦, A♣, 9♣ [2♣]
+Sean @ pL8pVRDugg bets 90
+boobs @ gV2_hmR6Ex calls 90
+Sean @ pL8pVRDugg shows a 9♥, 6♦.
+Sean @ pL8pVRDugg collected 400 from pot with Two Pair, A's & 9's (combination: A♥, A♣, 9♥, 9♣, J♦)
+-- ending hand #59 --
+boobs @ gV2_hmR6Ex shows a 10♥, K♠.
+-- starting hand #60  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Sean @ pL8pVRDugg (2983) | #2 Ryan @ htQeCcunRv (3872) | #3 boobs @ gV2_hmR6Ex (4447) | #9 Nick @ mXtR2R3-I6 (2375) | #10 jp @ m3-N51qfDy (4023)
+Your hand is A♥, 7♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv posts a straddle of 40
+boobs @ gV2_hmR6Ex calls 40
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 80
+boobs @ gV2_hmR6Ex calls 80
+Flop:  [10♦, A♣, 5♠]
+jp @ m3-N51qfDy bets 260
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 260
+Turn: 10♦, A♣, 5♠ [8♥]
+jp @ m3-N51qfDy bets 780
+boobs @ gV2_hmR6Ex calls 780
+River: 10♦, A♣, 5♠, 8♥ [7♦]
+jp @ m3-N51qfDy bets 2903 and go all in
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 2903 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 2340 from pot
+-- ending hand #60 --
+Sean @ pL8pVRDugg shows a 10♠, 7♣.
+boobs @ gV2_hmR6Ex shows a 5♣, 5♦.
+jp @ m3-N51qfDy shows a A♥, 7♠.
+-- starting hand #61  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2963) | #2 Ryan @ htQeCcunRv (3792) | #3 boobs @ gV2_hmR6Ex (3327) | #9 Nick @ mXtR2R3-I6 (2375) | #10 jp @ m3-N51qfDy (5243)
+Your hand is Q♦, 10♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg raises to 100
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 100
+jp @ m3-N51qfDy calls 100
+Flop:  [6♦, 5♠, 5♥]
+Sean @ pL8pVRDugg bets 220
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 220 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 320 from pot
+-- ending hand #61 --
+Undealt cards: 6♦, 5♠, 5♥ [9♠, 3♠]
+-- starting hand #62  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3183) | #2 Ryan @ htQeCcunRv (3772) | #3 boobs @ gV2_hmR6Ex (3227) | #9 Nick @ mXtR2R3-I6 (2375) | #10 jp @ m3-N51qfDy (5143)
+Your hand is 5♦, Q♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex checks
+Flop:  [6♦, 10♥, 10♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 bets 40
+Sean @ pL8pVRDugg calls 40
+Ryan @ htQeCcunRv calls 40
+boobs @ gV2_hmR6Ex calls 40
+Turn: 6♦, 10♥, 10♠ [10♦]
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex bets 300
+Nick @ mXtR2R3-I6 calls 300
+Sean @ pL8pVRDugg calls 300
+River: 6♦, 10♥, 10♠, 10♦ [J♥]
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg checks
+boobs @ gV2_hmR6Ex shows a 6♥, 2♣.
+boobs @ gV2_hmR6Ex collected 570 from pot with Full House, 10's over 6's (combination: 10♥, 10♠, 10♦, 6♥, 6♦)
+Nick @ mXtR2R3-I6 shows a 6♠, K♠.
+Nick @ mXtR2R3-I6 collected 570 from pot with Full House, 10's over 6's (combination: 10♥, 10♠, 10♦, 6♠, 6♦)
+-- ending hand #62 --
+-- starting hand #63  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2823) | #2 Ryan @ htQeCcunRv (3712) | #3 boobs @ gV2_hmR6Ex (3437) | #9 Nick @ mXtR2R3-I6 (2585) | #10 jp @ m3-N51qfDy (5143)
+Your hand is 5♥, K♠
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy posts a straddle of 40
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 40
+boobs @ gV2_hmR6Ex calls 40
+Nick @ mXtR2R3-I6 calls 40
+jp @ m3-N51qfDy checks
+Flop:  [Q♣, Q♠, 4♠]
+boobs @ gV2_hmR6Ex checks
+Nick @ mXtR2R3-I6 checks
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv bets 40
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 40 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 160 from pot
+-- ending hand #63 --
+Undealt cards: Q♣, Q♠, 4♠ [8♥, 7♣]
+-- starting hand #64  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2823) | #2 Ryan @ htQeCcunRv (3832) | #3 boobs @ gV2_hmR6Ex (3397) | #9 Nick @ mXtR2R3-I6 (2545) | #10 jp @ m3-N51qfDy (5103)
+Your hand is K♥, Q♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex raises to 60
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy calls 60
+Sean @ pL8pVRDugg raises to 190
+boobs @ gV2_hmR6Ex calls 190
+jp @ m3-N51qfDy calls 190
+Flop:  [7♣, J♦, A♦]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 200
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 200 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 580 from pot
+-- ending hand #64 --
+Undealt cards: 7♣, J♦, A♦ [4♠, A♠]
+Nick @ mXtR2R3-I6 shows a K♦, 6♦.
+-- starting hand #65  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Sean @ pL8pVRDugg (3213) | #2 Ryan @ htQeCcunRv (3832) | #3 boobs @ gV2_hmR6Ex (3207) | #9 Nick @ mXtR2R3-I6 (2535) | #10 jp @ m3-N51qfDy (4913)
+Your hand is 9♠, 7♣
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv posts a straddle of 40
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 40
+Ryan @ htQeCcunRv checks
+Flop:  [J♠, 10♠, 3♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 20
+Sean @ pL8pVRDugg folds
+Uncalled bet of 20 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 90 from pot
+-- ending hand #65 --
+Undealt cards: J♠, 10♠, 3♣ [5♣, 6♣]
+-- starting hand #66  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3173) | #2 Ryan @ htQeCcunRv (3882) | #3 boobs @ gV2_hmR6Ex (3207) | #9 Nick @ mXtR2R3-I6 (2535) | #10 jp @ m3-N51qfDy (4903)
+Your hand is 9♥, Q♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv checks
+Flop:  [8♥, J♦, 2♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy checks
+Turn: 8♥, J♦, 2♠ [8♦]
+Ryan @ htQeCcunRv bets 40
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 40 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 70 from pot
+-- ending hand #66 --
+Undealt cards: 8♥, J♦, 2♠, 8♦ [A♦]
+-- starting hand #67  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3163) | #2 Ryan @ htQeCcunRv (3932) | #3 boobs @ gV2_hmR6Ex (3187) | #9 Nick @ mXtR2R3-I6 (2535) | #10 jp @ m3-N51qfDy (4883)
+Your hand is K♥, 10♣
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy raises to 60
+Sean @ pL8pVRDugg calls 60
+Ryan @ htQeCcunRv calls 60
+boobs @ gV2_hmR6Ex calls 60
+Flop:  [2♣, 4♣, 2♦]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy bets 120
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 120 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 240 from pot
+-- ending hand #67 --
+Undealt cards: 2♣, 4♣, 2♦ [K♠, K♦]
+jp @ m3-N51qfDy shows a K♥, 10♣.
+-- starting hand #68  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3103) | #2 Ryan @ htQeCcunRv (3872) | #3 boobs @ gV2_hmR6Ex (3127) | #9 Nick @ mXtR2R3-I6 (2535) | #10 jp @ m3-N51qfDy (5063)
+Your hand is 10♣, 5♠
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy posts a straddle of 40
+Sean @ pL8pVRDugg raises to 100
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 100
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Flop:  [6♠, 4♥, Q♦]
+boobs @ gV2_hmR6Ex checks
+Sean @ pL8pVRDugg bets 80
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 80 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 260 from pot
+-- ending hand #68 --
+Undealt cards: 6♠, 4♥, Q♦ [J♠, 3♥]
+-- starting hand #69  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (3263) | #2 Ryan @ htQeCcunRv (3872) | #3 boobs @ gV2_hmR6Ex (3027) | #9 Nick @ mXtR2R3-I6 (2515) | #10 jp @ m3-N51qfDy (5023)
+Your hand is 5♥, J♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex calls 60
+Nick @ mXtR2R3-I6 calls 60
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 60
+Flop:  [7♥, 8♥, 10♠]
+Nick @ mXtR2R3-I6 bets 130
+Sean @ pL8pVRDugg calls 130
+Ryan @ htQeCcunRv calls 130
+boobs @ gV2_hmR6Ex folds
+Turn: 7♥, 8♥, 10♠ [A♠]
+Nick @ mXtR2R3-I6 bets 250
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 250
+River: 7♥, 8♥, 10♠, A♠ [6♦]
+Nick @ mXtR2R3-I6 checks
+Ryan @ htQeCcunRv bets 575
+The player Jeffries @ ZTEyBEukh8 requested a seat.
+The admin approved the player Jeffries @ ZTEyBEukh8 participation with a stack of 2000.
+Nick @ mXtR2R3-I6 calls 575
+Ryan @ htQeCcunRv shows a 9♠, Q♥.
+Ryan @ htQeCcunRv collected 2300 from pot with Straight, 10 High (combination: 10♠, 9♠, 8♥, 7♥, 6♦)
+-- ending hand #69 --
+Sean @ pL8pVRDugg shows a 9♦, Q♦.
+The player Jeffries @ ZTEyBEukh8 joined the game with a stack of 2000.
+-- starting hand #70  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Sean @ pL8pVRDugg (3073) | #2 Ryan @ htQeCcunRv (5157) | #3 boobs @ gV2_hmR6Ex (2967) | #4 Jeffries @ ZTEyBEukh8 (2000) | #9 Nick @ mXtR2R3-I6 (1500) | #10 jp @ m3-N51qfDy (5003)
+Your hand is 8♣, Q♣
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv posts a straddle of 40
+boobs @ gV2_hmR6Ex calls 40
+Jeffries @ ZTEyBEukh8 folds
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy calls 40
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv checks
+Flop:  [A♠, K♥, 3♥]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv bets 40
+boobs @ gV2_hmR6Ex calls 40
+jp @ m3-N51qfDy folds
+Turn: A♠, K♥, 3♥ [A♣]
+Ryan @ htQeCcunRv bets 60
+boobs @ gV2_hmR6Ex calls 60
+River: A♠, K♥, 3♥, A♣ [9♣]
+Ryan @ htQeCcunRv bets 150
+boobs @ gV2_hmR6Ex calls 150
+Ryan @ htQeCcunRv shows a A♦, 7♠.
+Ryan @ htQeCcunRv collected 640 from pot with Three of a Kind, A's (combination: A♦, A♠, A♣, K♥, 9♣)
+-- ending hand #70 --
+boobs @ gV2_hmR6Ex shows a 8♠, K♣.
+-- starting hand #71  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3053) | #2 Ryan @ htQeCcunRv (5507) | #3 boobs @ gV2_hmR6Ex (2677) | #4 Jeffries @ ZTEyBEukh8 (2000) | #9 Nick @ mXtR2R3-I6 (1500) | #10 jp @ m3-N51qfDy (4963)
+Your hand is 2♠, Q♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 calls 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [6♥, 8♣, 7♥]
+Sean @ pL8pVRDugg bets 60
+Ryan @ htQeCcunRv calls 60
+boobs @ gV2_hmR6Ex calls 60
+Jeffries @ ZTEyBEukh8 raises to 120
+Sean @ pL8pVRDugg calls 120
+Ryan @ htQeCcunRv calls 120
+boobs @ gV2_hmR6Ex calls 120
+Turn: 6♥, 8♣, 7♥ [4♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 bets 240
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 240
+River: 6♥, 8♣, 7♥, 4♦ [4♠]
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 collected 1040 from pot
+-- ending hand #71 --
+-- starting hand #72  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2913) | #2 Ryan @ htQeCcunRv (5367) | #3 boobs @ gV2_hmR6Ex (2297) | #4 Jeffries @ ZTEyBEukh8 (2660) | #9 Nick @ mXtR2R3-I6 (1500) | #10 jp @ m3-N51qfDy (4963)
+Your hand is 6♣, 6♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg calls 80
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 80
+Jeffries @ ZTEyBEukh8 calls 80
+Flop:  [K♠, 4♦, J♦]
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 checks
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 250
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 250 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 330 from pot
+-- ending hand #72 --
+Undealt cards: K♠, 4♦, J♦ [2♣, A♠]
+-- starting hand #73  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3163) | #2 Ryan @ htQeCcunRv (5357) | #3 boobs @ gV2_hmR6Ex (2217) | #4 Jeffries @ ZTEyBEukh8 (2580) | #9 Nick @ mXtR2R3-I6 (1500) | #10 jp @ m3-N51qfDy (4883)
+Your hand is 6♠, 8♠
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [7♥, 8♦, Q♣]
+Jeffries @ ZTEyBEukh8 checks
+Ryan @ htQeCcunRv checks
+Turn: 7♥, 8♦, Q♣ [K♦]
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 calls 60
+River: 7♥, 8♦, Q♣, K♦ [9♣]
+Jeffries @ ZTEyBEukh8 bets 120
+Ryan @ htQeCcunRv calls 120
+Ryan @ htQeCcunRv shows a K♣, 6♦.
+Ryan @ htQeCcunRv collected 245 from pot with Pair, K's (combination: K♣, K♦, Q♣, 9♣, 8♦)
+Jeffries @ ZTEyBEukh8 shows a K♠, 5♥.
+Jeffries @ ZTEyBEukh8 collected 245 from pot with Pair, K's (combination: K♠, K♦, Q♣, 9♣, 8♦)
+-- ending hand #73 --
+-- starting hand #74  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (3163) | #2 Ryan @ htQeCcunRv (5362) | #3 boobs @ gV2_hmR6Ex (2207) | #4 Jeffries @ ZTEyBEukh8 (2585) | #9 Nick @ mXtR2R3-I6 (1500) | #10 jp @ m3-N51qfDy (4883)
+Your hand is 10♥, 6♠
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy posts a straddle of 40
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 40
+Jeffries @ ZTEyBEukh8 folds
+Nick @ mXtR2R3-I6 raises to 120
+jp @ m3-N51qfDy folds
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 80 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 130 from pot
+-- ending hand #74 --
+Undealt cards:  [5♥, 5♦, 7♣, J♦, Q♣]
+-- starting hand #75  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (3163) | #2 Ryan @ htQeCcunRv (5362) | #3 boobs @ gV2_hmR6Ex (2167) | #4 Jeffries @ ZTEyBEukh8 (2575) | #9 Nick @ mXtR2R3-I6 (1590) | #10 jp @ m3-N51qfDy (4843)
+Your hand is 9♦, Q♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Ryan @ htQeCcunRv raises to 80
+boobs @ gV2_hmR6Ex calls 80
+Jeffries @ ZTEyBEukh8 raises to 250
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 650
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 raises to 1300
+Sean @ pL8pVRDugg folds
+Uncalled bet of 650 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 1490 from pot
+-- ending hand #75 --
+Jeffries @ ZTEyBEukh8 shows a A♠, A♥.
+Undealt cards:  [5♠, 5♣, 3♥, 2♦, K♥]
+-- starting hand #76  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Sean @ pL8pVRDugg (2513) | #2 Ryan @ htQeCcunRv (5282) | #3 boobs @ gV2_hmR6Ex (2087) | #4 Jeffries @ ZTEyBEukh8 (3415) | #9 Nick @ mXtR2R3-I6 (1580) | #10 jp @ m3-N51qfDy (4823)
+Your hand is 8♠, A♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv posts a straddle of 40
+boobs @ gV2_hmR6Ex calls 40
+Jeffries @ ZTEyBEukh8 calls 40
+Nick @ mXtR2R3-I6 raises to 200
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 200
+Jeffries @ ZTEyBEukh8 folds
+Flop:  [9♥, 4♥, 3♣]
+boobs @ gV2_hmR6Ex bets 300
+Nick @ mXtR2R3-I6 calls 300
+Turn: 9♥, 4♥, 3♣ [5♦]
+boobs @ gV2_hmR6Ex bets 400
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 400 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 1110 from pot
+-- ending hand #76 --
+Undealt cards: 9♥, 4♥, 3♣, 5♦ [7♠]
+-- starting hand #77  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2493) | #2 Ryan @ htQeCcunRv (5242) | #3 boobs @ gV2_hmR6Ex (2697) | #4 Jeffries @ ZTEyBEukh8 (3375) | #9 Nick @ mXtR2R3-I6 (1080) | #10 jp @ m3-N51qfDy (4813)
+Your hand is K♣, 5♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 folds
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy raises to 100
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 200
+boobs @ gV2_hmR6Ex calls 200
+jp @ m3-N51qfDy folds
+Flop:  [9♠, Q♥, Q♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Turn: 9♠, Q♥, Q♠ [5♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 100
+Ryan @ htQeCcunRv folds
+Uncalled bet of 100 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 510 from pot
+-- ending hand #77 --
+Ryan @ htQeCcunRv shows a 10♦, 2♠.
+Undealt cards: 9♠, Q♥, Q♠, 5♠ [A♣]
+-- starting hand #78  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2483) | #2 Ryan @ htQeCcunRv (5042) | #3 boobs @ gV2_hmR6Ex (3007) | #4 Jeffries @ ZTEyBEukh8 (3375) | #9 Nick @ mXtR2R3-I6 (1080) | #10 jp @ m3-N51qfDy (4713)
+Your hand is K♥, 4♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Jeffries @ ZTEyBEukh8 folds
+Nick @ mXtR2R3-I6 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 80
+Ryan @ htQeCcunRv calls 80
+boobs @ gV2_hmR6Ex calls 80
+Nick @ mXtR2R3-I6 calls 80
+Flop:  [4♦, J♦, A♣]
+Ryan @ htQeCcunRv bets 160
+boobs @ gV2_hmR6Ex folds
+Nick @ mXtR2R3-I6 calls 160
+Sean @ pL8pVRDugg folds
+Turn: 4♦, J♦, A♣ [7♦]
+Ryan @ htQeCcunRv bets 320
+Nick @ mXtR2R3-I6 calls 320
+River: 4♦, J♦, A♣, 7♦ [7♠]
+Ryan @ htQeCcunRv checks
+Nick @ mXtR2R3-I6 checks
+Ryan @ htQeCcunRv shows a A♦, Q♥.
+Ryan @ htQeCcunRv collected 1280 from pot with Two Pair, A's & 7's (combination: A♦, A♣, 7♦, 7♠, Q♥)
+-- ending hand #78 --
+-- starting hand #79  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2403) | #2 Ryan @ htQeCcunRv (5762) | #3 boobs @ gV2_hmR6Ex (2927) | #4 Jeffries @ ZTEyBEukh8 (3375) | #9 Nick @ mXtR2R3-I6 (520) | #10 jp @ m3-N51qfDy (4713)
+Your hand is 6♥, Q♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 raises to 60
+boobs @ gV2_hmR6Ex calls 60
+Flop:  [Q♥, 6♦, A♠]
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 bets 120
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 120 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 120 from pot
+-- ending hand #79 --
+Undealt cards: Q♥, 6♦, A♠ [6♠, 9♠]
+-- starting hand #80  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2403) | #2 Ryan @ htQeCcunRv (5762) | #3 boobs @ gV2_hmR6Ex (2867) | #4 Jeffries @ ZTEyBEukh8 (3435) | #9 Nick @ mXtR2R3-I6 (520) | #10 jp @ m3-N51qfDy (4713)
+Your hand is 7♦, 10♦
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+jp @ m3-N51qfDy posts a straddle of 40
+Sean @ pL8pVRDugg raises to 100
+Ryan @ htQeCcunRv calls 100
+boobs @ gV2_hmR6Ex calls 100
+Jeffries @ ZTEyBEukh8 folds
+The admin Sean @ pL8pVRDugg enqueued the removal of the player Nick @ mXtR2R3-I6.
+Nick @ mXtR2R3-I6 folds
+jp @ m3-N51qfDy folds
+Flop:  [9♣, K♣, J♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 185
+boobs @ gV2_hmR6Ex calls 185
+Sean @ pL8pVRDugg folds
+Turn: 9♣, K♣, J♥ [8♦]
+Ryan @ htQeCcunRv bets 370
+boobs @ gV2_hmR6Ex calls 370
+River: 9♣, K♣, J♥, 8♦ [5♦]
+Ryan @ htQeCcunRv bets 20
+boobs @ gV2_hmR6Ex calls 20
+Ryan @ htQeCcunRv shows a 6♣, K♠.
+Ryan @ htQeCcunRv collected 1520 from pot with Pair, K's (combination: K♠, K♣, J♥, 9♣, 8♦)
+-- ending hand #80 --
+boobs @ gV2_hmR6Ex shows a 6♠, 10♠.
+jp @ m3-N51qfDy shows a 7♦, 10♦.
+The player Nick @ mXtR2R3-I6 stand up with the stack of 500.
+The player Nick @ mXtR2R3-I6 quits the game with a stack of 500.
+-- starting hand #81  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2303) | #2 Ryan @ htQeCcunRv (6607) | #3 boobs @ gV2_hmR6Ex (2192) | #4 Jeffries @ ZTEyBEukh8 (3425) | #10 jp @ m3-N51qfDy (4673)
+Your hand is 3♠, 2♠
+Dead Small Blind
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Ryan @ htQeCcunRv calls 40
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 40
+Sean @ pL8pVRDugg checks
+Flop:  [Q♣, 4♣, 6♥]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 55
+Ryan @ htQeCcunRv calls 55
+jp @ m3-N51qfDy folds
+Turn: Q♣, 4♣, 6♥ [A♦]
+Sean @ pL8pVRDugg bets 150
+Ryan @ htQeCcunRv calls 150
+River: Q♣, 4♣, 6♥, A♦ [J♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Sean @ pL8pVRDugg shows a 7♠, A♣.
+Sean @ pL8pVRDugg collected 530 from pot with Pair, A's (combination: A♣, A♦, Q♣, J♦, 7♠)
+-- ending hand #81 --
+Ryan @ htQeCcunRv shows a 6♣, 9♣.
+-- starting hand #82  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #1 Sean @ pL8pVRDugg (2588) | #2 Ryan @ htQeCcunRv (6362) | #3 boobs @ gV2_hmR6Ex (2192) | #4 Jeffries @ ZTEyBEukh8 (3425) | #10 jp @ m3-N51qfDy (4633)
+Your hand is 8♦, K♣
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv posts a straddle of 40
+boobs @ gV2_hmR6Ex calls 40
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 40
+Sean @ pL8pVRDugg raises to 200
+Ryan @ htQeCcunRv calls 200
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Flop:  [2♠, A♥, J♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Turn: 2♠, A♥, J♥ [2♣]
+Sean @ pL8pVRDugg bets 350
+Ryan @ htQeCcunRv folds
+Uncalled bet of 350 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 480 from pot
+-- ending hand #82 --
+Undealt cards: 2♠, A♥, J♥, 2♣ [5♠]
+-- starting hand #83  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2868) | #2 Ryan @ htQeCcunRv (6162) | #3 boobs @ gV2_hmR6Ex (2152) | #4 Jeffries @ ZTEyBEukh8 (3425) | #10 jp @ m3-N51qfDy (4593)
+Your hand is 8♦, 7♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex raises to 100
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 80 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 50 from pot
+-- ending hand #83 --
+Undealt cards:  [2♥, A♦, 4♥, 3♥, K♦]
+-- starting hand #84  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2858) | #2 Ryan @ htQeCcunRv (6142) | #3 boobs @ gV2_hmR6Ex (2182) | #4 Jeffries @ ZTEyBEukh8 (3425) | #10 jp @ m3-N51qfDy (4593)
+Your hand is K♠, 8♦
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex checks
+Flop:  [Q♣, 4♥, 6♥]
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 bets 100
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 100 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 60 from pot
+-- ending hand #84 --
+Undealt cards: Q♣, 4♥, 6♥ [2♠, 5♠]
+boobs @ gV2_hmR6Ex shows a J♠, 3♦.
+-- starting hand #85  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2858) | #2 Ryan @ htQeCcunRv (6122) | #3 boobs @ gV2_hmR6Ex (2162) | #4 Jeffries @ ZTEyBEukh8 (3465) | #10 jp @ m3-N51qfDy (4593)
+Your hand is K♣, 3♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy posts a straddle of 40
+Sean @ pL8pVRDugg calls 40
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 40
+Jeffries @ ZTEyBEukh8 calls 40
+jp @ m3-N51qfDy checks
+Flop:  [8♣, 5♦, 5♣]
+boobs @ gV2_hmR6Ex bets 65
+Jeffries @ ZTEyBEukh8 raises to 130
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 65 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 290 from pot
+-- ending hand #85 --
+Undealt cards: 8♣, 5♦, 5♣ [J♠, 9♥]
+-- starting hand #86  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2818) | #2 Ryan @ htQeCcunRv (6122) | #3 boobs @ gV2_hmR6Ex (2057) | #4 Jeffries @ ZTEyBEukh8 (3650) | #10 jp @ m3-N51qfDy (4553)
+Your hand is 7♣, Q♦
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 60
+Flop:  [K♦, 5♠, J♣]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv bets 40
+jp @ m3-N51qfDy folds
+Uncalled bet of 40 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 130 from pot
+-- ending hand #86 --
+Undealt cards: K♦, 5♠, J♣ [2♣, 9♥]
+Ryan @ htQeCcunRv shows a 10♣, Q♣.
+-- starting hand #87  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2818) | #2 Ryan @ htQeCcunRv (6192) | #3 boobs @ gV2_hmR6Ex (2057) | #4 Jeffries @ ZTEyBEukh8 (3640) | #10 jp @ m3-N51qfDy (4493)
+Your hand is 6♣, 8♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg checks
+Flop:  [K♠, 9♥, J♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 95
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 95
+Turn: K♠, 9♥, J♥ [9♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 130
+Ryan @ htQeCcunRv folds
+Uncalled bet of 130 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 260 from pot
+-- ending hand #87 --
+Sean @ pL8pVRDugg shows a 8♣, 9♣.
+Ryan @ htQeCcunRv shows a 6♦, 10♥.
+boobs @ gV2_hmR6Ex shows a 7♦, K♥.
+-- starting hand #88  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2798) | #2 Ryan @ htQeCcunRv (6077) | #3 boobs @ gV2_hmR6Ex (2202) | #4 Jeffries @ ZTEyBEukh8 (3640) | #10 jp @ m3-N51qfDy (4483)
+Your hand is 9♦, 8♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy raises to 60
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 60
+boobs @ gV2_hmR6Ex calls 60
+Flop:  [10♦, A♦, 2♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 150
+jp @ m3-N51qfDy calls 150
+Ryan @ htQeCcunRv calls 150
+Turn: 10♦, A♦, 2♠ [5♣]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 200
+jp @ m3-N51qfDy calls 200
+Ryan @ htQeCcunRv folds
+River: 10♦, A♦, 2♠, 5♣ [3♥]
+boobs @ gV2_hmR6Ex bets 1792 and go all in
+jp @ m3-N51qfDy folds
+Uncalled bet of 1792 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 1040 from pot
+-- ending hand #88 --
+-- starting hand #89  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2788) | #2 Ryan @ htQeCcunRv (5867) | #3 boobs @ gV2_hmR6Ex (2832) | #4 Jeffries @ ZTEyBEukh8 (3640) | #10 jp @ m3-N51qfDy (4073)
+Your hand is 8♣, J♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv raises to 140
+boobs @ gV2_hmR6Ex calls 140
+Sean @ pL8pVRDugg folds
+Flop:  [A♣, 7♠, 9♥]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Turn: A♣, 7♠, 9♥ [10♠]
+Ryan @ htQeCcunRv bets 60
+boobs @ gV2_hmR6Ex raises to 120
+Ryan @ htQeCcunRv calls 120
+River: A♣, 7♠, 9♥, 10♠ [9♦]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 150
+Ryan @ htQeCcunRv calls 150
+Ryan @ htQeCcunRv shows a 10♦, 2♣.
+Ryan @ htQeCcunRv collected 880 from pot with Two Pair, 10's & 9's (combination: 10♦, 10♠, 9♥, 9♦, A♣)
+boobs @ gV2_hmR6Ex shows a Q♣, 7♦.
+-- ending hand #89 --
+-- starting hand #90  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2728) | #2 Ryan @ htQeCcunRv (6337) | #3 boobs @ gV2_hmR6Ex (2422) | #4 Jeffries @ ZTEyBEukh8 (3640) | #10 jp @ m3-N51qfDy (4073)
+Your hand is 9♠, 7♥
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [4♣, J♣, 2♣]
+Jeffries @ ZTEyBEukh8 checks
+Ryan @ htQeCcunRv checks
+Turn: 4♣, J♣, 2♣ [J♥]
+Jeffries @ ZTEyBEukh8 checks
+Ryan @ htQeCcunRv bets 40
+Jeffries @ ZTEyBEukh8 calls 40
+River: 4♣, J♣, 2♣, J♥ [3♠]
+Jeffries @ ZTEyBEukh8 checks
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 shows a Q♥, 3♥.
+Jeffries @ ZTEyBEukh8 collected 210 from pot with Two Pair, J's & 3's (combination: J♣, J♥, 3♥, 3♠, Q♥)
+-- ending hand #90 --
+Ryan @ htQeCcunRv shows a A♣, 2♦.
+-- starting hand #91  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2728) | #2 Ryan @ htQeCcunRv (6237) | #3 boobs @ gV2_hmR6Ex (2412) | #4 Jeffries @ ZTEyBEukh8 (3750) | #10 jp @ m3-N51qfDy (4073)
+Your hand is 9♦, 7♠
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+boobs @ gV2_hmR6Ex calls 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Flop:  [4♦, 4♠, K♦]
+Sean @ pL8pVRDugg bets 65
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 65
+Turn: 4♦, 4♠, K♦ [10♣]
+Sean @ pL8pVRDugg checks
+boobs @ gV2_hmR6Ex checks
+River: 4♦, 4♠, K♦, 10♣ [6♥]
+Sean @ pL8pVRDugg bets 220
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 220 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 340 from pot
+-- ending hand #91 --
+-- starting hand #92  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2943) | #2 Ryan @ htQeCcunRv (6177) | #3 boobs @ gV2_hmR6Ex (2287) | #4 Jeffries @ ZTEyBEukh8 (3740) | #10 jp @ m3-N51qfDy (4053)
+Your hand is 5♦, 7♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex calls 60
+Jeffries @ ZTEyBEukh8 calls 60
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Flop:  [A♥, 5♣, 7♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 checks
+Turn: A♥, 5♣, 7♠ [6♠]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 60
+Jeffries @ ZTEyBEukh8 calls 60
+Ryan @ htQeCcunRv calls 60
+River: A♥, 5♣, 7♠, 6♠ [A♣]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 195
+Jeffries @ ZTEyBEukh8 calls 195
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 shows a 6♦, 4♦.
+Jeffries @ ZTEyBEukh8 collected 780 from pot with Two Pair, A's & 6's (combination: A♥, A♣, 6♦, 6♠, 7♠)
+boobs @ gV2_hmR6Ex shows a 2♠, Q♣.
+-- ending hand #92 --
+The player Sean @ pL8pVRDugg stand up with the stack of 2923.
+-- starting hand #93  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #2 Ryan @ htQeCcunRv (6057) | #3 boobs @ gV2_hmR6Ex (1972) | #4 Jeffries @ ZTEyBEukh8 (4205) | #10 jp @ m3-N51qfDy (4043)
+Your hand is 4♠, J♣
+Dead Small Blind
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Ryan @ htQeCcunRv checks
+Flop:  [5♥, 5♠, 10♥]
+Ryan @ htQeCcunRv bets 40
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 40 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 40 from pot
+-- ending hand #93 --
+Undealt cards: 5♥, 5♠, 10♥ [K♣, 4♦]
+-- starting hand #94  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #2 Ryan @ htQeCcunRv (6077) | #3 boobs @ gV2_hmR6Ex (1952) | #4 Jeffries @ ZTEyBEukh8 (4205) | #10 jp @ m3-N51qfDy (4043)
+Your hand is A♦, 8♥
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy calls 20
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex checks
+Flop:  [Q♥, 7♣, Q♣]
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 checks
+jp @ m3-N51qfDy checks
+Turn: Q♥, 7♣, Q♣ [7♦]
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 checks
+jp @ m3-N51qfDy bets 70
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 70 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 70 from pot
+-- ending hand #94 --
+Undealt cards: Q♥, 7♣, Q♣, 7♦ [9♣]
+-- starting hand #95  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #2 Ryan @ htQeCcunRv (6067) | #3 boobs @ gV2_hmR6Ex (1932) | #4 Jeffries @ ZTEyBEukh8 (4185) | #10 jp @ m3-N51qfDy (4093)
+Your hand is 7♣, 5♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 calls 40
+Flop:  [10♥, 7♠, 8♥]
+The player Sean @ pL8pVRDugg sit back with the stack of 2923.
+Jeffries @ ZTEyBEukh8 checks
+Ryan @ htQeCcunRv bets 90
+Jeffries @ ZTEyBEukh8 calls 90
+Turn: 10♥, 7♠, 8♥ [7♦]
+Jeffries @ ZTEyBEukh8 checks
+Ryan @ htQeCcunRv checks
+River: 10♥, 7♠, 8♥, 7♦ [A♦]
+Jeffries @ ZTEyBEukh8 bets 60
+Ryan @ htQeCcunRv raises to 352
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 292 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 390 from pot
+-- ending hand #95 --
+The player Sean @ pL8pVRDugg joined the game with a stack of 2923.
+-- starting hand #96  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2923) | #2 Ryan @ htQeCcunRv (6267) | #3 boobs @ gV2_hmR6Ex (1922) | #4 Jeffries @ ZTEyBEukh8 (3995) | #10 jp @ m3-N51qfDy (4093)
+Your hand is 7♦, J♥
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg posts a missing small blind of 10
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex calls 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Flop:  [4♣, J♦, 4♠]
+Ryan @ htQeCcunRv bets 100
+boobs @ gV2_hmR6Ex calls 100
+Turn: 4♣, J♦, 4♠ [Q♠]
+Ryan @ htQeCcunRv bets 180
+boobs @ gV2_hmR6Ex raises to 360
+Ryan @ htQeCcunRv calls 360
+River: 4♣, J♦, 4♠, Q♠ [2♦]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex bets 1402 and go all in
+Ryan @ htQeCcunRv folds
+Uncalled bet of 1402 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 1080 from pot
+-- ending hand #96 --
+Sean @ pL8pVRDugg shows a 3♠, 2♥.
+boobs @ gV2_hmR6Ex shows a K♠, J♠.
+Jeffries @ ZTEyBEukh8 shows a 7♥, 2♠.
+-- starting hand #97  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2913) | #2 Ryan @ htQeCcunRv (5747) | #3 boobs @ gV2_hmR6Ex (2482) | #4 Jeffries @ ZTEyBEukh8 (3985) | #10 jp @ m3-N51qfDy (4073)
+Your hand is A♣, 6♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg raises to 100
+boobs @ gV2_hmR6Ex calls 100
+jp @ m3-N51qfDy calls 100
+Flop:  [6♥, J♣, Q♦]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 85
+boobs @ gV2_hmR6Ex calls 85
+jp @ m3-N51qfDy folds
+Turn: 6♥, J♣, Q♦ [5♥]
+Sean @ pL8pVRDugg bets 350
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 350 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 470 from pot
+-- ending hand #97 --
+-- starting hand #98  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3198) | #2 Ryan @ htQeCcunRv (5747) | #3 boobs @ gV2_hmR6Ex (2297) | #4 Jeffries @ ZTEyBEukh8 (3985) | #10 jp @ m3-N51qfDy (3973)
+Your hand is 9♣, 8♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg raises to 240
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 160 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 200 from pot
+-- ending hand #98 --
+Undealt cards:  [J♥, A♣, 4♥, 7♣, 6♠]
+jp @ m3-N51qfDy shows a 9♣, 8♠.
+Jeffries @ ZTEyBEukh8 shows a 2♣, 10♣.
+-- starting hand #99  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3318) | #2 Ryan @ htQeCcunRv (5727) | #3 boobs @ gV2_hmR6Ex (2297) | #4 Jeffries @ ZTEyBEukh8 (3965) | #10 jp @ m3-N51qfDy (3893)
+Your hand is 6♣, 7♦
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex checks
+Flop:  [3♥, 5♦, J♦]
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex collected 40 from pot
+-- ending hand #99 --
+Undealt cards: 3♥, 5♦, J♦ [A♦, J♠]
+Ryan @ htQeCcunRv shows a 7♣, 2♦.
+-- starting hand #100  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3318) | #2 Ryan @ htQeCcunRv (5707) | #3 boobs @ gV2_hmR6Ex (2317) | #4 Jeffries @ ZTEyBEukh8 (3965) | #10 jp @ m3-N51qfDy (3893)
+Your hand is 10♦, K♣
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 80
+boobs @ gV2_hmR6Ex calls 80
+Jeffries @ ZTEyBEukh8 calls 80
+Flop:  [K♦, J♣, 10♣]
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 bets 160
+jp @ m3-N51qfDy raises to 562
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 402 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 640 from pot
+-- ending hand #100 --
+Undealt cards: K♦, J♣, 10♣ [5♣, 8♠]
+-- starting hand #101  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (3318) | #2 Ryan @ htQeCcunRv (5627) | #3 boobs @ gV2_hmR6Ex (2237) | #4 Jeffries @ ZTEyBEukh8 (3725) | #10 jp @ m3-N51qfDy (4293)
+Your hand is A♥, 6♦
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 60
+Flop:  [3♠, K♠, 9♣]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 45
+boobs @ gV2_hmR6Ex calls 45
+jp @ m3-N51qfDy folds
+Turn: 3♠, K♠, 9♣ [6♠]
+Sean @ pL8pVRDugg bets 220
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 220 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 280 from pot
+-- ending hand #101 --
+Undealt cards: 3♠, K♠, 9♣, 6♠ [2♠]
+-- starting hand #102  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (3493) | #2 Ryan @ htQeCcunRv (5627) | #3 boobs @ gV2_hmR6Ex (2132) | #4 Jeffries @ ZTEyBEukh8 (3715) | #10 jp @ m3-N51qfDy (4233)
+Your hand is 7♠, A♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [2♣, 10♣, 3♦]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 22
+Jeffries @ ZTEyBEukh8 raises to 44
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 44
+Turn: 2♣, 10♣, 3♦ [J♦]
+Sean @ pL8pVRDugg checks
+Jeffries @ ZTEyBEukh8 bets 88
+Sean @ pL8pVRDugg folds
+Uncalled bet of 88 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 148 from pot
+-- ending hand #102 --
+Jeffries @ ZTEyBEukh8 shows a A♥, J♥.
+-- starting hand #103  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3429) | #2 Ryan @ htQeCcunRv (5627) | #3 boobs @ gV2_hmR6Ex (2132) | #4 Jeffries @ ZTEyBEukh8 (3799) | #10 jp @ m3-N51qfDy (4213)
+Your hand is 4♦, 10♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 80
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 80
+Flop:  [4♥, 5♦, 10♣]
+Sean @ pL8pVRDugg bets 56
+boobs @ gV2_hmR6Ex raises to 112
+Sean @ pL8pVRDugg calls 112
+Turn: 4♥, 5♦, 10♣ [A♥]
+Sean @ pL8pVRDugg checks
+boobs @ gV2_hmR6Ex bets 404
+Sean @ pL8pVRDugg calls 404
+River: 4♥, 5♦, 10♣, A♥ [5♠]
+Sean @ pL8pVRDugg checks
+boobs @ gV2_hmR6Ex bets 1536 and go all in
+Sean @ pL8pVRDugg folds
+Uncalled bet of 1536 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 1212 from pot
+-- ending hand #103 --
+-- starting hand #104  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2833) | #2 Ryan @ htQeCcunRv (5607) | #3 boobs @ gV2_hmR6Ex (2748) | #4 Jeffries @ ZTEyBEukh8 (3799) | #10 jp @ m3-N51qfDy (4213)
+Your hand is 7♦, 7♠
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Jeffries @ ZTEyBEukh8 raises to 80
+jp @ m3-N51qfDy calls 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 80
+Flop:  [6♠, 3♣, 2♣]
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 bets 160
+jp @ m3-N51qfDy calls 160
+boobs @ gV2_hmR6Ex folds
+Turn: 6♠, 3♣, 2♣ [Q♠]
+Jeffries @ ZTEyBEukh8 checks
+jp @ m3-N51qfDy checks
+River: 6♠, 3♣, 2♣, Q♠ [2♥]
+Jeffries @ ZTEyBEukh8 bets 200
+jp @ m3-N51qfDy raises to 400
+Jeffries @ ZTEyBEukh8 calls 400
+Jeffries @ ZTEyBEukh8 shows a 9♠, 9♥.
+Jeffries @ ZTEyBEukh8 collected 1370 from pot with Two Pair, 9's & 2's (combination: 9♠, 9♥, 2♣, 2♥, Q♠)
+jp @ m3-N51qfDy shows a 7♦, 7♠.
+-- ending hand #104 --
+Sean @ pL8pVRDugg shows a 5♥, 4♠.
+-- starting hand #105  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2833) | #2 Ryan @ htQeCcunRv (5597) | #3 boobs @ gV2_hmR6Ex (2668) | #4 Jeffries @ ZTEyBEukh8 (4529) | #10 jp @ m3-N51qfDy (3573)
+Your hand is 7♠, J♦
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [2♠, K♣, 10♥]
+Jeffries @ ZTEyBEukh8 checks
+Sean @ pL8pVRDugg bets 45
+Jeffries @ ZTEyBEukh8 calls 45
+Turn: 2♠, K♣, 10♥ [Q♦]
+Jeffries @ ZTEyBEukh8 checks
+Sean @ pL8pVRDugg checks
+River: 2♠, K♣, 10♥, Q♦ [A♦]
+Jeffries @ ZTEyBEukh8 checks
+Sean @ pL8pVRDugg checks
+Jeffries @ ZTEyBEukh8 shows a 9♣, 9♥.
+Jeffries @ ZTEyBEukh8 collected 220 from pot with Pair, 9's (combination: 9♣, 9♥, A♦, K♣, Q♦)
+-- ending hand #105 --
+-- starting hand #106  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2728) | #2 Ryan @ htQeCcunRv (5597) | #3 boobs @ gV2_hmR6Ex (2658) | #4 Jeffries @ ZTEyBEukh8 (4644) | #10 jp @ m3-N51qfDy (3573)
+Your hand is K♠, Q♦
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex calls 40
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy raises to 80
+Ryan @ htQeCcunRv calls 80
+boobs @ gV2_hmR6Ex calls 80
+Flop:  [A♠, 6♠, A♥]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Turn: A♠, 6♠, A♥ [7♠]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv bets 60
+boobs @ gV2_hmR6Ex calls 60
+jp @ m3-N51qfDy calls 60
+River: A♠, 6♠, A♥, 7♠ [4♠]
+jp @ m3-N51qfDy bets 100
+Ryan @ htQeCcunRv calls 100
+boobs @ gV2_hmR6Ex calls 100
+jp @ m3-N51qfDy shows a K♠, Q♦.
+jp @ m3-N51qfDy collected 730 from pot with Flush, As High (combination: A♠, K♠, 7♠, 6♠, 4♠)
+-- ending hand #106 --
+Ryan @ htQeCcunRv shows a K♦, 9♠.
+boobs @ gV2_hmR6Ex shows a 6♣, 8♠.
+-- starting hand #107  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2728) | #2 Ryan @ htQeCcunRv (5357) | #3 boobs @ gV2_hmR6Ex (2418) | #4 Jeffries @ ZTEyBEukh8 (4634) | #10 jp @ m3-N51qfDy (4063)
+Your hand is 8♠, K♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [5♠, 3♣, 8♥]
+jp @ m3-N51qfDy bets 60
+Sean @ pL8pVRDugg folds
+boobs @ gV2_hmR6Ex calls 60
+Turn: 5♠, 3♣, 8♥ [7♦]
+jp @ m3-N51qfDy bets 90
+boobs @ gV2_hmR6Ex calls 90
+River: 5♠, 3♣, 8♥, 7♦ [5♦]
+jp @ m3-N51qfDy checks
+boobs @ gV2_hmR6Ex bets 180
+jp @ m3-N51qfDy calls 180
+jp @ m3-N51qfDy shows a 8♠, K♥.
+jp @ m3-N51qfDy collected 720 from pot with Two Pair, 8's & 5's (combination: 8♠, 8♥, 5♠, 5♦, K♥)
+boobs @ gV2_hmR6Ex shows a A♥, 9♣.
+-- ending hand #107 --
+-- starting hand #108  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2708) | #2 Ryan @ htQeCcunRv (5357) | #3 boobs @ gV2_hmR6Ex (2068) | #4 Jeffries @ ZTEyBEukh8 (4634) | #10 jp @ m3-N51qfDy (4433)
+Your hand is 4♥, 4♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex calls 60
+jp @ m3-N51qfDy raises to 100
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 380
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 280 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 280 from pot
+-- ending hand #108 --
+jp @ m3-N51qfDy shows a 4♥, 4♠.
+Undealt cards:  [9♥, A♠, 3♣, 2♠, 7♥]
+Ryan @ htQeCcunRv shows a Q♥, A♥.
+Jeffries @ ZTEyBEukh8 shows a 4♦, 6♣.
+-- starting hand #109  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2688) | #2 Ryan @ htQeCcunRv (5537) | #3 boobs @ gV2_hmR6Ex (2008) | #4 Jeffries @ ZTEyBEukh8 (4634) | #10 jp @ m3-N51qfDy (4333)
+Your hand is K♦, 7♥
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg raises to 80
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 80
+jp @ m3-N51qfDy calls 80
+Flop:  [A♣, 5♦, Q♦]
+boobs @ gV2_hmR6Ex checks
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 99
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 99 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 250 from pot
+-- ending hand #109 --
+Undealt cards: A♣, 5♦, Q♦ [3♠, 3♦]
+-- starting hand #110  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2858) | #2 Ryan @ htQeCcunRv (5527) | #3 boobs @ gV2_hmR6Ex (1928) | #4 Jeffries @ ZTEyBEukh8 (4634) | #10 jp @ m3-N51qfDy (4253)
+Your hand is 7♠, 4♣
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 20
+Jeffries @ ZTEyBEukh8 raises to 40
+Sean @ pL8pVRDugg calls 40
+boobs @ gV2_hmR6Ex calls 40
+Flop:  [3♥, A♥, 7♥]
+boobs @ gV2_hmR6Ex bets 300
+Jeffries @ ZTEyBEukh8 calls 300
+Sean @ pL8pVRDugg folds
+Turn: 3♥, A♥, 7♥ [10♣]
+boobs @ gV2_hmR6Ex bets 300
+Jeffries @ ZTEyBEukh8 calls 300
+River: 3♥, A♥, 7♥, 10♣ [4♦]
+boobs @ gV2_hmR6Ex bets 400
+Jeffries @ ZTEyBEukh8 raises to 1288
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 888 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 2120 from pot
+-- ending hand #110 --
+Jeffries @ ZTEyBEukh8 shows a K♥, Q♥.
+-- starting hand #111  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2818) | #2 Ryan @ htQeCcunRv (5527) | #3 boobs @ gV2_hmR6Ex (888) | #4 Jeffries @ ZTEyBEukh8 (5714) | #10 jp @ m3-N51qfDy (4253)
+Your hand is 6♦, 6♥
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex calls 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 60
+Flop:  [10♣, A♠, 7♥]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 120
+boobs @ gV2_hmR6Ex folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 120 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 190 from pot
+-- ending hand #111 --
+Sean @ pL8pVRDugg shows a 7♠, 2♠.
+Undealt cards: 10♣, A♠, 7♥ [9♥, A♦]
+-- starting hand #112  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2948) | #2 Ryan @ htQeCcunRv (5527) | #3 boobs @ gV2_hmR6Ex (828) | #4 Jeffries @ ZTEyBEukh8 (5704) | #10 jp @ m3-N51qfDy (4193)
+Your hand is 10♦, 8♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 80
+boobs @ gV2_hmR6Ex raises to 140
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 140
+Flop:  [8♠, 3♥, 5♦]
+Ryan @ htQeCcunRv bets 310
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 310 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 310 from pot
+-- ending hand #112 --
+Sean @ pL8pVRDugg shows a 2♠, 10♣.
+Undealt cards: 8♠, 3♥, 5♦ [6♠, K♠]
+-- starting hand #113  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2928) | #2 Ryan @ htQeCcunRv (5697) | #3 boobs @ gV2_hmR6Ex (688) | #4 Jeffries @ ZTEyBEukh8 (5704) | #10 jp @ m3-N51qfDy (4183)
+Your hand is J♠, 3♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+boobs @ gV2_hmR6Ex raises to 688 and go all in
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 668 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 50 from pot
+-- ending hand #113 --
+Undealt cards:  [Q♥, 5♣, 9♣, 8♣, 7♣]
+Ryan @ htQeCcunRv shows a 6♣, 9♠.
+-- starting hand #114  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2918) | #2 Ryan @ htQeCcunRv (5677) | #3 boobs @ gV2_hmR6Ex (718) | #4 Jeffries @ ZTEyBEukh8 (5704) | #10 jp @ m3-N51qfDy (4183)
+Your hand is 5♥, 2♥
+Ryan @ htQeCcunRv posts a small blind of 10
+boobs @ gV2_hmR6Ex posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 80
+Ryan @ htQeCcunRv calls 80
+boobs @ gV2_hmR6Ex calls 80
+Jeffries @ ZTEyBEukh8 calls 80
+Flop:  [2♦, 6♠, K♦]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 bets 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+boobs @ gV2_hmR6Ex calls 20
+Turn: 2♦, 6♠, K♦ [Q♦]
+Ryan @ htQeCcunRv checks
+boobs @ gV2_hmR6Ex checks
+Jeffries @ ZTEyBEukh8 bets 380
+Ryan @ htQeCcunRv folds
+boobs @ gV2_hmR6Ex folds
+Uncalled bet of 380 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 380 from pot
+-- ending hand #114 --
+Undealt cards: 2♦, 6♠, K♦, Q♦ [7♣]
+-- starting hand #115  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2838) | #2 Ryan @ htQeCcunRv (5577) | #3 boobs @ gV2_hmR6Ex (618) | #4 Jeffries @ ZTEyBEukh8 (5984) | #10 jp @ m3-N51qfDy (4183)
+Your hand is J♦, 4♣
+boobs @ gV2_hmR6Ex posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 40
+boobs @ gV2_hmR6Ex raises to 115
+Jeffries @ ZTEyBEukh8 folds
+Ryan @ htQeCcunRv calls 115
+Flop:  [2♥, 4♠, J♣]
+boobs @ gV2_hmR6Ex checks
+Ryan @ htQeCcunRv checks
+Turn: 2♥, 4♠, J♣ [4♥]
+boobs @ gV2_hmR6Ex checks
+Ryan @ htQeCcunRv checks
+River: 2♥, 4♠, J♣, 4♥ [J♥]
+boobs @ gV2_hmR6Ex bets 503 and go all in
+Ryan @ htQeCcunRv folds
+Uncalled bet of 503 returned to boobs @ gV2_hmR6Ex
+boobs @ gV2_hmR6Ex collected 250 from pot
+-- ending hand #115 --
+jp @ m3-N51qfDy shows a J♦, 4♣.
+Sean @ pL8pVRDugg shows a 6♠, 10♥.
+-- starting hand #116  (No Limit Texas Hold'em) (dealer: boobs @ gV2_hmR6Ex) --
+Player stacks: #1 Sean @ pL8pVRDugg (2838) | #2 Ryan @ htQeCcunRv (5462) | #3 boobs @ gV2_hmR6Ex (753) | #4 Jeffries @ ZTEyBEukh8 (5964) | #10 jp @ m3-N51qfDy (4183)
+Your hand is J♥, 2♥
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+boobs @ gV2_hmR6Ex raises to 100
+Jeffries @ ZTEyBEukh8 calls 100
+jp @ m3-N51qfDy folds
+Ryan @ htQeCcunRv folds
+Flop:  [2♠, 6♦, 6♣]
+Jeffries @ ZTEyBEukh8 bets 20
+boobs @ gV2_hmR6Ex raises to 260
+Jeffries @ ZTEyBEukh8 calls 260
+Turn: 2♠, 6♦, 6♣ [5♠]
+Jeffries @ ZTEyBEukh8 bets 393
+boobs @ gV2_hmR6Ex calls 393 and go all in
+Remaining players decide whether to run it twice.
+boobs @ gV2_hmR6Ex chooses to  run it twice.
+boobs @ gV2_hmR6Ex shows a Q♠, Q♥.
+Jeffries @ ZTEyBEukh8 shows a 6♥, 7♥.
+Some players choose to not run it twice.
+boobs @ gV2_hmR6Ex shows a Q♠, Q♥.
+Jeffries @ ZTEyBEukh8 shows a 6♥, 7♥.
+River: 2♠, 6♦, 6♣, 5♠ [J♣]
+Jeffries @ ZTEyBEukh8 collected 1586 from pot with Three of a Kind, 6's (combination: 6♥, 6♦, 6♣, J♣, 7♥)
+-- ending hand #116 --
+The player boobs @ gV2_hmR6Ex quits the game with a stack of 0.
+-- starting hand #117  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2838) | #2 Ryan @ htQeCcunRv (5402) | #4 Jeffries @ ZTEyBEukh8 (6797) | #10 jp @ m3-N51qfDy (4163)
+Your hand is 10♣, Q♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [A♦, Q♣, 7♣]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 80
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy raises to 160
+Sean @ pL8pVRDugg folds
+Uncalled bet of 80 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 220 from pot
+-- ending hand #117 --
+Sean @ pL8pVRDugg shows a 5♦, 2♥.
+Undealt cards: A♦, Q♣, 7♣ [7♠, 8♠]
+Ryan @ htQeCcunRv shows a 4♠, Q♦.
+-- starting hand #118  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2738) | #2 Ryan @ htQeCcunRv (5402) | #4 Jeffries @ ZTEyBEukh8 (6777) | #10 jp @ m3-N51qfDy (4283)
+Your hand is J♠, 7♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [5♥, 4♠, 3♠]
+Sean @ pL8pVRDugg bets 25
+Ryan @ htQeCcunRv raises to 70
+jp @ m3-N51qfDy calls 70
+Sean @ pL8pVRDugg folds
+Turn: 5♥, 4♠, 3♠ [8♥]
+Ryan @ htQeCcunRv bets 112
+jp @ m3-N51qfDy calls 112
+River: 5♥, 4♠, 3♠, 8♥ [A♣]
+Ryan @ htQeCcunRv bets 336
+jp @ m3-N51qfDy folds
+Uncalled bet of 336 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 449 from pot
+-- ending hand #118 --
+Ryan @ htQeCcunRv shows a 6♥, 7♥.
+-- starting hand #119  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2693) | #2 Ryan @ htQeCcunRv (5649) | #4 Jeffries @ ZTEyBEukh8 (6777) | #10 jp @ m3-N51qfDy (4081)
+Your hand is A♠, 2♠
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy raises to 60
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 60
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [10♥, 2♦, 8♥]
+Ryan @ htQeCcunRv bets 60
+Jeffries @ ZTEyBEukh8 raises to 120
+jp @ m3-N51qfDy folds
+Ryan @ htQeCcunRv calls 120
+Turn: 10♥, 2♦, 8♥ [6♥]
+Ryan @ htQeCcunRv bets 315
+Jeffries @ ZTEyBEukh8 calls 315
+River: 10♥, 2♦, 8♥, 6♥ [3♥]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 checks
+Ryan @ htQeCcunRv shows a Q♥, K♥.
+Ryan @ htQeCcunRv collected 1050 from pot with Flush, Kh High (combination: K♥, Q♥, 10♥, 8♥, 6♥, 3♥)
+-- ending hand #119 --
+-- starting hand #120  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2693) | #2 Ryan @ htQeCcunRv (6204) | #4 Jeffries @ ZTEyBEukh8 (6282) | #10 jp @ m3-N51qfDy (4021)
+Your hand is 4♥, Q♥
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 calls 60
+jp @ m3-N51qfDy calls 60
+Flop:  [3♦, 10♣, 4♣]
+Jeffries @ ZTEyBEukh8 checks
+jp @ m3-N51qfDy bets 180
+Sean @ pL8pVRDugg raises to 400
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 220 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 540 from pot
+-- ending hand #120 --
+Undealt cards: 3♦, 10♣, 4♣ [7♥, Q♦]
+-- starting hand #121  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2993) | #2 Ryan @ htQeCcunRv (6204) | #4 Jeffries @ ZTEyBEukh8 (6222) | #10 jp @ m3-N51qfDy (3781)
+Your hand is 3♣, 8♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg checks
+Flop:  [2♠, 10♦, Q♥]
+Sean @ pL8pVRDugg checks
+Jeffries @ ZTEyBEukh8 bets 20
+Sean @ pL8pVRDugg folds
+Uncalled bet of 20 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 50 from pot
+-- ending hand #121 --
+Undealt cards: 2♠, 10♦, Q♥ [2♦, 2♥]
+-- starting hand #122  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2973) | #2 Ryan @ htQeCcunRv (6204) | #4 Jeffries @ ZTEyBEukh8 (6252) | #10 jp @ m3-N51qfDy (3771)
+Your hand is 8♥, J♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [8♠, 6♣, A♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 20 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 80 from pot
+-- ending hand #122 --
+Undealt cards: 8♠, 6♣, A♥ [A♠, 10♦]
+-- starting hand #123  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2953) | #2 Ryan @ htQeCcunRv (6184) | #4 Jeffries @ ZTEyBEukh8 (6312) | #10 jp @ m3-N51qfDy (3751)
+Your hand is 5♠, 4♠
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy raises to 60
+Sean @ pL8pVRDugg calls 60
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [2♠, 3♠, 5♦]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy raises to 250
+Sean @ pL8pVRDugg calls 250
+Jeffries @ ZTEyBEukh8 folds
+Turn: 2♠, 3♠, 5♦ [9♠]
+jp @ m3-N51qfDy bets 355
+Sean @ pL8pVRDugg raises to 1000
+jp @ m3-N51qfDy raises to 3441 and go all in
+Sean @ pL8pVRDugg folds
+Uncalled bet of 2441 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 2710 from pot
+-- ending hand #123 --
+Sean @ pL8pVRDugg shows a 7♠, 7♣.
+Undealt cards: 2♠, 3♠, 5♦, 9♠ [A♥]
+-- starting hand #124  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (1643) | #2 Ryan @ htQeCcunRv (6174) | #4 Jeffries @ ZTEyBEukh8 (6232) | #10 jp @ m3-N51qfDy (5151)
+Your hand is 5♦, J♠
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 60
+Flop:  [A♦, J♣, 4♣]
+jp @ m3-N51qfDy bets 65
+Ryan @ htQeCcunRv calls 65
+Turn: A♦, J♣, 4♣ [3♠]
+jp @ m3-N51qfDy bets 130
+Ryan @ htQeCcunRv calls 130
+River: A♦, J♣, 4♣, 3♠ [Q♣]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv checks
+Ryan @ htQeCcunRv shows a 6♥, A♥.
+Ryan @ htQeCcunRv collected 520 from pot with Pair, A's (combination: A♥, A♦, Q♣, J♣, 6♥)
+jp @ m3-N51qfDy shows a 5♦, J♠.
+-- ending hand #124 --
+-- starting hand #125  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (1643) | #2 Ryan @ htQeCcunRv (6439) | #4 Jeffries @ ZTEyBEukh8 (6222) | #10 jp @ m3-N51qfDy (4896)
+Your hand is A♥, K♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [A♦, Q♥, 2♦]
+jp @ m3-N51qfDy bets 40
+Sean @ pL8pVRDugg folds
+Uncalled bet of 40 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 40 from pot
+-- ending hand #125 --
+Undealt cards: A♦, Q♥, 2♦ [6♥, K♥]
+jp @ m3-N51qfDy shows a A♥, K♦.
+-- starting hand #126  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (1623) | #2 Ryan @ htQeCcunRv (6439) | #4 Jeffries @ ZTEyBEukh8 (6222) | #10 jp @ m3-N51qfDy (4916)
+Your hand is K♦, A♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy raises to 40
+Sean @ pL8pVRDugg calls 40
+Ryan @ htQeCcunRv calls 40
+Flop:  [6♥, A♦, 7♠]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy checks
+Turn: 6♥, A♦, 7♠ [J♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 60
+jp @ m3-N51qfDy calls 60
+Sean @ pL8pVRDugg folds
+River: 6♥, A♦, 7♠, J♥ [5♠]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 180
+Ryan @ htQeCcunRv calls 180
+jp @ m3-N51qfDy shows a K♦, A♠.
+jp @ m3-N51qfDy collected 600 from pot with Pair, A's (combination: A♠, A♦, K♦, J♥, 7♠)
+-- ending hand #126 --
+Ryan @ htQeCcunRv shows a J♣, 3♦.
+-- starting hand #127  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (1583) | #2 Ryan @ htQeCcunRv (6159) | #4 Jeffries @ ZTEyBEukh8 (6222) | #10 jp @ m3-N51qfDy (5236)
+Your hand is 5♦, 10♥
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 10 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 20 from pot
+-- ending hand #127 --
+Undealt cards:  [10♦, 5♠, 9♦, 9♠, 9♣]
+jp @ m3-N51qfDy shows a 5♦, 10♥.
+-- starting hand #128  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (1583) | #2 Ryan @ htQeCcunRv (6149) | #4 Jeffries @ ZTEyBEukh8 (6232) | #10 jp @ m3-N51qfDy (5236)
+Your hand is 3♥, 10♠
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv raises to 160
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 160
+Flop:  [4♥, 8♠, Q♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 175
+Sean @ pL8pVRDugg folds
+Uncalled bet of 175 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 350 from pot
+-- ending hand #128 --
+Ryan @ htQeCcunRv shows a K♣, K♠.
+-- starting hand #129  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (1423) | #2 Ryan @ htQeCcunRv (6339) | #4 Jeffries @ ZTEyBEukh8 (6222) | #10 jp @ m3-N51qfDy (5216)
+Your hand is 7♣, J♣
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 70
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 70
+Sean @ pL8pVRDugg calls 70
+Flop:  [7♠, 6♥, Q♣]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 66
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy calls 66
+Turn: 7♠, 6♥, Q♣ [9♦]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg checks
+River: 7♠, 6♥, Q♣, 9♦ [4♦]
+jp @ m3-N51qfDy bets 256
+Sean @ pL8pVRDugg calls 256
+Sean @ pL8pVRDugg shows a 10♦, 9♠.
+Sean @ pL8pVRDugg collected 854 from pot with Pair, 9's (combination: 9♠, 9♦, Q♣, 10♦, 7♠)
+jp @ m3-N51qfDy shows a 7♣, J♣.
+-- ending hand #129 --
+-- starting hand #130  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (1885) | #2 Ryan @ htQeCcunRv (6269) | #4 Jeffries @ ZTEyBEukh8 (6222) | #10 jp @ m3-N51qfDy (4824)
+Your hand is K♣, 3♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv checks
+Flop:  [7♣, Q♠, 6♣]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 checks
+Turn: 7♣, Q♠, 6♣ [A♥]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv calls 20
+River: 7♣, Q♠, 6♣, A♥ [A♠]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 checks
+Jeffries @ ZTEyBEukh8 shows a K♦, 9♥.
+Jeffries @ ZTEyBEukh8 collected 90 from pot with Pair, A's (combination: A♥, A♠, K♦, Q♠, 9♥)
+Ryan @ htQeCcunRv shows a 5♦, J♥.
+-- ending hand #130 --
+-- starting hand #131  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (1875) | #2 Ryan @ htQeCcunRv (6229) | #4 Jeffries @ ZTEyBEukh8 (6272) | #10 jp @ m3-N51qfDy (4824)
+Your hand is A♠, 4♠
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy raises to 40
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 40
+Jeffries @ ZTEyBEukh8 raises to 80
+jp @ m3-N51qfDy calls 80
+Ryan @ htQeCcunRv folds
+Flop:  [4♥, J♠, 5♣]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy calls 20
+Turn: 4♥, J♠, 5♣ [7♥]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy calls 20
+River: 4♥, J♠, 5♣, 7♥ [6♠]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy calls 20
+Jeffries @ ZTEyBEukh8 shows a 10♥, 10♣.
+Jeffries @ ZTEyBEukh8 collected 320 from pot with Pair, 10's (combination: 10♥, 10♣, J♠, 7♥, 6♠)
+-- ending hand #131 --
+-- starting hand #132  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (1875) | #2 Ryan @ htQeCcunRv (6189) | #4 Jeffries @ ZTEyBEukh8 (6452) | #10 jp @ m3-N51qfDy (4684)
+Your hand is 4♥, A♣
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 60
+Flop:  [K♣, 9♠, A♠]
+jp @ m3-N51qfDy bets 65
+Ryan @ htQeCcunRv calls 65
+Turn: K♣, 9♠, A♠ [2♦]
+jp @ m3-N51qfDy bets 195
+Ryan @ htQeCcunRv calls 195
+River: K♣, 9♠, A♠, 2♦ [3♠]
+jp @ m3-N51qfDy bets 650
+Ryan @ htQeCcunRv calls 650
+Ryan @ htQeCcunRv shows a 10♠, 4♠.
+Ryan @ htQeCcunRv collected 1950 from pot with Flush, As High (combination: A♠, 10♠, 9♠, 4♠, 3♠)
+jp @ m3-N51qfDy shows a 4♥, A♣.
+-- ending hand #132 --
+-- starting hand #133  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (1875) | #2 Ryan @ htQeCcunRv (7169) | #4 Jeffries @ ZTEyBEukh8 (6442) | #10 jp @ m3-N51qfDy (3714)
+Your hand is 9♣, 7♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 60
+Flop:  [A♠, K♥, J♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Turn: A♠, K♥, J♣ [J♠]
+Sean @ pL8pVRDugg bets 20
+Ryan @ htQeCcunRv calls 20
+River: A♠, K♥, J♣, J♠ [4♥]
+Sean @ pL8pVRDugg bets 90
+Ryan @ htQeCcunRv folds
+Uncalled bet of 90 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 170 from pot
+-- ending hand #133 --
+Sean @ pL8pVRDugg shows a 2♣, 3♣.
+-- starting hand #134  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (1965) | #2 Ryan @ htQeCcunRv (7089) | #4 Jeffries @ ZTEyBEukh8 (6442) | #10 jp @ m3-N51qfDy (3704)
+Your hand is 4♣, J♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 raises to 40
+jp @ m3-N51qfDy calls 40
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 40
+Flop:  [A♣, A♦, K♥]
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy folds
+Uncalled bet of 20 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 130 from pot
+-- ending hand #134 --
+Undealt cards: A♣, A♦, K♥ [A♥, 8♥]
+-- starting hand #135  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (1955) | #2 Ryan @ htQeCcunRv (7049) | #4 Jeffries @ ZTEyBEukh8 (6532) | #10 jp @ m3-N51qfDy (3664)
+Your hand is 8♦, 4♥
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+Jeffries @ ZTEyBEukh8 folds
+Flop:  [9♦, 5♦, J♣]
+Ryan @ htQeCcunRv bets 40
+Sean @ pL8pVRDugg calls 40
+Turn: 9♦, 5♦, J♣ [2♣]
+Ryan @ htQeCcunRv bets 110
+Sean @ pL8pVRDugg folds
+Uncalled bet of 110 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 220 from pot
+-- ending hand #135 --
+Undealt cards: 9♦, 5♦, J♣, 2♣ [A♥]
+-- starting hand #136  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (1855) | #2 Ryan @ htQeCcunRv (7169) | #4 Jeffries @ ZTEyBEukh8 (6512) | #10 jp @ m3-N51qfDy (3664)
+Your hand is 6♥, J♣
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+Jeffries @ ZTEyBEukh8 calls 60
+jp @ m3-N51qfDy folds
+Flop:  [9♥, 8♣, 10♥]
+Jeffries @ ZTEyBEukh8 checks
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 40
+Jeffries @ ZTEyBEukh8 calls 40
+Sean @ pL8pVRDugg folds
+Turn: 9♥, 8♣, 10♥ [6♣]
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv calls 20
+River: 9♥, 8♣, 10♥, 6♣ [8♦]
+Jeffries @ ZTEyBEukh8 bets 600
+Ryan @ htQeCcunRv folds
+Uncalled bet of 600 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 320 from pot
+-- ending hand #136 --
+-- starting hand #137  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (1795) | #2 Ryan @ htQeCcunRv (7049) | #4 Jeffries @ ZTEyBEukh8 (6712) | #10 jp @ m3-N51qfDy (3644)
+Your hand is A♦, 10♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy raises to 100
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 100
+Flop:  [2♣, K♥, 5♠]
+jp @ m3-N51qfDy bets 220
+Ryan @ htQeCcunRv folds
+Uncalled bet of 220 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 220 from pot
+-- ending hand #137 --
+Undealt cards: 2♣, K♥, 5♠ [7♥, 8♣]
+-- starting hand #138  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (1775) | #2 Ryan @ htQeCcunRv (6949) | #4 Jeffries @ ZTEyBEukh8 (6712) | #10 jp @ m3-N51qfDy (3764)
+Your hand is 4♣, 8♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 80
+Ryan @ htQeCcunRv calls 80
+Jeffries @ ZTEyBEukh8 calls 80
+Flop:  [Q♥, 7♦, J♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 40
+Jeffries @ ZTEyBEukh8 calls 40
+Sean @ pL8pVRDugg raises to 120
+Ryan @ htQeCcunRv raises to 510
+Jeffries @ ZTEyBEukh8 folds
+Sean @ pL8pVRDugg raises to 1695 and go all in
+Ryan @ htQeCcunRv calls 1695
+Remaining players decide whether to run it twice.
+Ryan @ htQeCcunRv chooses to not run it twice.
+Some players choose to not run it twice.
+Sean @ pL8pVRDugg shows a J♠, J♦.
+Ryan @ htQeCcunRv shows a 7♣, Q♣.
+Turn: Q♥, 7♦, J♥ [5♣]
+River: Q♥, 7♦, J♥, 5♣ [9♦]
+Sean @ pL8pVRDugg collected 3670 from pot with Three of a Kind, J's (combination: J♠, J♦, J♥, Q♥, 9♦)
+-- ending hand #138 --
+-- starting hand #139  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3670) | #2 Ryan @ htQeCcunRv (5174) | #4 Jeffries @ ZTEyBEukh8 (6592) | #10 jp @ m3-N51qfDy (3764)
+Your hand is 3♦, 8♦
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+Jeffries @ ZTEyBEukh8 folds
+Flop:  [9♠, A♠, 4♠]
+Ryan @ htQeCcunRv checks
+Sean @ pL8pVRDugg checks
+Turn: 9♠, A♠, 4♠ [10♥]
+Ryan @ htQeCcunRv bets 60
+Sean @ pL8pVRDugg folds
+Uncalled bet of 60 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 140 from pot
+-- ending hand #139 --
+-- starting hand #140  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3610) | #2 Ryan @ htQeCcunRv (5254) | #4 Jeffries @ ZTEyBEukh8 (6572) | #10 jp @ m3-N51qfDy (3764)
+Your hand is Q♥, 10♥
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 raises to 40
+jp @ m3-N51qfDy calls 40
+Flop:  [5♣, 3♥, 4♣]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy calls 20
+Turn: 5♣, 3♥, 4♣ [A♦]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy calls 20
+River: 5♣, 3♥, 4♣, A♦ [8♦]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy calls 20
+Jeffries @ ZTEyBEukh8 shows a K♥, K♠.
+Jeffries @ ZTEyBEukh8 collected 200 from pot with Pair, K's (combination: K♥, K♠, A♦, 8♦, 5♣)
+-- ending hand #140 --
+-- starting hand #141  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (3610) | #2 Ryan @ htQeCcunRv (5254) | #4 Jeffries @ ZTEyBEukh8 (6672) | #10 jp @ m3-N51qfDy (3664)
+Your hand is 3♠, 7♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [K♣, 7♥, A♠]
+Sean @ pL8pVRDugg bets 85
+Jeffries @ ZTEyBEukh8 calls 85
+Turn: K♣, 7♥, A♠ [J♠]
+Sean @ pL8pVRDugg bets 220
+Jeffries @ ZTEyBEukh8 calls 220
+River: K♣, 7♥, A♠, J♠ [2♠]
+Sean @ pL8pVRDugg checks
+Jeffries @ ZTEyBEukh8 checks
+Jeffries @ ZTEyBEukh8 shows a 9♣, A♦.
+Jeffries @ ZTEyBEukh8 collected 740 from pot with Pair, A's (combination: A♦, A♠, K♣, J♠, 9♣)
+Sean @ pL8pVRDugg shows a 3♣, 3♦.
+-- ending hand #141 --
+-- starting hand #142  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3245) | #2 Ryan @ htQeCcunRv (5254) | #4 Jeffries @ ZTEyBEukh8 (7047) | #10 jp @ m3-N51qfDy (3654)
+Your hand is 2♣, 9♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 40
+Ryan @ htQeCcunRv calls 40
+Flop:  [5♣, J♠, 10♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Turn: 5♣, J♠, 10♣ [3♠]
+Sean @ pL8pVRDugg bets 60
+Ryan @ htQeCcunRv calls 60
+River: 5♣, J♠, 10♣, 3♠ [Q♥]
+Sean @ pL8pVRDugg bets 350
+Ryan @ htQeCcunRv folds
+Uncalled bet of 350 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 200 from pot
+-- ending hand #142 --
+-- starting hand #143  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3345) | #2 Ryan @ htQeCcunRv (5154) | #4 Jeffries @ ZTEyBEukh8 (7047) | #10 jp @ m3-N51qfDy (3654)
+Your hand is J♣, 9♠
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv calls 20
+Jeffries @ ZTEyBEukh8 checks
+Flop:  [J♥, 4♠, 2♣]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy raises to 110
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 90 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 120 from pot
+-- ending hand #143 --
+Undealt cards: J♥, 4♠, 2♣ [6♥, Q♥]
+-- starting hand #144  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3325) | #2 Ryan @ htQeCcunRv (5134) | #4 Jeffries @ ZTEyBEukh8 (7007) | #10 jp @ m3-N51qfDy (3734)
+Your hand is Q♣, 5♦
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 60
+Flop:  [6♣, 4♦, 10♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 40
+Sean @ pL8pVRDugg calls 40
+Turn: 6♣, 4♦, 10♣ [J♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 115
+Sean @ pL8pVRDugg calls 115
+River: 6♣, 4♦, 10♣, J♦ [9♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Ryan @ htQeCcunRv shows a 4♠, A♦.
+Ryan @ htQeCcunRv collected 460 from pot with Pair, 4's (combination: 4♠, 4♦, A♦, J♦, 10♣)
+Sean @ pL8pVRDugg shows a 2♦, 2♠.
+-- ending hand #144 --
+-- starting hand #145  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (3110) | #2 Ryan @ htQeCcunRv (5379) | #4 Jeffries @ ZTEyBEukh8 (6997) | #10 jp @ m3-N51qfDy (3714)
+Your hand is 6♠, 8♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy raises to 60
+Sean @ pL8pVRDugg folds
+Uncalled bet of 40 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 40 from pot
+-- ending hand #145 --
+Undealt cards:  [8♣, K♦, A♦, 2♥, 5♥]
+-- starting hand #146  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3090) | #2 Ryan @ htQeCcunRv (5379) | #4 Jeffries @ ZTEyBEukh8 (6997) | #10 jp @ m3-N51qfDy (3734)
+Your hand is 8♥, Q♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy raises to 60
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 60
+Jeffries @ ZTEyBEukh8 folds
+Flop:  [9♥, K♠, 8♣]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 150
+Ryan @ htQeCcunRv calls 150
+Turn: 9♥, K♠, 8♣ [6♣]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 337
+Ryan @ htQeCcunRv calls 337
+River: 9♥, K♠, 8♣, 6♣ [J♣]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 1124
+Ryan @ htQeCcunRv folds
+Uncalled bet of 1124 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 1124 from pot
+-- ending hand #146 --
+-- starting hand #147  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3080) | #2 Ryan @ htQeCcunRv (4832) | #4 Jeffries @ ZTEyBEukh8 (6977) | #10 jp @ m3-N51qfDy (4311)
+Your hand is A♥, 8♠
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 60
+Flop:  [Q♥, 10♦, 9♥]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy checks
+Turn: Q♥, 10♦, 9♥ [3♠]
+Ryan @ htQeCcunRv bets 40
+jp @ m3-N51qfDy calls 40
+River: Q♥, 10♦, 9♥, 3♠ [8♥]
+Ryan @ htQeCcunRv bets 60
+jp @ m3-N51qfDy calls 60
+Ryan @ htQeCcunRv shows a 9♣, A♣.
+Ryan @ htQeCcunRv collected 340 from pot with Pair, 9's (combination: 9♣, 9♥, A♣, Q♥, 10♦)
+-- ending hand #147 --
+-- starting hand #148  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3080) | #2 Ryan @ htQeCcunRv (5012) | #4 Jeffries @ ZTEyBEukh8 (6957) | #10 jp @ m3-N51qfDy (4151)
+Your hand is A♠, 3♣
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 40 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 50 from pot
+-- ending hand #148 --
+Undealt cards:  [J♥, A♣, 8♦, 2♥, 3♠]
+jp @ m3-N51qfDy shows a A♠, 3♣.
+-- starting hand #149  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (3110) | #2 Ryan @ htQeCcunRv (5012) | #4 Jeffries @ ZTEyBEukh8 (6947) | #10 jp @ m3-N51qfDy (4131)
+Your hand is 2♦, 8♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 calls 60
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Flop:  [K♦, Q♥, 6♣]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv calls 20
+Turn: K♦, Q♥, 6♣ [K♥]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv calls 20
+River: K♦, Q♥, 6♣, K♥ [K♣]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 checks
+Ryan @ htQeCcunRv shows a A♠, 2♠.
+Ryan @ htQeCcunRv collected 230 from pot with Three of a Kind, K's (combination: K♦, K♥, K♣, A♠, Q♥)
+-- ending hand #149 --
+-- starting hand #150  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3090) | #2 Ryan @ htQeCcunRv (5142) | #4 Jeffries @ ZTEyBEukh8 (6847) | #10 jp @ m3-N51qfDy (4121)
+Your hand is 4♥, 8♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [5♣, 3♥, Q♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 40
+Jeffries @ ZTEyBEukh8 calls 40
+Sean @ pL8pVRDugg folds
+Turn: 5♣, 3♥, Q♦ [9♥]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv raises to 100
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 80 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 180 from pot
+-- ending hand #150 --
+Undealt cards: 5♣, 3♥, Q♦, 9♥ [3♠]
+-- starting hand #151  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3070) | #2 Ryan @ htQeCcunRv (5242) | #4 Jeffries @ ZTEyBEukh8 (6767) | #10 jp @ m3-N51qfDy (4121)
+Your hand is 3♥, 7♦
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+Jeffries @ ZTEyBEukh8 raises to 120
+Sean @ pL8pVRDugg calls 120
+Ryan @ htQeCcunRv calls 120
+Flop:  [Q♦, 3♦, 8♣]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Sean @ pL8pVRDugg raises to 240
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 220 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 400 from pot
+-- ending hand #151 --
+Undealt cards: Q♦, 3♦, 8♣ [Q♥, 6♦]
+-- starting hand #152  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3330) | #2 Ryan @ htQeCcunRv (5122) | #4 Jeffries @ ZTEyBEukh8 (6627) | #10 jp @ m3-N51qfDy (4121)
+Your hand is Q♥, 4♠
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv raises to 120
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 120
+Flop:  [6♦, 9♥, 7♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 202
+Sean @ pL8pVRDugg folds
+Uncalled bet of 202 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 270 from pot
+-- ending hand #152 --
+Undealt cards: 6♦, 9♥, 7♥ [Q♣, 7♣]
+-- starting hand #153  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (3210) | #2 Ryan @ htQeCcunRv (5272) | #4 Jeffries @ ZTEyBEukh8 (6617) | #10 jp @ m3-N51qfDy (4101)
+Your hand is 9♦, 2♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv calls 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg checks
+Flop:  [10♠, K♥, 3♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 70
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 70 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 70 from pot
+-- ending hand #153 --
+Undealt cards: 10♠, K♥, 3♦ [10♣, A♥]
+-- starting hand #154  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3190) | #2 Ryan @ htQeCcunRv (5252) | #4 Jeffries @ ZTEyBEukh8 (6667) | #10 jp @ m3-N51qfDy (4091)
+Your hand is 2♣, 7♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg raises to 80
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy calls 80
+Flop:  [3♣, 6♦, 2♠]
+Sean @ pL8pVRDugg checks
+jp @ m3-N51qfDy bets 180
+Sean @ pL8pVRDugg calls 180
+Turn: 3♣, 6♦, 2♠ [9♠]
+Sean @ pL8pVRDugg checks
+jp @ m3-N51qfDy bets 540
+Sean @ pL8pVRDugg folds
+Uncalled bet of 540 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 540 from pot
+-- ending hand #154 --
+jp @ m3-N51qfDy shows a 2♣, 7♣.
+Undealt cards: 3♣, 6♦, 2♠, 9♠ [A♠]
+-- starting hand #155  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2930) | #2 Ryan @ htQeCcunRv (5232) | #4 Jeffries @ ZTEyBEukh8 (6667) | #10 jp @ m3-N51qfDy (4371)
+Your hand is 6♥, K♦
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [2♥, Q♦, J♠]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+Turn: 2♥, Q♦, J♠ [4♣]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv raises to 80
+Jeffries @ ZTEyBEukh8 calls 80
+River: 2♥, Q♦, J♠, 4♣ [9♦]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 checks
+Ryan @ htQeCcunRv shows a 2♦, A♣.
+Ryan @ htQeCcunRv collected 380 from pot with Pair, 2's (combination: 2♦, 2♥, A♣, Q♦, J♠)
+-- ending hand #155 --
+-- starting hand #156  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2870) | #2 Ryan @ htQeCcunRv (5452) | #4 Jeffries @ ZTEyBEukh8 (6507) | #10 jp @ m3-N51qfDy (4371)
+Your hand is 6♦, 2♥
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy checks
+Flop:  [A♣, 8♠, 6♠]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy folds
+Uncalled bet of 20 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 40 from pot
+-- ending hand #156 --
+Undealt cards: A♣, 8♠, 6♠ [10♣, 7♠]
+-- starting hand #157  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2870) | #2 Ryan @ htQeCcunRv (5452) | #4 Jeffries @ ZTEyBEukh8 (6527) | #10 jp @ m3-N51qfDy (4351)
+Your hand is 10♠, 9♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg raises to 80
+jp @ m3-N51qfDy calls 80
+Flop:  [8♣, 10♣, J♣]
+jp @ m3-N51qfDy bets 80
+Sean @ pL8pVRDugg folds
+Uncalled bet of 80 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 160 from pot
+-- ending hand #157 --
+jp @ m3-N51qfDy shows a 10♠, 9♥.
+Undealt cards: 8♣, 10♣, J♣ [2♠, 9♦]
+-- starting hand #158  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2790) | #2 Ryan @ htQeCcunRv (5452) | #4 Jeffries @ ZTEyBEukh8 (6527) | #10 jp @ m3-N51qfDy (4431)
+Your hand is 2♥, 4♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [8♠, J♥, Q♥]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv calls 20
+Turn: 8♠, J♥, Q♥ [3♠]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv raises to 80
+Jeffries @ ZTEyBEukh8 raises to 160
+Ryan @ htQeCcunRv folds
+Uncalled bet of 80 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 330 from pot
+-- ending hand #158 --
+Undealt cards: 8♠, J♥, Q♥, 3♠ [5♦]
+-- starting hand #159  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2780) | #2 Ryan @ htQeCcunRv (5292) | #4 Jeffries @ ZTEyBEukh8 (6697) | #10 jp @ m3-N51qfDy (4431)
+Your hand is 8♠, 6♠
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 checks
+Flop:  [K♠, K♥, 10♥]
+Jeffries @ ZTEyBEukh8 checks
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 45
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 45 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 70 from pot
+-- ending hand #159 --
+Undealt cards: K♠, K♥, 10♥ [A♦, 5♠]
+-- starting hand #160  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2830) | #2 Ryan @ htQeCcunRv (5282) | #4 Jeffries @ ZTEyBEukh8 (6677) | #10 jp @ m3-N51qfDy (4411)
+Your hand is 5♠, 10♥
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 calls 60
+jp @ m3-N51qfDy folds
+Flop:  [Q♥, 5♥, 5♣]
+Jeffries @ ZTEyBEukh8 bets 20
+Sean @ pL8pVRDugg raises to 110
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 90 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 180 from pot
+-- ending hand #160 --
+jp @ m3-N51qfDy shows a 5♠, 10♥.
+Undealt cards: Q♥, 5♥, 5♣ [2♠, K♦]
+-- starting hand #161  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (2930) | #2 Ryan @ htQeCcunRv (5282) | #4 Jeffries @ ZTEyBEukh8 (6597) | #10 jp @ m3-N51qfDy (4391)
+Your hand is 3♠, 2♣
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 60
+Flop:  [K♠, 2♠, A♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Turn: K♠, 2♠, A♦ [K♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+River: K♠, 2♠, A♦, K♥ [9♥]
+Sean @ pL8pVRDugg bets 95
+Ryan @ htQeCcunRv folds
+Uncalled bet of 95 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 130 from pot
+-- ending hand #161 --
+-- starting hand #162  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3000) | #2 Ryan @ htQeCcunRv (5222) | #4 Jeffries @ ZTEyBEukh8 (6597) | #10 jp @ m3-N51qfDy (4381)
+Your hand is 3♠, 7♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [5♥, 4♣, 8♠]
+Sean @ pL8pVRDugg bets 45
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 calls 45
+Turn: 5♥, 4♣, 8♠ [8♦]
+Sean @ pL8pVRDugg bets 140
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 140 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 150 from pot
+-- ending hand #162 --
+Undealt cards: 5♥, 4♣, 8♠, 8♦ [K♠]
+-- starting hand #163  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3085) | #2 Ryan @ htQeCcunRv (5202) | #4 Jeffries @ ZTEyBEukh8 (6532) | #10 jp @ m3-N51qfDy (4381)
+Your hand is 5♣, 7♠
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [7♥, 8♦, K♣]
+Ryan @ htQeCcunRv bets 60
+Jeffries @ ZTEyBEukh8 raises to 120
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 120
+Turn: 7♥, 8♦, K♣ [2♦]
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+Ryan @ htQeCcunRv raises to 480
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 460 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 460 from pot
+-- ending hand #163 --
+Undealt cards: 7♥, 8♦, K♣, 2♦ [A♠]
+-- starting hand #164  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3025) | #2 Ryan @ htQeCcunRv (5462) | #4 Jeffries @ ZTEyBEukh8 (6332) | #10 jp @ m3-N51qfDy (4381)
+Your hand is K♥, 8♥
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy raises to 40
+Ryan @ htQeCcunRv calls 40
+Jeffries @ ZTEyBEukh8 calls 40
+Flop:  [7♦, 9♥, 3♦]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy calls 20
+Ryan @ htQeCcunRv calls 20
+Turn: 7♦, 9♥, 3♦ [K♣]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy calls 20
+Ryan @ htQeCcunRv calls 20
+River: 7♦, 9♥, 3♦, K♣ [4♣]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy raises to 230
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 210 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 280 from pot
+-- ending hand #164 --
+-- starting hand #165  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (3025) | #2 Ryan @ htQeCcunRv (5382) | #4 Jeffries @ ZTEyBEukh8 (6232) | #10 jp @ m3-N51qfDy (4561)
+Your hand is 10♦, K♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 40
+Jeffries @ ZTEyBEukh8 calls 40
+jp @ m3-N51qfDy calls 40
+Sean @ pL8pVRDugg calls 40
+Flop:  [6♥, 3♦, J♣]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 95
+Ryan @ htQeCcunRv calls 95
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy folds
+Turn: 6♥, 3♦, J♣ [K♣]
+Sean @ pL8pVRDugg bets 240
+Ryan @ htQeCcunRv folds
+Uncalled bet of 240 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 350 from pot
+-- ending hand #165 --
+Undealt cards: 6♥, 3♦, J♣, K♣ [J♦]
+-- starting hand #166  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3240) | #2 Ryan @ htQeCcunRv (5247) | #4 Jeffries @ ZTEyBEukh8 (6192) | #10 jp @ m3-N51qfDy (4521)
+Your hand is 3♠, 4♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 60 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 50 from pot
+-- ending hand #166 --
+Undealt cards:  [Q♣, 8♥, 10♦, 10♠, 4♣]
+-- starting hand #167  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3230) | #2 Ryan @ htQeCcunRv (5227) | #4 Jeffries @ ZTEyBEukh8 (6192) | #10 jp @ m3-N51qfDy (4551)
+Your hand is 8♥, 2♥
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+Jeffries @ ZTEyBEukh8 calls 60
+Flop:  [6♦, Q♣, 7♠]
+Ryan @ htQeCcunRv bets 60
+Jeffries @ ZTEyBEukh8 folds
+Uncalled bet of 60 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 120 from pot
+-- ending hand #167 --
+Undealt cards: 6♦, Q♣, 7♠ [Q♠, 7♣]
+-- starting hand #168  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3230) | #2 Ryan @ htQeCcunRv (5287) | #4 Jeffries @ ZTEyBEukh8 (6132) | #10 jp @ m3-N51qfDy (4551)
+Your hand is 8♣, Q♠
+Jeffries @ ZTEyBEukh8 posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy checks
+Flop:  [A♦, 5♠, 10♥]
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy folds
+Uncalled bet of 20 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 40 from pot
+-- ending hand #168 --
+Undealt cards: A♦, 5♠, 10♥ [10♣, 2♥]
+Jeffries @ ZTEyBEukh8 shows a Q♣, 6♣.
+-- starting hand #169  (No Limit Texas Hold'em) (dealer: Jeffries @ ZTEyBEukh8) --
+Player stacks: #1 Sean @ pL8pVRDugg (3230) | #2 Ryan @ htQeCcunRv (5287) | #4 Jeffries @ ZTEyBEukh8 (6152) | #10 jp @ m3-N51qfDy (4531)
+Your hand is 7♥, 7♣
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv calls 20
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy raises to 60
+Sean @ pL8pVRDugg raises to 180
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy calls 180
+Flop:  [2♥, 9♣, Q♥]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 187
+jp @ m3-N51qfDy folds
+Uncalled bet of 187 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 380 from pot
+-- ending hand #169 --
+Undealt cards: 2♥, 9♣, Q♥ [9♥, 8♠]
+-- starting hand #170  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3430) | #2 Ryan @ htQeCcunRv (5267) | #4 Jeffries @ ZTEyBEukh8 (6152) | #10 jp @ m3-N51qfDy (4351)
+Your hand is 8♠, K♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Jeffries @ ZTEyBEukh8 calls 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [A♥, 10♦, Q♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 40
+Jeffries @ ZTEyBEukh8 calls 40
+jp @ m3-N51qfDy calls 40
+Sean @ pL8pVRDugg calls 40
+Turn: A♥, 10♦, Q♥ [6♠]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv calls 20
+River: A♥, 10♦, Q♥, 6♠ [A♠]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Jeffries @ ZTEyBEukh8 bets 160
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 160 returned to Jeffries @ ZTEyBEukh8
+Jeffries @ ZTEyBEukh8 collected 320 from pot
+-- ending hand #170 --
+Jeffries @ ZTEyBEukh8 shows a 6♥, A♣.
+-- starting hand #171  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3350) | #2 Ryan @ htQeCcunRv (5187) | #4 Jeffries @ ZTEyBEukh8 (6392) | #10 jp @ m3-N51qfDy (4271)
+Your hand is J♣, A♥
+Ryan @ htQeCcunRv posts a small blind of 10
+Jeffries @ ZTEyBEukh8 posts a big blind of 20
+jp @ m3-N51qfDy raises to 60
+Sean @ pL8pVRDugg calls 60
+Ryan @ htQeCcunRv raises to 140
+Jeffries @ ZTEyBEukh8 folds
+jp @ m3-N51qfDy calls 140
+Sean @ pL8pVRDugg calls 140
+Flop:  [7♠, A♦, 4♠]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 220
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 220 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 440 from pot
+-- ending hand #171 --
+Ryan @ htQeCcunRv shows a J♦, J♥.
+Undealt cards: 7♠, A♦, 4♠ [5♣, 6♥]
+The player Jeffries @ ZTEyBEukh8 stand up with the stack of 6372.
+-- starting hand #172  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3210) | #2 Ryan @ htQeCcunRv (5047) | #10 jp @ m3-N51qfDy (4571)
+Your hand is J♣, 3♠
+Dead Small Blind
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+jp @ m3-N51qfDy folds
+Flop:  [K♠, A♣, 3♥]
+Sean @ pL8pVRDugg bets 55
+Ryan @ htQeCcunRv calls 55
+Turn: K♠, A♣, 3♥ [8♠]
+Sean @ pL8pVRDugg bets 80
+Ryan @ htQeCcunRv calls 80
+River: K♠, A♣, 3♥, 8♠ [6♠]
+Sean @ pL8pVRDugg bets 380
+Ryan @ htQeCcunRv calls 380
+Ryan @ htQeCcunRv shows a A♠, 7♥.
+Ryan @ htQeCcunRv collected 1170 from pot with Pair, A's (combination: A♠, A♣, K♠, 8♠, 7♥)
+Sean @ pL8pVRDugg shows a K♥, 5♦.
+-- ending hand #172 --
+-- starting hand #173  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #1 Sean @ pL8pVRDugg (2635) | #2 Ryan @ htQeCcunRv (5642) | #10 jp @ m3-N51qfDy (4551)
+Your hand is 10♠, A♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 80
+jp @ m3-N51qfDy raises to 180
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 180
+Flop:  [5♦, 3♠, J♥]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv bets 60
+jp @ m3-N51qfDy calls 60
+Turn: 5♦, 3♠, J♥ [10♣]
+jp @ m3-N51qfDy bets 375
+Ryan @ htQeCcunRv calls 375
+River: 5♦, 3♠, J♥, 10♣ [K♣]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv checks
+Ryan @ htQeCcunRv shows a J♣, 10♦.
+Ryan @ htQeCcunRv collected 1250 from pot with Two Pair, J's & 10's (combination: J♣, J♥, 10♦, 10♣, K♣)
+jp @ m3-N51qfDy shows a 10♠, A♠.
+-- ending hand #173 --
+-- starting hand #174  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2615) | #2 Ryan @ htQeCcunRv (6277) | #10 jp @ m3-N51qfDy (3936)
+Your hand is 3♣, Q♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [A♣, 3♥, 8♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 40
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Uncalled bet of 40 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 60 from pot
+-- ending hand #174 --
+Undealt cards: A♣, 3♥, 8♥ [Q♠, 5♥]
+-- starting hand #175  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2595) | #2 Ryan @ htQeCcunRv (6317) | #10 jp @ m3-N51qfDy (3916)
+Your hand is 7♥, Q♣
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 40
+jp @ m3-N51qfDy calls 40
+Flop:  [4♦, A♠, 4♣]
+Ryan @ htQeCcunRv bets 80
+jp @ m3-N51qfDy folds
+Uncalled bet of 80 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 80 from pot
+-- ending hand #175 --
+Undealt cards: 4♦, A♠, 4♣ [6♦, 8♥]
+-- starting hand #176  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2595) | #2 Ryan @ htQeCcunRv (6357) | #10 jp @ m3-N51qfDy (3876)
+Your hand is 6♠, 10♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 40
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 40
+Flop:  [Q♣, 2♦, K♠]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Turn: Q♣, 2♦, K♠ [8♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+River: Q♣, 2♦, K♠, 8♣ [2♣]
+Sean @ pL8pVRDugg bets 55
+Ryan @ htQeCcunRv folds
+Uncalled bet of 55 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 90 from pot
+-- ending hand #176 --
+-- starting hand #177  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2645) | #2 Ryan @ htQeCcunRv (6317) | #10 jp @ m3-N51qfDy (3866)
+Your hand is 8♦, 6♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 55
+Ryan @ htQeCcunRv calls 55
+Flop:  [2♥, 5♣, 10♦]
+Sean @ pL8pVRDugg bets 75
+Ryan @ htQeCcunRv calls 75
+Turn: 2♥, 5♣, 10♦ [Q♥]
+Sean @ pL8pVRDugg bets 100
+Ryan @ htQeCcunRv folds
+Uncalled bet of 100 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 260 from pot
+-- ending hand #177 --
+Undealt cards: 2♥, 5♣, 10♦, Q♥ [A♦]
+-- starting hand #178  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2775) | #2 Ryan @ htQeCcunRv (6187) | #10 jp @ m3-N51qfDy (3866)
+Your hand is 3♠, 7♥
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 55
+Ryan @ htQeCcunRv calls 55
+jp @ m3-N51qfDy folds
+Flop:  [5♣, A♠, K♠]
+Ryan @ htQeCcunRv checks
+Sean @ pL8pVRDugg bets 50
+Ryan @ htQeCcunRv folds
+Uncalled bet of 50 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 130 from pot
+-- ending hand #178 --
+Sean @ pL8pVRDugg shows a 10♠, J♥.
+Undealt cards: 5♣, A♠, K♠ [10♦, 6♦]
+-- starting hand #179  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2850) | #2 Ryan @ htQeCcunRv (6132) | #10 jp @ m3-N51qfDy (3846)
+Your hand is 7♦, 6♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 60
+jp @ m3-N51qfDy calls 60
+Sean @ pL8pVRDugg calls 60
+Flop:  [3♦, 6♥, A♣]
+jp @ m3-N51qfDy bets 90
+Sean @ pL8pVRDugg calls 90
+Ryan @ htQeCcunRv folds
+Turn: 3♦, 6♥, A♣ [10♥]
+jp @ m3-N51qfDy bets 180
+Sean @ pL8pVRDugg calls 180
+River: 3♦, 6♥, A♣, 10♥ [3♠]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg checks
+Sean @ pL8pVRDugg shows a 9♠, A♦.
+Sean @ pL8pVRDugg collected 720 from pot with Two Pair, A's & 3's (combination: A♦, A♣, 3♦, 3♠, 10♥)
+jp @ m3-N51qfDy shows a 7♦, 6♦.
+-- ending hand #179 --
+-- starting hand #180  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3240) | #2 Ryan @ htQeCcunRv (6072) | #10 jp @ m3-N51qfDy (3516)
+Your hand is 5♦, 5♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 60 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 50 from pot
+-- ending hand #180 --
+Undealt cards:  [4♥, A♦, 6♣, J♠, 6♦]
+-- starting hand #181  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3230) | #2 Ryan @ htQeCcunRv (6052) | #10 jp @ m3-N51qfDy (3546)
+Your hand is 8♣, J♥
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 55
+Ryan @ htQeCcunRv calls 55
+jp @ m3-N51qfDy folds
+Flop:  [2♥, 5♥, 7♥]
+Ryan @ htQeCcunRv bets 40
+Sean @ pL8pVRDugg calls 40
+Turn: 2♥, 5♥, 7♥ [10♠]
+Ryan @ htQeCcunRv checks
+Sean @ pL8pVRDugg checks
+River: 2♥, 5♥, 7♥, 10♠ [9♠]
+Ryan @ htQeCcunRv bets 60
+Sean @ pL8pVRDugg raises to 340
+Ryan @ htQeCcunRv folds
+Uncalled bet of 280 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 330 from pot
+-- ending hand #181 --
+-- starting hand #182  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3405) | #2 Ryan @ htQeCcunRv (5897) | #10 jp @ m3-N51qfDy (3526)
+Your hand is 9♠, 4♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 40
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 40
+Flop:  [3♥, 2♥, Q♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Turn: 3♥, 2♥, Q♥ [J♣]
+Sean @ pL8pVRDugg bets 35
+Ryan @ htQeCcunRv calls 35
+River: 3♥, 2♥, Q♥, J♣ [2♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 120
+Sean @ pL8pVRDugg folds
+Uncalled bet of 120 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 160 from pot
+-- ending hand #182 --
+Ryan @ htQeCcunRv shows a 10♠, J♠.
+-- starting hand #183  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3330) | #2 Ryan @ htQeCcunRv (5982) | #10 jp @ m3-N51qfDy (3516)
+Your hand is Q♣, 10♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg calls 80
+Ryan @ htQeCcunRv calls 80
+Flop:  [8♥, 5♦, 8♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 120
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 120 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 240 from pot
+-- ending hand #183 --
+Undealt cards: 8♥, 5♦, 8♣ [10♥, 10♣]
+jp @ m3-N51qfDy shows a Q♣, 10♠.
+-- starting hand #184  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3250) | #2 Ryan @ htQeCcunRv (5902) | #10 jp @ m3-N51qfDy (3676)
+Your hand is J♦, 4♠
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 80
+Ryan @ htQeCcunRv raises to 160
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 450
+Ryan @ htQeCcunRv calls 450
+Flop:  [K♠, 8♦, 5♠]
+Ryan @ htQeCcunRv checks
+Sean @ pL8pVRDugg bets 550
+Ryan @ htQeCcunRv calls 550
+Turn: K♠, 8♦, 5♠ [3♦]
+Ryan @ htQeCcunRv checks
+Sean @ pL8pVRDugg checks
+River: K♠, 8♦, 5♠, 3♦ [2♣]
+Ryan @ htQeCcunRv bets 690
+Sean @ pL8pVRDugg folds
+Uncalled bet of 690 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 2020 from pot
+-- ending hand #184 --
+Sean @ pL8pVRDugg shows a 10♥, 2♠.
+Ryan @ htQeCcunRv shows a Q♠, Q♦.
+-- starting hand #185  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2250) | #2 Ryan @ htQeCcunRv (6922) | #10 jp @ m3-N51qfDy (3656)
+Your hand is 4♠, K♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 80
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 80
+Flop:  [10♥, 5♣, A♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 60
+Sean @ pL8pVRDugg calls 60
+Turn: 10♥, 5♣, A♣ [9♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 80
+Sean @ pL8pVRDugg calls 80
+River: 10♥, 5♣, A♣, 9♥ [2♣]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Sean @ pL8pVRDugg shows a 3♣, Q♣.
+Sean @ pL8pVRDugg collected 450 from pot with Flush, Ac High (combination: A♣, Q♣, 5♣, 3♣, 2♣)
+-- ending hand #185 --
+Ryan @ htQeCcunRv shows a Q♠, 10♠.
+-- starting hand #186  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2480) | #2 Ryan @ htQeCcunRv (6702) | #10 jp @ m3-N51qfDy (3646)
+Your hand is 9♠, 9♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 80
+Flop:  [6♣, 9♦, 2♥]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy checks
+Turn: 6♣, 9♦, 2♥ [7♥]
+Ryan @ htQeCcunRv bets 60
+jp @ m3-N51qfDy calls 60
+River: 6♣, 9♦, 2♥, 7♥ [10♥]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 217
+Ryan @ htQeCcunRv calls 217
+jp @ m3-N51qfDy shows a 9♠, 9♣.
+jp @ m3-N51qfDy collected 724 from pot with Three of a Kind, 9's (combination: 9♠, 9♣, 9♦, 10♥, 7♥)
+-- ending hand #186 --
+Ryan @ htQeCcunRv shows a 6♥, 5♠.
+-- starting hand #187  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2470) | #2 Ryan @ htQeCcunRv (6345) | #10 jp @ m3-N51qfDy (4013)
+Your hand is J♠, 7♥
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+jp @ m3-N51qfDy checks
+Flop:  [10♦, 2♥, J♦]
+Ryan @ htQeCcunRv bets 60
+jp @ m3-N51qfDy raises to 160
+Ryan @ htQeCcunRv calls 160
+Turn: 10♦, 2♥, J♦ [A♣]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 270
+Ryan @ htQeCcunRv folds
+Uncalled bet of 270 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 360 from pot
+-- ending hand #187 --
+Undealt cards: 10♦, 2♥, J♦, A♣ [K♠]
+-- starting hand #188  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2470) | #2 Ryan @ htQeCcunRv (6165) | #10 jp @ m3-N51qfDy (4193)
+Your hand is A♠, K♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 60
+jp @ m3-N51qfDy raises to 140
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 140
+Flop:  [5♥, J♥, 4♥]
+jp @ m3-N51qfDy checks
+Ryan @ htQeCcunRv bets 300
+jp @ m3-N51qfDy folds
+Uncalled bet of 300 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 300 from pot
+-- ending hand #188 --
+jp @ m3-N51qfDy shows a A♠, K♥.
+Undealt cards: 5♥, J♥, 4♥ [8♥, K♦]
+-- starting hand #189  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2450) | #2 Ryan @ htQeCcunRv (6325) | #10 jp @ m3-N51qfDy (4053)
+Your hand is 2♣, 8♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg folds
+Uncalled bet of 10 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 20 from pot
+-- ending hand #189 --
+Undealt cards:  [K♥, K♠, 10♠, 8♥, 10♥]
+-- starting hand #190  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2440) | #2 Ryan @ htQeCcunRv (6335) | #10 jp @ m3-N51qfDy (4053)
+Your hand is K♣, 9♦
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 55
+Ryan @ htQeCcunRv calls 55
+jp @ m3-N51qfDy calls 55
+Flop:  [Q♣, 9♠, 10♠]
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy bets 123
+Sean @ pL8pVRDugg calls 123
+Turn: Q♣, 9♠, 10♠ [8♣]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 308
+jp @ m3-N51qfDy folds
+Uncalled bet of 308 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 411 from pot
+-- ending hand #190 --
+Undealt cards: Q♣, 9♠, 10♠, 8♣ [9♥]
+-- starting hand #191  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (2673) | #2 Ryan @ htQeCcunRv (6280) | #10 jp @ m3-N51qfDy (3875)
+Your hand is 10♥, 4♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv raises to 60
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 60
+Flop:  [7♦, K♣, 3♠]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 45
+Sean @ pL8pVRDugg folds
+Uncalled bet of 45 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 130 from pot
+-- ending hand #191 --
+Undealt cards: 7♦, K♣, 3♠ [Q♠, 6♥]
+-- starting hand #192  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (2613) | #2 Ryan @ htQeCcunRv (6350) | #10 jp @ m3-N51qfDy (3865)
+Your hand is 4♦, 9♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg raises to 55
+Ryan @ htQeCcunRv folds
+Uncalled bet of 35 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #192 --
+Undealt cards:  [10♦, 10♥, A♦, 10♠, 7♠]
+-- starting hand #193  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (2633) | #2 Ryan @ htQeCcunRv (6330) | #10 jp @ m3-N51qfDy (3865)
+Your hand is 2♠, Q♠
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 55
+Ryan @ htQeCcunRv calls 55
+jp @ m3-N51qfDy calls 55
+Flop:  [J♥, 6♦, 5♦]
+Ryan @ htQeCcunRv bets 60
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 60
+Turn: J♥, 6♦, 5♦ [3♦]
+Ryan @ htQeCcunRv bets 285
+Sean @ pL8pVRDugg raises to 900
+Ryan @ htQeCcunRv folds
+Uncalled bet of 615 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 855 from pot
+-- ending hand #193 --
+Undealt cards: J♥, 6♦, 5♦, 3♦ [K♠]
+-- starting hand #194  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3088) | #2 Ryan @ htQeCcunRv (5930) | #10 jp @ m3-N51qfDy (3810)
+Your hand is 7♠, 6♣
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [10♣, 3♠, 2♠]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 20
+jp @ m3-N51qfDy folds
+Uncalled bet of 20 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #194 --
+Undealt cards: 10♣, 3♠, 2♠ [Q♦, Q♠]
+-- starting hand #195  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3108) | #2 Ryan @ htQeCcunRv (5930) | #10 jp @ m3-N51qfDy (3790)
+Your hand is 6♥, 2♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [Q♠, J♠, A♠]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+Turn: Q♠, J♠, A♠ [4♠]
+Sean @ pL8pVRDugg bets 60
+Ryan @ htQeCcunRv folds
+Uncalled bet of 60 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #195 --
+Undealt cards: Q♠, J♠, A♠, 4♠ [J♦]
+Sean @ pL8pVRDugg shows a 7♦, K♠.
+-- starting hand #196  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3128) | #2 Ryan @ htQeCcunRv (5910) | #10 jp @ m3-N51qfDy (3790)
+Your hand is J♣, 7♣
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv calls 20
+jp @ m3-N51qfDy checks
+Flop:  [4♦, 7♥, 7♦]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy checks
+Turn: 4♦, 7♥, 7♦ [A♠]
+Ryan @ htQeCcunRv bets 40
+jp @ m3-N51qfDy calls 40
+River: 4♦, 7♥, 7♦, A♠ [5♦]
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy collected 120 from pot
+-- ending hand #196 --
+jp @ m3-N51qfDy shows a J♣, 7♣.
+Sean @ pL8pVRDugg shows a 3♥, 6♠.
+-- starting hand #197  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3128) | #2 Ryan @ htQeCcunRv (5850) | #10 jp @ m3-N51qfDy (3850)
+Your hand is 3♣, 7♠
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [8♠, 2♦, A♦]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 20
+jp @ m3-N51qfDy folds
+Uncalled bet of 20 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #197 --
+Undealt cards: 8♠, 2♦, A♦ [A♣, 10♠]
+-- starting hand #198  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3148) | #2 Ryan @ htQeCcunRv (5850) | #10 jp @ m3-N51qfDy (3830)
+Your hand is J♣, 6♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy raises to 80
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv folds
+Uncalled bet of 60 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 50 from pot
+-- ending hand #198 --
+Undealt cards:  [8♦, Q♦, 7♥, 2♣, 7♣]
+-- starting hand #199  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3138) | #2 Ryan @ htQeCcunRv (5830) | #10 jp @ m3-N51qfDy (3860)
+Your hand is 3♠, A♣
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Ryan @ htQeCcunRv raises to 60
+jp @ m3-N51qfDy calls 60
+Flop:  [7♣, A♦, 5♦]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy checks
+Turn: 7♣, A♦, 5♦ [9♣]
+Ryan @ htQeCcunRv bets 60
+jp @ m3-N51qfDy calls 60
+River: 7♣, A♦, 5♦, 9♣ [K♥]
+Ryan @ htQeCcunRv bets 120
+jp @ m3-N51qfDy raises to 400
+Ryan @ htQeCcunRv folds
+Uncalled bet of 280 returned to jp @ m3-N51qfDy
+jp @ m3-N51qfDy collected 480 from pot
+-- ending hand #199 --
+-- starting hand #200  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3138) | #2 Ryan @ htQeCcunRv (5590) | #10 jp @ m3-N51qfDy (4100)
+Your hand is 10♥, 6♥
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [7♠, 7♦, K♠]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg checks
+Turn: 7♠, 7♦, K♠ [2♠]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 35
+jp @ m3-N51qfDy folds
+Uncalled bet of 35 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #200 --
+Undealt cards: 7♠, 7♦, K♠, 2♠ [A♣]
+-- starting hand #201  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3158) | #2 Ryan @ htQeCcunRv (5590) | #10 jp @ m3-N51qfDy (4080)
+Your hand is K♥, 2♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ htQeCcunRv checks
+Flop:  [Q♠, Q♥, A♦]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy checks
+Turn: Q♠, Q♥, A♦ [6♣]
+Sean @ pL8pVRDugg bets 45
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 45 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 60 from pot
+-- ending hand #201 --
+Undealt cards: Q♠, Q♥, A♦, 6♣ [8♦]
+-- starting hand #202  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3198) | #2 Ryan @ htQeCcunRv (5570) | #10 jp @ m3-N51qfDy (4060)
+Your hand is Q♣, 6♣
+Ryan @ htQeCcunRv posts a small blind of 10
+jp @ m3-N51qfDy posts a big blind of 20
+Sean @ pL8pVRDugg raises to 55
+Ryan @ htQeCcunRv calls 55
+jp @ m3-N51qfDy calls 55
+Flop:  [3♥, 10♣, 5♥]
+Ryan @ htQeCcunRv checks
+jp @ m3-N51qfDy bets 82
+Sean @ pL8pVRDugg calls 82
+Ryan @ htQeCcunRv folds
+Turn: 3♥, 10♣, 5♥ [2♠]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg checks
+River: 3♥, 10♣, 5♥, 2♠ [A♣]
+jp @ m3-N51qfDy checks
+Sean @ pL8pVRDugg bets 120
+jp @ m3-N51qfDy folds
+Uncalled bet of 120 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 329 from pot
+-- ending hand #202 --
+Ryan @ htQeCcunRv shows a 9♥, 4♣.
+Sean @ pL8pVRDugg shows a K♥, K♣.
+-- starting hand #203  (No Limit Texas Hold'em) (dealer: Ryan @ htQeCcunRv) --
+Player stacks: #1 Sean @ pL8pVRDugg (3390) | #2 Ryan @ htQeCcunRv (5515) | #10 jp @ m3-N51qfDy (3923)
+Your hand is 7♠, J♦
+jp @ m3-N51qfDy posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ htQeCcunRv calls 20
+jp @ m3-N51qfDy folds
+Sean @ pL8pVRDugg checks
+Flop:  [A♣, 3♠, Q♥]
+Sean @ pL8pVRDugg checks
+Ryan @ htQeCcunRv bets 60
+Sean @ pL8pVRDugg folds
+Uncalled bet of 60 returned to Ryan @ htQeCcunRv
+Ryan @ htQeCcunRv collected 50 from pot
+-- ending hand #203 --
+Undealt cards: A♣, 3♠, Q♥ [Q♦, 3♣]
+-- starting hand #204  (No Limit Texas Hold'em) (dealer: jp @ m3-N51qfDy) --
+Player stacks: #1 Sean @ pL8pVRDugg (3370) | #2 Ryan @ htQeCcunRv (5545) | #10 jp @ m3-N51qfDy (3913)
+Your hand is 2♠, J♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+jp @ m3-N51qfDy calls 20
+Sean @ pL8pVRDugg raises to 60
+Ryan @ htQeCcunRv calls 60
+jp @ m3-N51qfDy calls 60
+Flop:  [3♦, Q♥, A♦]
+Sean @ pL8pVRDugg bets 75
+Ryan @ htQeCcunRv folds
+jp @ m3-N51qfDy folds
+Uncalled bet of 75 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 180 from pot
+-- ending hand #204 --
+Sean @ pL8pVRDugg shows a 5♠, 10♥.
+Ryan @ htQeCcunRv shows a 9♥, 5♥.
+Undealt cards: 3♦, Q♥, A♦ [9♣, 5♣]
+jp @ m3-N51qfDy shows a 2♠, J♠.
+The player jp @ m3-N51qfDy stand up with the stack of 3853.
+-- starting hand #205  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Sean @ pL8pVRDugg (3490) | #2 Ryan @ htQeCcunRv (5485)
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ htQeCcunRv posts a big blind of 20
+Sean @ pL8pVRDugg calls 20
+The admin Sean @ pL8pVRDugg enqueued the removal of the player Ryan @ htQeCcunRv.
+Ryan @ htQeCcunRv checks
+Flop:  [5♠, 3♠, 4♦]
+Ryan @ htQeCcunRv checks
+Sean @ pL8pVRDugg checks
+entry

@@ -1,0 +1,4524 @@
+The player boobs @ 2yxSpZlTPR requested a seat.
+The admin approved the player boobs @ 2yxSpZlTPR participation with a stack of 2000.
+The player Sean @ pL8pVRDugg requested a seat.
+The admin approved the player Sean @ pL8pVRDugg participation with a stack of 2000.
+-- starting hand #1  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+The player boobs @ 2yxSpZlTPR joined the game with a stack of 2000.
+The player Sean @ pL8pVRDugg joined the game with a stack of 2000.
+Player stacks: #2 boobs @ 2yxSpZlTPR (2000) | #3 Sean @ pL8pVRDugg (2000)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [9♠, J♠, 8♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: 9♠, J♠, 8♣ [6♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR bets 40
+Sean @ pL8pVRDugg calls 40
+River: 9♠, J♠, 8♣, 6♣ [J♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+boobs @ 2yxSpZlTPR shows a K♥, 5♥.
+boobs @ 2yxSpZlTPR collected 120 from pot with Pair, J's (combination: J♠, J♣, K♥, 9♠, 8♣)
+Sean @ pL8pVRDugg shows a 10♥, 4♠.
+-- ending hand #1 --
+-- starting hand #2  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2060) | #3 Sean @ pL8pVRDugg (1940)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 50
+boobs @ 2yxSpZlTPR calls 50
+Flop:  [K♦, 6♠, 3♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 45
+boobs @ 2yxSpZlTPR calls 45
+Turn: K♦, 6♠, 3♥ [8♦]
+boobs @ 2yxSpZlTPR bets 45
+Sean @ pL8pVRDugg raises to 150
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 105 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 280 from pot
+-- ending hand #2 --
+-- starting hand #3  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1920) | #3 Sean @ pL8pVRDugg (2080)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [5♦, Q♥, 6♠]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: 5♦, Q♥, 6♠ [K♦]
+Sean @ pL8pVRDugg bets 30
+boobs @ 2yxSpZlTPR calls 30
+River: 5♦, Q♥, 6♠, K♦ [3♥]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg collected 100 from pot
+-- ending hand #3 --
+-- starting hand #4  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1870) | #3 Sean @ pL8pVRDugg (2130)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 50
+boobs @ 2yxSpZlTPR calls 50
+Flop:  [10♠, 10♣, 5♠]
+boobs @ 2yxSpZlTPR bets 40
+Sean @ pL8pVRDugg calls 40
+Turn: 10♠, 10♣, 5♠ [8♠]
+boobs @ 2yxSpZlTPR bets 80
+Sean @ pL8pVRDugg calls 80
+River: 10♠, 10♣, 5♠, 8♠ [10♦]
+boobs @ 2yxSpZlTPR bets 200
+Sean @ pL8pVRDugg folds
+Uncalled bet of 200 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 340 from pot
+-- ending hand #4 --
+-- starting hand #5  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2040) | #3 Sean @ pL8pVRDugg (1960)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [2♠, 4♦, 10♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: 2♠, 4♦, 10♣ [A♦]
+Sean @ pL8pVRDugg bets 30
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 30 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #5 --
+-- starting hand #6  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2020) | #3 Sean @ pL8pVRDugg (1980)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 50
+boobs @ 2yxSpZlTPR calls 50
+Flop:  [K♦, A♥, 3♦]
+boobs @ 2yxSpZlTPR bets 65
+Sean @ pL8pVRDugg folds
+Uncalled bet of 65 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 100 from pot
+-- ending hand #6 --
+-- starting hand #7  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2070) | #3 Sean @ pL8pVRDugg (1930)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [A♦, 4♥, 7♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: A♦, 4♥, 7♣ [3♥]
+Sean @ pL8pVRDugg bets 30
+boobs @ 2yxSpZlTPR calls 30
+River: A♦, 4♥, 7♣, 3♥ [10♦]
+Sean @ pL8pVRDugg bets 70
+boobs @ 2yxSpZlTPR calls 70
+boobs @ 2yxSpZlTPR shows a 2♣, 10♣.
+boobs @ 2yxSpZlTPR collected 240 from pot with Pair, 10's (combination: 10♣, 10♦, A♦, 7♣, 4♥)
+Sean @ pL8pVRDugg shows a J♦, 2♠.
+-- ending hand #7 --
+-- starting hand #8  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2190) | #3 Sean @ pL8pVRDugg (1810)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 50
+boobs @ 2yxSpZlTPR calls 50
+Flop:  [2♣, 5♣, 8♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 30
+boobs @ 2yxSpZlTPR calls 30
+Turn: 2♣, 5♣, 8♥ [9♥]
+boobs @ 2yxSpZlTPR bets 50
+Sean @ pL8pVRDugg raises to 155
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 105 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 260 from pot
+-- ending hand #8 --
+-- starting hand #9  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2060) | #3 Sean @ pL8pVRDugg (1940)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 10 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 20 from pot
+-- ending hand #9 --
+-- starting hand #10  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2050) | #3 Sean @ pL8pVRDugg (1950)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 50
+boobs @ 2yxSpZlTPR calls 50
+Flop:  [7♦, A♣, 7♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 55
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 55 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 100 from pot
+-- ending hand #10 --
+-- starting hand #11  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2000) | #3 Sean @ pL8pVRDugg (2000)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 10 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 20 from pot
+-- ending hand #11 --
+-- starting hand #12  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1990) | #3 Sean @ pL8pVRDugg (2010)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Uncalled bet of 10 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 20 from pot
+-- ending hand #12 --
+-- starting hand #13  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2000) | #3 Sean @ pL8pVRDugg (2000)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [8♠, Q♦, J♠]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: 8♠, Q♦, J♠ [6♣]
+Sean @ pL8pVRDugg bets 60
+boobs @ 2yxSpZlTPR calls 60
+River: 8♠, Q♦, J♠, 6♣ [3♣]
+Sean @ pL8pVRDugg bets 280
+boobs @ 2yxSpZlTPR calls 280
+Sean @ pL8pVRDugg shows a 3♠, Q♣.
+Sean @ pL8pVRDugg collected 720 from pot with Two Pair, Q's & 3's (combination: Q♣, Q♦, 3♠, 3♣, J♠)
+-- ending hand #13 --
+boobs @ 2yxSpZlTPR shows a K♣, J♣.
+-- starting hand #14  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1640) | #3 Sean @ pL8pVRDugg (2360)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Uncalled bet of 10 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 20 from pot
+-- ending hand #14 --
+-- starting hand #15  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1650) | #3 Sean @ pL8pVRDugg (2350)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [Q♥, 10♦, 7♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: Q♥, 10♦, 7♣ [6♦]
+Sean @ pL8pVRDugg bets 35
+boobs @ 2yxSpZlTPR calls 35
+River: Q♥, 10♦, 7♣, 6♦ [2♣]
+Sean @ pL8pVRDugg bets 75
+boobs @ 2yxSpZlTPR calls 75
+Sean @ pL8pVRDugg shows a 6♣, 8♦.
+Sean @ pL8pVRDugg collected 260 from pot with Pair, 6's (combination: 6♣, 6♦, Q♥, 10♦, 8♦)
+-- ending hand #15 --
+boobs @ 2yxSpZlTPR shows a 6♠, 4♠.
+-- starting hand #16  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1520) | #3 Sean @ pL8pVRDugg (2480)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 50
+boobs @ 2yxSpZlTPR calls 50
+Flop:  [10♦, A♦, 4♠]
+boobs @ 2yxSpZlTPR bets 75
+Sean @ pL8pVRDugg calls 75
+Turn: 10♦, A♦, 4♠ [6♦]
+boobs @ 2yxSpZlTPR bets 145
+Sean @ pL8pVRDugg raises to 500
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 355 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 540 from pot
+-- ending hand #16 --
+-- starting hand #17  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1250) | #3 Sean @ pL8pVRDugg (2750)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 10 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 20 from pot
+-- ending hand #17 --
+-- starting hand #18  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1240) | #3 Sean @ pL8pVRDugg (2760)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Uncalled bet of 10 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 20 from pot
+-- ending hand #18 --
+-- starting hand #19  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1250) | #3 Sean @ pL8pVRDugg (2750)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 10 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 20 from pot
+-- ending hand #19 --
+Sean @ pL8pVRDugg shows a Q♦, K♣.
+-- starting hand #20  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1240) | #3 Sean @ pL8pVRDugg (2760)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 50
+boobs @ 2yxSpZlTPR calls 50
+Flop:  [5♦, 3♣, 10♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Turn: 5♦, 3♣, 10♥ [8♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 60
+boobs @ 2yxSpZlTPR calls 60
+River: 5♦, 3♣, 10♥, 8♥ [Q♥]
+boobs @ 2yxSpZlTPR bets 200
+Sean @ pL8pVRDugg folds
+Uncalled bet of 200 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 220 from pot
+-- ending hand #20 --
+-- starting hand #21  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1350) | #3 Sean @ pL8pVRDugg (2650)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [K♥, 8♣, Q♥]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: K♥, 8♣, Q♥ [A♠]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR bets 100
+The player Nick @ mXtR2R3-I6 requested a seat.
+Sean @ pL8pVRDugg folds
+Uncalled bet of 100 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 40 from pot
+-- ending hand #21 --
+-- starting hand #22  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1370) | #3 Sean @ pL8pVRDugg (2630)
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+The admin approved the player Nick @ mXtR2R3-I6 participation with a stack of 2000.
+Sean @ pL8pVRDugg raises to 50
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 30 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #22 --
+The player Nick @ mXtR2R3-I6 joined the game with a stack of 2000.
+-- starting hand #23  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2000) | #2 boobs @ 2yxSpZlTPR (1350) | #3 Sean @ pL8pVRDugg (2650)
+Sean @ pL8pVRDugg posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 checks
+Flop:  [5♣, J♠, 7♠]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Turn: 5♣, J♠, 7♠ [6♦]
+Nick @ mXtR2R3-I6 bets 20
+boobs @ 2yxSpZlTPR calls 20
+River: 5♣, J♠, 7♠, 6♦ [K♠]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+boobs @ 2yxSpZlTPR shows a 10♣, 8♣.
+boobs @ 2yxSpZlTPR collected 90 from pot with K High (combination: K♠, J♠, 10♣, 8♣, 7♠)
+Nick @ mXtR2R3-I6 shows a 4♠, 9♣.
+-- ending hand #23 --
+-- starting hand #24  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1960) | #2 boobs @ 2yxSpZlTPR (1400) | #3 Sean @ pL8pVRDugg (2640)
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 40 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 50 from pot
+-- ending hand #24 --
+-- starting hand #25  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1950) | #2 boobs @ 2yxSpZlTPR (1380) | #3 Sean @ pL8pVRDugg (2670)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg calls 60
+Flop:  [A♦, 6♠, 8♠]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 80
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Uncalled bet of 80 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 180 from pot
+-- ending hand #25 --
+-- starting hand #26  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2070) | #2 boobs @ 2yxSpZlTPR (1320) | #3 Sean @ pL8pVRDugg (2610)
+Sean @ pL8pVRDugg posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 57
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 calls 57
+Flop:  [4♣, 8♣, Q♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 62
+Nick @ mXtR2R3-I6 calls 62
+Turn: 4♣, 8♣, Q♥ [3♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 124
+Nick @ mXtR2R3-I6 calls 124
+River: 4♣, 8♣, Q♥, 3♣ [9♦]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+boobs @ 2yxSpZlTPR shows a 7♠, 6♣.
+boobs @ 2yxSpZlTPR collected 496 from pot with Q High (combination: Q♥, 9♦, 8♣, 7♠, 6♣)
+Nick @ mXtR2R3-I6 shows a 6♥, 5♥.
+-- ending hand #26 --
+-- starting hand #27  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1827) | #2 boobs @ 2yxSpZlTPR (1573) | #3 Sean @ pL8pVRDugg (2600)
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 10 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 20 from pot
+-- ending hand #27 --
+-- starting hand #28  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1817) | #2 boobs @ 2yxSpZlTPR (1583) | #3 Sean @ pL8pVRDugg (2600)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 60
+Sean @ pL8pVRDugg calls 60
+Flop:  [8♣, 8♦, K♦]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Turn: 8♣, 8♦, K♦ [10♥]
+boobs @ 2yxSpZlTPR bets 60
+Sean @ pL8pVRDugg raises to 200
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 140 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 240 from pot
+-- ending hand #28 --
+-- starting hand #29  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1817) | #2 boobs @ 2yxSpZlTPR (1463) | #3 Sean @ pL8pVRDugg (2720)
+Sean @ pL8pVRDugg posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg calls 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg calls 60
+Flop:  [Q♦, 8♠, 6♣]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 90
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 raises to 300
+boobs @ 2yxSpZlTPR calls 300
+Turn: Q♦, 8♠, 6♣ [7♠]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+River: Q♦, 8♠, 6♣, 7♠ [Q♥]
+Nick @ mXtR2R3-I6 bets 260
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 260 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 780 from pot
+-- ending hand #29 --
+-- starting hand #30  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2237) | #2 boobs @ 2yxSpZlTPR (1103) | #3 Sean @ pL8pVRDugg (2660)
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Nick @ mXtR2R3-I6 calls 60
+boobs @ 2yxSpZlTPR calls 60
+Flop:  [A♥, J♥, 7♠]
+Nick @ mXtR2R3-I6 bets 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg raises to 140
+Nick @ mXtR2R3-I6 raises to 600
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg calls 600
+Turn: A♥, J♥, 7♠ [10♣]
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg checks
+River: A♥, J♥, 7♠, 10♣ [8♣]
+Nick @ mXtR2R3-I6 bets 600
+Sean @ pL8pVRDugg folds
+Uncalled bet of 600 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 1400 from pot
+-- ending hand #30 --
+boobs @ 2yxSpZlTPR shows a 8♦, 9♦.
+-- starting hand #31  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2977) | #2 boobs @ 2yxSpZlTPR (1023) | #3 Sean @ pL8pVRDugg (2000)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg calls 60
+Flop:  [8♥, 4♥, 3♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 91
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg calls 91
+Turn: 8♥, 4♥, 3♥ [2♥]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 checks
+River: 8♥, 4♥, 3♥, 2♥ [A♠]
+Sean @ pL8pVRDugg bets 500
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 500 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 362 from pot
+-- ending hand #31 --
+-- starting hand #32  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2826) | #2 boobs @ 2yxSpZlTPR (963) | #3 Sean @ pL8pVRDugg (2211)
+Sean @ pL8pVRDugg posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg calls 20
+Nick @ mXtR2R3-I6 checks
+Flop:  [10♦, J♥, 3♦]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 20
+boobs @ 2yxSpZlTPR raises to 40
+Sean @ pL8pVRDugg calls 40
+Nick @ mXtR2R3-I6 calls 40
+Turn: 10♦, J♥, 3♦ [A♦]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 90
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 90 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 180 from pot
+-- ending hand #32 --
+-- starting hand #33  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2766) | #2 boobs @ 2yxSpZlTPR (1083) | #3 Sean @ pL8pVRDugg (2151)
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Nick @ mXtR2R3-I6 raises to 140
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg calls 140
+Flop:  [2♦, Q♣, 3♠]
+Nick @ mXtR2R3-I6 bets 120
+Sean @ pL8pVRDugg folds
+Uncalled bet of 120 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 300 from pot
+-- ending hand #33 --
+-- starting hand #34  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2926) | #2 boobs @ 2yxSpZlTPR (1063) | #3 Sean @ pL8pVRDugg (2011)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 60
+Sean @ pL8pVRDugg calls 60
+Flop:  [7♠, 10♥, 6♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 55
+boobs @ 2yxSpZlTPR calls 55
+Turn: 7♠, 10♥, 6♥ [6♦]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 140
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 140 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 230 from pot
+-- ending hand #34 --
+-- starting hand #35  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2926) | #2 boobs @ 2yxSpZlTPR (948) | #3 Sean @ pL8pVRDugg (2126)
+Sean @ pL8pVRDugg posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg calls 20
+Nick @ mXtR2R3-I6 checks
+Flop:  [2♦, A♠, 7♦]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Turn: 2♦, A♠, 7♦ [4♦]
+Sean @ pL8pVRDugg bets 50
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 50 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 60 from pot
+-- ending hand #35 --
+-- starting hand #36  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2906) | #2 boobs @ 2yxSpZlTPR (928) | #3 Sean @ pL8pVRDugg (2166)
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 40 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 50 from pot
+-- ending hand #36 --
+-- starting hand #37  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2896) | #2 boobs @ 2yxSpZlTPR (908) | #3 Sean @ pL8pVRDugg (2196)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [A♥, Q♣, A♠]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Turn: A♥, Q♣, A♠ [10♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 60
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 60 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #37 --
+-- starting hand #38  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2896) | #2 boobs @ 2yxSpZlTPR (888) | #3 Sean @ pL8pVRDugg (2216)
+Sean @ pL8pVRDugg posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg raises to 80
+Nick @ mXtR2R3-I6 calls 80
+boobs @ 2yxSpZlTPR calls 80
+Flop:  [5♠, 7♥, 5♦]
+Sean @ pL8pVRDugg bets 100
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 100 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 240 from pot
+-- ending hand #38 --
+boobs @ 2yxSpZlTPR shows a J♥, 8♣.
+-- starting hand #39  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2816) | #2 boobs @ 2yxSpZlTPR (808) | #3 Sean @ pL8pVRDugg (2376)
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Nick @ mXtR2R3-I6 calls 60
+boobs @ 2yxSpZlTPR folds
+Flop:  [3♦, A♥, 2♦]
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg checks
+Turn: 3♦, A♥, 2♦ [7♠]
+Nick @ mXtR2R3-I6 bets 70
+Sean @ pL8pVRDugg calls 70
+River: 3♦, A♥, 2♦, 7♠ [7♦]
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg bets 120
+Nick @ mXtR2R3-I6 raises to 400
+Sean @ pL8pVRDugg folds
+Uncalled bet of 280 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 520 from pot
+-- ending hand #39 --
+-- starting hand #40  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (3086) | #2 boobs @ 2yxSpZlTPR (788) | #3 Sean @ pL8pVRDugg (2126)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg calls 60
+Flop:  [9♦, 8♣, 4♠]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 checks
+Turn: 9♦, 8♣, 4♠ [5♣]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 50
+Sean @ pL8pVRDugg calls 50
+River: 9♦, 8♣, 4♠, 5♣ [2♠]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 checks
+Nick @ mXtR2R3-I6 shows a 5♦, A♣.
+Nick @ mXtR2R3-I6 collected 230 from pot with Pair, 5's (combination: 5♦, 5♣, A♣, 9♦, 8♣)
+Sean @ pL8pVRDugg shows a 6♣, 4♥.
+-- ending hand #40 --
+-- starting hand #41  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (3206) | #2 boobs @ 2yxSpZlTPR (778) | #3 Sean @ pL8pVRDugg (2016)
+Sean @ pL8pVRDugg posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 60
+Nick @ mXtR2R3-I6 calls 60
+Flop:  [8♠, 2♣, 3♣]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 60
+Sean @ pL8pVRDugg raises to 180
+Nick @ mXtR2R3-I6 calls 180
+Turn: 8♠, 2♣, 3♣ [5♦]
+Sean @ pL8pVRDugg bets 240
+Nick @ mXtR2R3-I6 raises to 600
+Sean @ pL8pVRDugg calls 600
+River: 8♠, 2♣, 3♣, 5♦ [3♥]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 600
+Sean @ pL8pVRDugg calls 600
+Sean @ pL8pVRDugg shows a 10♣, 10♠.
+Sean @ pL8pVRDugg collected 2880 from pot with Two Pair, 10's & 3's (combination: 10♣, 10♠, 3♣, 3♥, 8♠)
+Nick @ mXtR2R3-I6 shows a K♠, 9♦.
+-- ending hand #41 --
+-- starting hand #42  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1766) | #2 boobs @ 2yxSpZlTPR (778) | #3 Sean @ pL8pVRDugg (3456)
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 100
+Sean @ pL8pVRDugg calls 100
+Flop:  [J♣, 6♠, 3♦]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Turn: J♣, 6♠, 3♦ [9♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 100
+boobs @ 2yxSpZlTPR calls 100
+River: J♣, 6♠, 3♦, 9♥ [8♠]
+boobs @ 2yxSpZlTPR bets 578 and go all in
+Sean @ pL8pVRDugg calls 578
+boobs @ 2yxSpZlTPR shows a 7♣, 5♥.
+boobs @ 2yxSpZlTPR collected 1566 from pot with Straight, 9 High (combination: 9♥, 8♠, 7♣, 6♠, 5♥)
+Sean @ pL8pVRDugg shows a 5♠, J♠.
+-- ending hand #42 --
+-- starting hand #43  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1756) | #2 boobs @ 2yxSpZlTPR (1566) | #3 Sean @ pL8pVRDugg (2678)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 10 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 20 from pot
+-- ending hand #43 --
+-- starting hand #44  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1756) | #2 boobs @ 2yxSpZlTPR (1556) | #3 Sean @ pL8pVRDugg (2688)
+Sean @ pL8pVRDugg posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 70
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 50 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #44 --
+-- starting hand #45  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1736) | #2 boobs @ 2yxSpZlTPR (1556) | #3 Sean @ pL8pVRDugg (2708)
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Nick @ mXtR2R3-I6 calls 60
+boobs @ 2yxSpZlTPR calls 60
+Flop:  [J♦, K♠, A♦]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Turn: J♦, K♠, A♦ [J♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 135
+Sean @ pL8pVRDugg calls 135
+Nick @ mXtR2R3-I6 folds
+River: J♦, K♠, A♦, J♣ [A♣]
+boobs @ 2yxSpZlTPR bets 400
+Sean @ pL8pVRDugg folds
+Uncalled bet of 400 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 450 from pot
+-- ending hand #45 --
+-- starting hand #46  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1676) | #2 boobs @ 2yxSpZlTPR (1811) | #3 Sean @ pL8pVRDugg (2513)
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg calls 60
+Flop:  [8♣, 4♠, Q♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 checks
+Turn: 8♣, 4♠, Q♥ [A♥]
+boobs @ 2yxSpZlTPR bets 200
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 calls 200
+River: 8♣, 4♠, Q♥, A♥ [6♠]
+boobs @ 2yxSpZlTPR checks
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR shows a 10♣, A♠.
+boobs @ 2yxSpZlTPR collected 580 from pot with Pair, A's (combination: A♠, A♥, Q♥, 10♣, 8♣)
+-- ending hand #46 --
+-- starting hand #47  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1416) | #2 boobs @ 2yxSpZlTPR (2131) | #3 Sean @ pL8pVRDugg (2453)
+Sean @ pL8pVRDugg posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 checks
+Flop:  [K♣, K♥, 9♣]
+Nick @ mXtR2R3-I6 bets 30
+boobs @ 2yxSpZlTPR calls 30
+Turn: K♣, K♥, 9♣ [5♣]
+Nick @ mXtR2R3-I6 bets 40
+boobs @ 2yxSpZlTPR calls 40
+River: K♣, K♥, 9♣, 5♣ [2♣]
+Nick @ mXtR2R3-I6 bets 100
+The player JP @ m3-N51qfDy requested a seat.
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 100 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 190 from pot
+-- ending hand #47 --
+-- starting hand #48  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1516) | #2 boobs @ 2yxSpZlTPR (2041) | #3 Sean @ pL8pVRDugg (2443)
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+The admin approved the player JP @ m3-N51qfDy participation with a stack of 2000.
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 10 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 20 from pot
+-- ending hand #48 --
+The player JP @ m3-N51qfDy joined the game with a stack of 2000.
+-- starting hand #49  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1506) | #2 boobs @ 2yxSpZlTPR (2051) | #3 Sean @ pL8pVRDugg (2443) | #10 JP @ m3-N51qfDy (2000)
+Your hand is 4♠, 4♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 80
+Sean @ pL8pVRDugg calls 80
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 80
+Flop:  [6♣, 7♦, 8♦]
+boobs @ 2yxSpZlTPR bets 130
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 130 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 260 from pot
+-- ending hand #49 --
+Undealt cards: 6♣, 7♦, 8♦ [4♦, 8♠]
+-- starting hand #50  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1426) | #2 boobs @ 2yxSpZlTPR (2231) | #3 Sean @ pL8pVRDugg (2363) | #10 JP @ m3-N51qfDy (1980)
+Your hand is 2♥, 9♥
+Sean @ pL8pVRDugg posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 57
+Sean @ pL8pVRDugg calls 57
+JP @ m3-N51qfDy folds
+Flop:  [9♣, 5♥, K♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR bets 100
+Sean @ pL8pVRDugg calls 100
+Turn: 9♣, 5♥, K♣ [7♥]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR bets 250
+Sean @ pL8pVRDugg calls 250
+River: 9♣, 5♥, K♣, 7♥ [Q♦]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+boobs @ 2yxSpZlTPR shows a 8♦, K♥.
+boobs @ 2yxSpZlTPR collected 834 from pot with Pair, K's (combination: K♥, K♣, Q♦, 9♣, 8♦)
+Sean @ pL8pVRDugg shows a 6♣, 7♦.
+-- ending hand #50 --
+-- starting hand #51  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1426) | #2 boobs @ 2yxSpZlTPR (2658) | #3 Sean @ pL8pVRDugg (1956) | #10 JP @ m3-N51qfDy (1960)
+Your hand is Q♦, 9♣
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 57
+Sean @ pL8pVRDugg calls 57
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+Flop:  [A♥, 2♣, 7♣]
+boobs @ 2yxSpZlTPR bets 72
+Sean @ pL8pVRDugg calls 72
+Turn: A♥, 2♣, 7♣ [10♠]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 180
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 180 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 288 from pot
+-- ending hand #51 --
+-- starting hand #52  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1406) | #2 boobs @ 2yxSpZlTPR (2529) | #3 Sean @ pL8pVRDugg (2115) | #10 JP @ m3-N51qfDy (1950)
+Your hand is 2♥, 9♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR checks
+Flop:  [2♦, 6♥, 9♦]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 40
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 40 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 40 from pot
+-- ending hand #52 --
+Undealt cards: 2♦, 6♥, 9♦ [8♣, Q♦]
+-- starting hand #53  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1386) | #2 boobs @ 2yxSpZlTPR (2549) | #3 Sean @ pL8pVRDugg (2115) | #10 JP @ m3-N51qfDy (1950)
+Your hand is 5♥, 10♦
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 50
+boobs @ 2yxSpZlTPR calls 50
+Sean @ pL8pVRDugg calls 50
+Flop:  [5♦, A♥, 3♣]
+boobs @ 2yxSpZlTPR bets 112
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 112 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 150 from pot
+-- ending hand #53 --
+Undealt cards: 5♦, A♥, 3♣ [3♠, J♣]
+-- starting hand #54  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1336) | #2 boobs @ 2yxSpZlTPR (2649) | #3 Sean @ pL8pVRDugg (2065) | #10 JP @ m3-N51qfDy (1950)
+Your hand is A♥, J♠
+Sean @ pL8pVRDugg posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 90
+JP @ m3-N51qfDy calls 90
+Nick @ mXtR2R3-I6 folds
+Flop:  [5♣, 2♥, A♣]
+Sean @ pL8pVRDugg bets 120
+JP @ m3-N51qfDy raises to 300
+Sean @ pL8pVRDugg folds
+Uncalled bet of 180 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 440 from pot
+-- ending hand #54 --
+Sean @ pL8pVRDugg shows a 7♠, 2♣.
+-- starting hand #55  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1316) | #2 boobs @ 2yxSpZlTPR (2649) | #3 Sean @ pL8pVRDugg (1855) | #10 JP @ m3-N51qfDy (2180)
+Your hand is A♣, 6♠
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg calls 20
+JP @ m3-N51qfDy raises to 80
+Nick @ mXtR2R3-I6 calls 80
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg calls 80
+Flop:  [5♠, 2♦, J♠]
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg bets 100
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 100 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 260 from pot
+-- ending hand #55 --
+Undealt cards: 5♠, 2♦, J♠ [8♣, 8♠]
+The player Sean @ pL8pVRDugg stand up with the stack of 2035.
+-- starting hand #56  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1236) | #2 boobs @ 2yxSpZlTPR (2629) | #10 JP @ m3-N51qfDy (2100)
+Your hand is J♥, 4♦
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 60
+Nick @ mXtR2R3-I6 calls 60
+Flop:  [9♦, 7♣, 5♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 90
+Nick @ mXtR2R3-I6 raises to 200
+boobs @ 2yxSpZlTPR calls 200
+Turn: 9♦, 7♣, 5♥ [2♠]
+Nick @ mXtR2R3-I6 bets 200
+boobs @ 2yxSpZlTPR calls 200
+River: 9♦, 7♣, 5♥, 2♠ [K♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Nick @ mXtR2R3-I6 shows a 5♦, 7♥.
+Nick @ mXtR2R3-I6 collected 920 from pot with Two Pair, 7's & 5's (combination: 7♥, 7♣, 5♦, 5♥, K♥)
+-- ending hand #56 --
+The player Sean @ pL8pVRDugg sit back with the stack of 2035.
+The player Sean @ pL8pVRDugg joined the game with a stack of 2035.
+-- starting hand #57  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1696) | #2 boobs @ 2yxSpZlTPR (2169) | #3 Sean @ pL8pVRDugg (2035) | #10 JP @ m3-N51qfDy (2100)
+Your hand is 5♣, 10♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR raises to 130
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 calls 130
+Flop:  [5♦, 4♣, J♣]
+boobs @ 2yxSpZlTPR checks
+Nick @ mXtR2R3-I6 checks
+Turn: 5♦, 4♣, J♣ [A♣]
+boobs @ 2yxSpZlTPR bets 140
+Nick @ mXtR2R3-I6 calls 140
+River: 5♦, 4♣, J♣, A♣ [8♦]
+boobs @ 2yxSpZlTPR checks
+Nick @ mXtR2R3-I6 bets 150
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 150 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 560 from pot
+-- ending hand #57 --
+-- starting hand #58  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1986) | #2 boobs @ 2yxSpZlTPR (1899) | #3 Sean @ pL8pVRDugg (2015) | #10 JP @ m3-N51qfDy (2100)
+Your hand is 9♦, 7♦
+Sean @ pL8pVRDugg posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg calls 20
+JP @ m3-N51qfDy checks
+Flop:  [J♠, A♠, J♥]
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 checks
+Turn: J♠, A♠, J♥ [8♠]
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 folds
+River: J♠, A♠, J♥, 8♠ [3♦]
+Sean @ pL8pVRDugg bets 120
+JP @ m3-N51qfDy folds
+Uncalled bet of 120 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 60 from pot
+-- ending hand #58 --
+-- starting hand #59  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1966) | #2 boobs @ 2yxSpZlTPR (1899) | #3 Sean @ pL8pVRDugg (2055) | #10 JP @ m3-N51qfDy (2080)
+Your hand is A♥, 9♣
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy raises to 80
+Nick @ mXtR2R3-I6 calls 80
+boobs @ 2yxSpZlTPR calls 80
+Flop:  [2♥, 3♥, Q♣]
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Turn: 2♥, 3♥, Q♣ [6♣]
+JP @ m3-N51qfDy bets 140
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 140 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 240 from pot
+-- ending hand #59 --
+Undealt cards: 2♥, 3♥, Q♣, 6♣ [7♦]
+-- starting hand #60  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1886) | #2 boobs @ 2yxSpZlTPR (1819) | #3 Sean @ pL8pVRDugg (2055) | #10 JP @ m3-N51qfDy (2240)
+Your hand is 6♥, 9♦
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy raises to 140
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 140
+Flop:  [5♦, A♥, 4♣]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 200
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 200 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 290 from pot
+-- ending hand #60 --
+Nick @ mXtR2R3-I6 shows a 2♠, 3♣.
+JP @ m3-N51qfDy shows a 6♥, 9♦.
+Undealt cards: 5♦, A♥, 4♣ [6♠, A♦]
+-- starting hand #61  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1876) | #2 boobs @ 2yxSpZlTPR (1679) | #3 Sean @ pL8pVRDugg (2055) | #10 JP @ m3-N51qfDy (2390)
+Your hand is J♦, 4♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg checks
+Flop:  [5♠, 3♥, J♥]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 27
+Sean @ pL8pVRDugg calls 27
+Turn: 5♠, 3♥, J♥ [4♠]
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 checks
+River: 5♠, 3♥, J♥, 4♠ [A♦]
+Sean @ pL8pVRDugg bets 200
+Nick @ mXtR2R3-I6 calls 200
+Sean @ pL8pVRDugg shows a 6♠, 2♦.
+Sean @ pL8pVRDugg collected 504 from pot with Straight, 6 High (combination: 6♠, 5♠, 4♠, 3♥, 2♦)
+-- ending hand #61 --
+-- starting hand #62  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1629) | #2 boobs @ 2yxSpZlTPR (1669) | #3 Sean @ pL8pVRDugg (2312) | #10 JP @ m3-N51qfDy (2390)
+Your hand is 10♥, 5♠
+Sean @ pL8pVRDugg posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR raises to 100
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 100
+Flop:  [7♥, 6♠, 6♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Turn: 7♥, 6♠, 6♣ [4♣]
+Nick @ mXtR2R3-I6 bets 110
+boobs @ 2yxSpZlTPR calls 110
+River: 7♥, 6♠, 6♣, 4♣ [4♠]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+boobs @ 2yxSpZlTPR shows a Q♦, J♣.
+boobs @ 2yxSpZlTPR collected 450 from pot with Two Pair, 6's & 4's (combination: 6♠, 6♣, 4♣, 4♠, Q♦)
+Nick @ mXtR2R3-I6 shows a 10♠, 9♠.
+-- ending hand #62 --
+Sean @ pL8pVRDugg shows a 8♣, 6♥.
+-- starting hand #63  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1419) | #2 boobs @ 2yxSpZlTPR (1909) | #3 Sean @ pL8pVRDugg (2302) | #10 JP @ m3-N51qfDy (2370)
+Your hand is 8♣, 2♦
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg calls 70
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 70
+Flop:  [7♠, 6♦, 10♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 165
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 165 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 220 from pot
+-- ending hand #63 --
+-- starting hand #64  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1349) | #2 boobs @ 2yxSpZlTPR (2059) | #3 Sean @ pL8pVRDugg (2232) | #10 JP @ m3-N51qfDy (2360)
+Your hand is 6♥, A♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy raises to 100
+Nick @ mXtR2R3-I6 calls 100
+boobs @ 2yxSpZlTPR folds
+Flop:  [3♣, 8♣, A♥]
+Nick @ mXtR2R3-I6 checks
+JP @ m3-N51qfDy bets 140
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 140 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 220 from pot
+-- ending hand #64 --
+Undealt cards: 3♣, 8♣, A♥ [5♥, 2♠]
+-- starting hand #65  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1249) | #2 boobs @ 2yxSpZlTPR (2039) | #3 Sean @ pL8pVRDugg (2232) | #10 JP @ m3-N51qfDy (2480)
+Your hand is 4♠, 2♦
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 50
+boobs @ 2yxSpZlTPR raises to 80
+Sean @ pL8pVRDugg raises to 240
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 160 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 210 from pot
+-- ending hand #65 --
+Undealt cards:  [5♥, Q♥, Q♠, 9♥, 6♣]
+-- starting hand #66  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1199) | #2 boobs @ 2yxSpZlTPR (1959) | #3 Sean @ pL8pVRDugg (2362) | #10 JP @ m3-N51qfDy (2480)
+Your hand is 9♥, 5♣
+Sean @ pL8pVRDugg posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 72
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 72
+Flop:  [8♠, 9♠, J♠]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 87
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 87 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 174 from pot
+-- ending hand #66 --
+Sean @ pL8pVRDugg shows a 8♣, J♦.
+Undealt cards: 8♠, 9♠, J♠ [10♥, 2♦]
+-- starting hand #67  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1127) | #2 boobs @ 2yxSpZlTPR (2061) | #3 Sean @ pL8pVRDugg (2352) | #10 JP @ m3-N51qfDy (2460)
+Your hand is Q♠, Q♥
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg calls 70
+JP @ m3-N51qfDy raises to 160
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 160
+Sean @ pL8pVRDugg calls 160
+Flop:  [10♥, K♥, 6♥]
+The player Shmoley @ OwnSfn9gR- requested a seat.
+JP @ m3-N51qfDy checks
+The admin approved the player Shmoley @ OwnSfn9gR- participation with a stack of 2000.
+boobs @ 2yxSpZlTPR bets 85
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy calls 85
+Turn: 10♥, K♥, 6♥ [J♦]
+JP @ m3-N51qfDy bets 179
+boobs @ 2yxSpZlTPR raises to 358
+JP @ m3-N51qfDy calls 358
+River: 10♥, K♥, 6♥, J♦ [7♥]
+JP @ m3-N51qfDy bets 383
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 383 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 1386 from pot
+-- ending hand #67 --
+The player Shmoley @ OwnSfn9gR- joined the game with a stack of 2000.
+-- starting hand #68  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1107) | #2 boobs @ 2yxSpZlTPR (1458) | #3 Sean @ pL8pVRDugg (2192) | #9 Shmoley @ OwnSfn9gR- (2000) | #10 JP @ m3-N51qfDy (3243)
+Your hand is A♦, 2♥
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- raises to 60
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 60
+boobs @ 2yxSpZlTPR raises to 100
+Shmoley @ OwnSfn9gR- calls 100
+Nick @ mXtR2R3-I6 calls 100
+Flop:  [3♥, A♣, 8♦]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Shmoley @ OwnSfn9gR- bets 150
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 150 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 300 from pot
+-- ending hand #68 --
+-- starting hand #69  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1007) | #2 boobs @ 2yxSpZlTPR (1358) | #3 Sean @ pL8pVRDugg (2192) | #9 Shmoley @ OwnSfn9gR- (2200) | #10 JP @ m3-N51qfDy (3243)
+Your hand is 10♣, Q♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 80
+JP @ m3-N51qfDy calls 80
+Flop:  [Q♥, 5♦, A♦]
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy checks
+Turn: Q♥, 5♦, A♦ [9♦]
+Sean @ pL8pVRDugg bets 95
+JP @ m3-N51qfDy calls 95
+River: Q♥, 5♦, A♦, 9♦ [A♣]
+Sean @ pL8pVRDugg bets 290
+JP @ m3-N51qfDy calls 290
+Sean @ pL8pVRDugg shows a A♠, 6♣.
+Sean @ pL8pVRDugg collected 940 from pot with Three of a Kind, A's (combination: A♠, A♦, A♣, Q♥, 9♦)
+-- ending hand #69 --
+-- starting hand #70  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1007) | #2 boobs @ 2yxSpZlTPR (1348) | #3 Sean @ pL8pVRDugg (2667) | #9 Shmoley @ OwnSfn9gR- (2200) | #10 JP @ m3-N51qfDy (2778)
+Your hand is 6♦, 8♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 80
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 60 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #70 --
+Undealt cards:  [J♥, 4♠, 9♣, 6♣, 10♦]
+-- starting hand #71  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1007) | #2 boobs @ 2yxSpZlTPR (1348) | #3 Sean @ pL8pVRDugg (2687) | #9 Shmoley @ OwnSfn9gR- (2180) | #10 JP @ m3-N51qfDy (2778)
+Your hand is K♥, Q♠
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy checks
+Flop:  [9♣, 9♦, 9♥]
+Shmoley @ OwnSfn9gR- checks
+JP @ m3-N51qfDy bets 120
+boobs @ 2yxSpZlTPR calls 120
+Shmoley @ OwnSfn9gR- folds
+Turn: 9♣, 9♦, 9♥ [7♦]
+JP @ m3-N51qfDy checks
+boobs @ 2yxSpZlTPR bets 200
+JP @ m3-N51qfDy folds
+Uncalled bet of 200 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 300 from pot
+-- ending hand #71 --
+Undealt cards: 9♣, 9♦, 9♥, 7♦ [3♦]
+-- starting hand #72  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1007) | #2 boobs @ 2yxSpZlTPR (1508) | #3 Sean @ pL8pVRDugg (2687) | #9 Shmoley @ OwnSfn9gR- (2160) | #10 JP @ m3-N51qfDy (2638)
+Your hand is Q♠, 8♥
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 checks
+Flop:  [2♦, 4♠, 4♣]
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Shmoley @ OwnSfn9gR- bets 60
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 60 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 80 from pot
+-- ending hand #72 --
+Undealt cards: 2♦, 4♠, 4♣ [7♣, 6♣]
+-- starting hand #73  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (987) | #2 boobs @ 2yxSpZlTPR (1488) | #3 Sean @ pL8pVRDugg (2687) | #9 Shmoley @ OwnSfn9gR- (2220) | #10 JP @ m3-N51qfDy (2618)
+Your hand is 4♦, 2♥
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Shmoley @ OwnSfn9gR- calls 60
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 60
+Flop:  [2♠, A♦, 4♠]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 80
+Shmoley @ OwnSfn9gR- folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 80 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 190 from pot
+-- ending hand #73 --
+Undealt cards: 2♠, A♦, 4♠ [7♥, 10♥]
+-- starting hand #74  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (977) | #2 boobs @ 2yxSpZlTPR (1428) | #3 Sean @ pL8pVRDugg (2817) | #9 Shmoley @ OwnSfn9gR- (2160) | #10 JP @ m3-N51qfDy (2618)
+Your hand is 6♥, K♥
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg checks
+Flop:  [9♥, 8♠, 9♦]
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy checks
+Turn: 9♥, 8♠, 9♦ [2♠]
+Sean @ pL8pVRDugg bets 35
+JP @ m3-N51qfDy calls 35
+River: 9♥, 8♠, 9♦, 2♠ [4♥]
+Sean @ pL8pVRDugg bets 85
+JP @ m3-N51qfDy folds
+Uncalled bet of 85 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 120 from pot
+-- ending hand #74 --
+-- starting hand #75  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (977) | #2 boobs @ 2yxSpZlTPR (1418) | #3 Sean @ pL8pVRDugg (2882) | #9 Shmoley @ OwnSfn9gR- (2160) | #10 JP @ m3-N51qfDy (2563)
+Your hand is A♣, 7♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy raises to 120
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 120
+Sean @ pL8pVRDugg calls 120
+Shmoley @ OwnSfn9gR- calls 120
+Flop:  [9♣, 3♥, Q♠]
+Sean @ pL8pVRDugg checks
+Shmoley @ OwnSfn9gR- checks
+JP @ m3-N51qfDy checks
+boobs @ 2yxSpZlTPR checks
+Turn: 9♣, 3♥, Q♠ [K♣]
+Sean @ pL8pVRDugg checks
+Shmoley @ OwnSfn9gR- bets 240
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 680
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 440 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 960 from pot
+-- ending hand #75 --
+Undealt cards: 9♣, 3♥, Q♠, K♣ [8♣]
+-- starting hand #76  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (977) | #2 boobs @ 2yxSpZlTPR (1298) | #3 Sean @ pL8pVRDugg (3482) | #9 Shmoley @ OwnSfn9gR- (1800) | #10 JP @ m3-N51qfDy (2443)
+Your hand is 2♣, 4♥
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 10 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 20 from pot
+-- ending hand #76 --
+JP @ m3-N51qfDy shows a 2♣, 4♥.
+Undealt cards:  [5♦, 9♥, J♠, K♥, 8♠]
+-- starting hand #77  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (977) | #2 boobs @ 2yxSpZlTPR (1298) | #3 Sean @ pL8pVRDugg (3482) | #9 Shmoley @ OwnSfn9gR- (1790) | #10 JP @ m3-N51qfDy (2453)
+Your hand is 4♣, 5♣
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 60
+Shmoley @ OwnSfn9gR- calls 60
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 60
+Flop:  [A♦, 7♠, J♥]
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg bets 110
+Shmoley @ OwnSfn9gR- calls 110
+Nick @ mXtR2R3-I6 folds
+Turn: A♦, 7♠, J♥ [8♥]
+Sean @ pL8pVRDugg bets 320
+Shmoley @ OwnSfn9gR- calls 320
+River: A♦, 7♠, J♥, 8♥ [9♠]
+Sean @ pL8pVRDugg checks
+Shmoley @ OwnSfn9gR- checks
+Shmoley @ OwnSfn9gR- shows a 7♣, 7♥.
+Shmoley @ OwnSfn9gR- collected 1050 from pot with Three of a Kind, 7's (combination: 7♣, 7♥, 7♠, A♦, J♥)
+Sean @ pL8pVRDugg shows a K♠, 6♠.
+-- ending hand #77 --
+-- starting hand #78  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (917) | #2 boobs @ 2yxSpZlTPR (1298) | #3 Sean @ pL8pVRDugg (2992) | #9 Shmoley @ OwnSfn9gR- (2350) | #10 JP @ m3-N51qfDy (2443)
+Your hand is 7♠, K♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR raises to 100
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 100
+Flop:  [Q♥, A♣, 10♣]
+Nick @ mXtR2R3-I6 bets 160
+boobs @ 2yxSpZlTPR raises to 320
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 160 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 540 from pot
+-- ending hand #78 --
+-- starting hand #79  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (657) | #2 boobs @ 2yxSpZlTPR (1578) | #3 Sean @ pL8pVRDugg (2992) | #9 Shmoley @ OwnSfn9gR- (2350) | #10 JP @ m3-N51qfDy (2423)
+Your hand is 4♦, 7♦
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 60
+Sean @ pL8pVRDugg folds
+Uncalled bet of 40 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 40 from pot
+-- ending hand #79 --
+Undealt cards:  [Q♥, 8♦, 10♦, A♣, 2♣]
+-- starting hand #80  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (657) | #2 boobs @ 2yxSpZlTPR (1598) | #3 Sean @ pL8pVRDugg (2972) | #9 Shmoley @ OwnSfn9gR- (2350) | #10 JP @ m3-N51qfDy (2423)
+Your hand is K♣, 5♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 72
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+Nick @ mXtR2R3-I6 calls 72
+Flop:  [7♥, 10♦, J♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 130
+Nick @ mXtR2R3-I6 raises to 585 and go all in
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 455 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 434 from pot
+-- ending hand #80 --
+-- starting hand #81  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (889) | #2 boobs @ 2yxSpZlTPR (1396) | #3 Sean @ pL8pVRDugg (2962) | #9 Shmoley @ OwnSfn9gR- (2330) | #10 JP @ m3-N51qfDy (2423)
+Your hand is 7♥, 2♥
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy checks
+Flop:  [4♥, 8♣, 6♣]
+Shmoley @ OwnSfn9gR- bets 30
+JP @ m3-N51qfDy raises to 160
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 130 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 100 from pot
+-- ending hand #81 --
+Undealt cards: 4♥, 8♣, 6♣ [2♦, 5♣]
+-- starting hand #82  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (889) | #2 boobs @ 2yxSpZlTPR (1396) | #3 Sean @ pL8pVRDugg (2962) | #9 Shmoley @ OwnSfn9gR- (2280) | #10 JP @ m3-N51qfDy (2473)
+Your hand is 6♦, 6♠
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg calls 20
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 checks
+Flop:  [7♥, 2♦, 10♥]
+JP @ m3-N51qfDy bets 80
+Nick @ mXtR2R3-I6 calls 80
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+Turn: 7♥, 2♦, 10♥ [J♥]
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 bets 789 and go all in
+JP @ m3-N51qfDy folds
+Uncalled bet of 789 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 260 from pot
+-- ending hand #82 --
+JP @ m3-N51qfDy shows a 6♦, 6♠.
+boobs @ 2yxSpZlTPR shows a 2♥, 3♠.
+Undealt cards: 7♥, 2♦, 10♥, J♥ [2♣]
+-- starting hand #83  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1049) | #2 boobs @ 2yxSpZlTPR (1376) | #3 Sean @ pL8pVRDugg (2942) | #9 Shmoley @ OwnSfn9gR- (2260) | #10 JP @ m3-N51qfDy (2373)
+Your hand is 5♣, 10♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR raises to 165
+Shmoley @ OwnSfn9gR- folds
+Nick @ mXtR2R3-I6 calls 165
+Flop:  [A♠, Q♠, K♦]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 262
+Nick @ mXtR2R3-I6 calls 262
+Turn: A♠, Q♠, K♦ [2♠]
+Nick @ mXtR2R3-I6 bets 622 and go all in
+boobs @ 2yxSpZlTPR calls 622
+Nick @ mXtR2R3-I6 shows a J♣, K♠.
+boobs @ 2yxSpZlTPR shows a 8♣, A♦.
+River: A♠, Q♠, K♦, 2♠ [Q♣]
+boobs @ 2yxSpZlTPR collected 2118 from pot with Two Pair, A's & Q's (combination: A♦, A♠, Q♠, Q♣, K♦)
+-- ending hand #83 --
+The player Nick @ mXtR2R3-I6 quits the game with a stack of 0.
+-- starting hand #84  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2445) | #3 Sean @ pL8pVRDugg (2942) | #9 Shmoley @ OwnSfn9gR- (2240) | #10 JP @ m3-N51qfDy (2373)
+Your hand is 7♣, 8♦
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Shmoley @ OwnSfn9gR- calls 20
+The player Nick @ mXtR2R3-I6 requested a seat.
+JP @ m3-N51qfDy folds
+The admin approved the player Nick @ mXtR2R3-I6 participation with a stack of 2000.
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg checks
+Flop:  [Q♣, 7♦, 9♣]
+boobs @ 2yxSpZlTPR bets 60
+Sean @ pL8pVRDugg calls 60
+Shmoley @ OwnSfn9gR- folds
+Turn: Q♣, 7♦, 9♣ [5♠]
+boobs @ 2yxSpZlTPR bets 300
+Sean @ pL8pVRDugg folds
+Uncalled bet of 300 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 180 from pot
+-- ending hand #84 --
+The player Nick @ mXtR2R3-I6 joined the game with a stack of 2000.
+-- starting hand #85  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2000) | #2 boobs @ 2yxSpZlTPR (2545) | #3 Sean @ pL8pVRDugg (2862) | #9 Shmoley @ OwnSfn9gR- (2220) | #10 JP @ m3-N51qfDy (2373)
+Your hand is 5♦, A♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 72
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 72
+Nick @ mXtR2R3-I6 calls 72
+Flop:  [10♠, 10♣, Q♠]
+Shmoley @ OwnSfn9gR- checks
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 80
+Shmoley @ OwnSfn9gR- calls 80
+Nick @ mXtR2R3-I6 folds
+Turn: 10♠, 10♣, Q♠ [5♥]
+Shmoley @ OwnSfn9gR- bets 290
+boobs @ 2yxSpZlTPR calls 290
+River: 10♠, 10♣, Q♠, 5♥ [Q♣]
+Shmoley @ OwnSfn9gR- checks
+boobs @ 2yxSpZlTPR bets 483
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 483 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 966 from pot
+-- ending hand #85 --
+Sean @ pL8pVRDugg shows a 2♣, 7♦.
+-- starting hand #86  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1928) | #2 boobs @ 2yxSpZlTPR (3069) | #3 Sean @ pL8pVRDugg (2852) | #9 Shmoley @ OwnSfn9gR- (1778) | #10 JP @ m3-N51qfDy (2373)
+Your hand is Q♥, 10♠
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 60
+Flop:  [7♠, Q♦, 3♠]
+JP @ m3-N51qfDy bets 80
+Nick @ mXtR2R3-I6 calls 80
+boobs @ 2yxSpZlTPR folds
+Turn: 7♠, Q♦, 3♠ [7♦]
+JP @ m3-N51qfDy bets 100
+Nick @ mXtR2R3-I6 raises to 500
+The player Pener @ JKCP14uf2z requested a seat.
+The admin approved the player Pener @ JKCP14uf2z participation with a stack of 1000.
+JP @ m3-N51qfDy folds
+Uncalled bet of 400 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 550 from pot
+-- ending hand #86 --
+Undealt cards: 7♠, Q♦, 3♠, 7♦ [3♥]
+The player Pener @ JKCP14uf2z joined the game with a stack of 1000.
+-- starting hand #87  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2238) | #2 boobs @ 2yxSpZlTPR (3009) | #3 Sean @ pL8pVRDugg (2852) | #4 Pener @ JKCP14uf2z (1000) | #9 Shmoley @ OwnSfn9gR- (1768) | #10 JP @ m3-N51qfDy (2133)
+Your hand is 7♣, 4♥
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 57
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 57
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 57
+Flop:  [K♣, J♣, 7♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Shmoley @ OwnSfn9gR- bets 90
+Nick @ mXtR2R3-I6 calls 90
+boobs @ 2yxSpZlTPR calls 90
+Turn: K♣, J♣, 7♥ [K♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Shmoley @ OwnSfn9gR- bets 225
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 225 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 451 from pot
+-- ending hand #87 --
+Undealt cards: K♣, J♣, 7♥, K♥ [J♦]
+-- starting hand #88  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2091) | #2 boobs @ 2yxSpZlTPR (2862) | #3 Sean @ pL8pVRDugg (2852) | #4 Pener @ JKCP14uf2z (1000) | #9 Shmoley @ OwnSfn9gR- (2072) | #10 JP @ m3-N51qfDy (2123)
+Your hand is Q♠, 3♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy raises to 100
+Nick @ mXtR2R3-I6 calls 100
+boobs @ 2yxSpZlTPR calls 100
+Shmoley @ OwnSfn9gR- folds
+Flop:  [5♦, 9♥, 10♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 150
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 150
+Turn: 5♦, 9♥, 10♥ [4♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 310
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 310 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 620 from pot
+-- ending hand #88 --
+Undealt cards: 5♦, 9♥, 10♥, 4♣ [2♦]
+-- starting hand #89  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1841) | #2 boobs @ 2yxSpZlTPR (3232) | #3 Sean @ pL8pVRDugg (2852) | #4 Pener @ JKCP14uf2z (1000) | #9 Shmoley @ OwnSfn9gR- (2052) | #10 JP @ m3-N51qfDy (2023)
+Your hand is 2♣, 7♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 65
+Sean @ pL8pVRDugg calls 65
+Shmoley @ OwnSfn9gR- calls 65
+Flop:  [3♥, K♥, 7♥]
+boobs @ 2yxSpZlTPR bets 195
+Sean @ pL8pVRDugg calls 195
+Shmoley @ OwnSfn9gR- folds
+Turn: 3♥, K♥, 7♥ [Q♥]
+boobs @ 2yxSpZlTPR bets 585
+Sean @ pL8pVRDugg calls 585
+River: 3♥, K♥, 7♥, Q♥ [6♦]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 1122
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 1122 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 1755 from pot
+-- ending hand #89 --
+boobs @ 2yxSpZlTPR shows a K♣, A♠.
+The player Nick @ mXtR2R3-I6 stand up with the stack of 1841.
+-- starting hand #90  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2387) | #3 Sean @ pL8pVRDugg (3762) | #4 Pener @ JKCP14uf2z (1000) | #9 Shmoley @ OwnSfn9gR- (1987) | #10 JP @ m3-N51qfDy (2023)
+Your hand is 7♠, J♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Pener @ JKCP14uf2z posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 60
+Pener @ JKCP14uf2z folds
+Uncalled bet of 40 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 40 from pot
+-- ending hand #90 --
+-- starting hand #91  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2387) | #3 Sean @ pL8pVRDugg (3782) | #4 Pener @ JKCP14uf2z (980) | #9 Shmoley @ OwnSfn9gR- (1987) | #10 JP @ m3-N51qfDy (2023)
+Your hand is 6♥, 8♦
+Pener @ JKCP14uf2z posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 60
+Pener @ JKCP14uf2z calls 60
+Shmoley @ OwnSfn9gR- calls 60
+Flop:  [6♣, A♦, Q♣]
+Pener @ JKCP14uf2z bets 90
+Shmoley @ OwnSfn9gR- calls 90
+Sean @ pL8pVRDugg folds
+Turn: 6♣, A♦, Q♣ [4♠]
+Pener @ JKCP14uf2z checks
+Shmoley @ OwnSfn9gR- checks
+River: 6♣, A♦, Q♣, 4♠ [J♣]
+Pener @ JKCP14uf2z checks
+Shmoley @ OwnSfn9gR- bets 270
+Pener @ JKCP14uf2z folds
+Uncalled bet of 270 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 360 from pot
+-- ending hand #91 --
+boobs @ 2yxSpZlTPR shows a 4♦, 7♠.
+-- starting hand #92  (No Limit Texas Hold'em) (dealer: Pener @ JKCP14uf2z) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2387) | #3 Sean @ pL8pVRDugg (3722) | #4 Pener @ JKCP14uf2z (830) | #9 Shmoley @ OwnSfn9gR- (2197) | #10 JP @ m3-N51qfDy (2023)
+Your hand is K♦, 3♥
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 57
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z calls 57
+Shmoley @ OwnSfn9gR- calls 57
+JP @ m3-N51qfDy folds
+Flop:  [7♠, 8♦, 8♣]
+Shmoley @ OwnSfn9gR- bets 95
+boobs @ 2yxSpZlTPR folds
+Pener @ JKCP14uf2z folds
+Uncalled bet of 95 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 191 from pot
+-- ending hand #92 --
+Undealt cards: 7♠, 8♦, 8♣ [10♠, 2♠]
+-- starting hand #93  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2330) | #3 Sean @ pL8pVRDugg (3722) | #4 Pener @ JKCP14uf2z (773) | #9 Shmoley @ OwnSfn9gR- (2331) | #10 JP @ m3-N51qfDy (2003)
+Your hand is 8♠, K♠
+JP @ m3-N51qfDy posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z raises to 40
+Shmoley @ OwnSfn9gR- calls 40
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR calls 40
+Flop:  [9♠, 4♥, 2♣]
+boobs @ 2yxSpZlTPR checks
+Pener @ JKCP14uf2z bets 97
+Shmoley @ OwnSfn9gR- folds
+boobs @ 2yxSpZlTPR calls 97
+Turn: 9♠, 4♥, 2♣ [J♦]
+boobs @ 2yxSpZlTPR bets 80
+Pener @ JKCP14uf2z calls 80
+River: 9♠, 4♥, 2♣, J♦ [8♦]
+boobs @ 2yxSpZlTPR bets 300
+Pener @ JKCP14uf2z folds
+Uncalled bet of 300 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 484 from pot
+-- ending hand #93 --
+-- starting hand #94  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2597) | #3 Sean @ pL8pVRDugg (3722) | #4 Pener @ JKCP14uf2z (556) | #9 Shmoley @ OwnSfn9gR- (2291) | #10 JP @ m3-N51qfDy (1993)
+Your hand is 10♣, J♠
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy raises to 80
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 240
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Uncalled bet of 160 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 190 from pot
+-- ending hand #94 --
+Undealt cards:  [5♦, 10♠, K♣, J♣, J♥]
+JP @ m3-N51qfDy shows a 10♣, J♠.
+-- starting hand #95  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2587) | #3 Sean @ pL8pVRDugg (3832) | #4 Pener @ JKCP14uf2z (556) | #9 Shmoley @ OwnSfn9gR- (2271) | #10 JP @ m3-N51qfDy (1913)
+Your hand is 8♥, 6♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Pener @ JKCP14uf2z posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z calls 70
+Flop:  [A♥, 5♠, 7♦]
+Pener @ JKCP14uf2z bets 150
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 150 returned to Pener @ JKCP14uf2z
+Pener @ JKCP14uf2z collected 150 from pot
+-- ending hand #95 --
+-- starting hand #96  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2517) | #3 Sean @ pL8pVRDugg (3822) | #4 Pener @ JKCP14uf2z (636) | #9 Shmoley @ OwnSfn9gR- (2271) | #10 JP @ m3-N51qfDy (1913)
+Your hand is K♣, 5♦
+Pener @ JKCP14uf2z posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg calls 70
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+Flop:  [3♣, 6♦, J♣]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 75
+boobs @ 2yxSpZlTPR calls 75
+Turn: 3♣, 6♦, J♣ [4♦]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 250
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 250 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 320 from pot
+-- ending hand #96 --
+Undealt cards: 3♣, 6♦, J♣, 4♦ [K♠]
+-- starting hand #97  (No Limit Texas Hold'em) (dealer: Pener @ JKCP14uf2z) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2372) | #3 Sean @ pL8pVRDugg (3997) | #4 Pener @ JKCP14uf2z (626) | #9 Shmoley @ OwnSfn9gR- (2251) | #10 JP @ m3-N51qfDy (1913)
+Your hand is 9♣, 3♣
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Uncalled bet of 50 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 50 from pot
+-- ending hand #97 --
+Undealt cards:  [K♣, J♠, 10♥, 8♠, 6♣]
+-- starting hand #98  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2402) | #3 Sean @ pL8pVRDugg (3997) | #4 Pener @ JKCP14uf2z (626) | #9 Shmoley @ OwnSfn9gR- (2241) | #10 JP @ m3-N51qfDy (1893)
+Your hand is 9♣, A♣
+JP @ m3-N51qfDy posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 60
+boobs @ 2yxSpZlTPR calls 60
+Flop:  [Q♦, 8♠, 9♥]
+JP @ m3-N51qfDy bets 212
+boobs @ 2yxSpZlTPR raises to 424
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy calls 424
+Turn: Q♦, 8♠, 9♥ [3♦]
+JP @ m3-N51qfDy checks
+boobs @ 2yxSpZlTPR bets 514
+JP @ m3-N51qfDy folds
+Uncalled bet of 514 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 1028 from pot
+-- ending hand #98 --
+-- starting hand #99  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2946) | #3 Sean @ pL8pVRDugg (3937) | #4 Pener @ JKCP14uf2z (626) | #9 Shmoley @ OwnSfn9gR- (2241) | #10 JP @ m3-N51qfDy (1409)
+Your hand is 4♠, 9♦
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 10 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 20 from pot
+-- ending hand #99 --
+Sean @ pL8pVRDugg shows a 6♣, 8♣.
+Undealt cards:  [6♦, 3♥, 8♦, 4♣, J♣]
+-- starting hand #100  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2936) | #3 Sean @ pL8pVRDugg (3947) | #4 Pener @ JKCP14uf2z (626) | #9 Shmoley @ OwnSfn9gR- (2241) | #10 JP @ m3-N51qfDy (1409)
+Your hand is 2♦, 7♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Pener @ JKCP14uf2z posts a big blind of 20
+Shmoley @ OwnSfn9gR- raises to 60
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z folds
+Flop:  [4♠, Q♣, Q♦]
+Shmoley @ OwnSfn9gR- bets 110
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 110 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 150 from pot
+-- ending hand #100 --
+-- starting hand #101  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (2876) | #3 Sean @ pL8pVRDugg (3937) | #4 Pener @ JKCP14uf2z (606) | #9 Shmoley @ OwnSfn9gR- (2331) | #10 JP @ m3-N51qfDy (1409)
+Your hand is J♥, K♠
+Pener @ JKCP14uf2z posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy calls 20
+boobs @ 2yxSpZlTPR raises to 40
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 40
+JP @ m3-N51qfDy calls 40
+Flop:  [7♣, 6♥, 10♦]
+Shmoley @ OwnSfn9gR- bets 65
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR raises to 130
+Shmoley @ OwnSfn9gR- calls 130
+Turn: 7♣, 6♥, 10♦ [3♠]
+Shmoley @ OwnSfn9gR- checks
+boobs @ 2yxSpZlTPR bets 100
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 100 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 390 from pot
+-- ending hand #101 --
+Undealt cards: 7♣, 6♥, 10♦, 3♠ [2♦]
+-- starting hand #102  (No Limit Texas Hold'em) (dealer: Pener @ JKCP14uf2z) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (3096) | #3 Sean @ pL8pVRDugg (3937) | #4 Pener @ JKCP14uf2z (596) | #9 Shmoley @ OwnSfn9gR- (2161) | #10 JP @ m3-N51qfDy (1369)
+Your hand is 10♣, 5♠
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Uncalled bet of 50 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 50 from pot
+-- ending hand #102 --
+Sean @ pL8pVRDugg shows a 2♣, 4♥.
+Undealt cards:  [Q♦, 5♣, 4♦, 2♠, A♥]
+-- starting hand #103  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (3126) | #3 Sean @ pL8pVRDugg (3937) | #4 Pener @ JKCP14uf2z (596) | #9 Shmoley @ OwnSfn9gR- (2151) | #10 JP @ m3-N51qfDy (1349)
+Your hand is 2♥, 4♠
+JP @ m3-N51qfDy posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 60
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR calls 60
+Flop:  [9♠, 6♥, A♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Shmoley @ OwnSfn9gR- bets 140
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg calls 140
+Turn: 9♠, 6♥, A♥ [8♥]
+Sean @ pL8pVRDugg checks
+Shmoley @ OwnSfn9gR- checks
+River: 9♠, 6♥, A♥, 8♥ [Q♠]
+Sean @ pL8pVRDugg bets 284
+Shmoley @ OwnSfn9gR- folds
+The player Nick @ mXtR2R3-I6 sit back with the stack of 1841.
+Uncalled bet of 284 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 470 from pot
+-- ending hand #103 --
+-- starting hand #104  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (3066) | #3 Sean @ pL8pVRDugg (4207) | #4 Pener @ JKCP14uf2z (596) | #9 Shmoley @ OwnSfn9gR- (1951) | #10 JP @ m3-N51qfDy (1339)
+Your hand is A♦, 2♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Pener @ JKCP14uf2z calls 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy raises to 60
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z calls 60
+Flop:  [7♣, 5♣, 7♦]
+boobs @ 2yxSpZlTPR bets 100
+Pener @ JKCP14uf2z folds
+JP @ m3-N51qfDy raises to 407
+boobs @ 2yxSpZlTPR calls 407
+Turn: 7♣, 5♣, 7♦ [Q♠]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 872 and go all in
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 872 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 1014 from pot
+-- ending hand #104 --
+Undealt cards: 7♣, 5♣, 7♦, Q♠ [9♦]
+The player Nick @ mXtR2R3-I6 joined the game with a stack of 1841.
+-- starting hand #105  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1841) | #2 boobs @ 2yxSpZlTPR (2599) | #3 Sean @ pL8pVRDugg (4187) | #4 Pener @ JKCP14uf2z (536) | #9 Shmoley @ OwnSfn9gR- (1951) | #10 JP @ m3-N51qfDy (1886)
+Your hand is A♣, 3♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Pener @ JKCP14uf2z posts a big blind of 20
+Nick @ mXtR2R3-I6 posts a missing small blind of 10
+Nick @ mXtR2R3-I6 posts a missed big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg calls 20
+Pener @ JKCP14uf2z raises to 40
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 105
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z folds
+Uncalled bet of 65 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 130 from pot
+-- ending hand #105 --
+Undealt cards:  [Q♠, 5♣, K♣, 9♦, 8♠]
+-- starting hand #106  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1811) | #2 boobs @ 2yxSpZlTPR (2689) | #3 Sean @ pL8pVRDugg (4167) | #4 Pener @ JKCP14uf2z (496) | #9 Shmoley @ OwnSfn9gR- (1951) | #10 JP @ m3-N51qfDy (1886)
+Your hand is 4♥, 9♦
+Pener @ JKCP14uf2z posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 40
+Sean @ pL8pVRDugg raises to 120
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 120
+boobs @ 2yxSpZlTPR calls 120
+Flop:  [8♣, K♣, 6♣]
+Shmoley @ OwnSfn9gR- checks
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 180
+Shmoley @ OwnSfn9gR- folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 180 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 370 from pot
+-- ending hand #106 --
+-- starting hand #107  (No Limit Texas Hold'em) (dealer: Pener @ JKCP14uf2z) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1811) | #2 boobs @ 2yxSpZlTPR (2569) | #3 Sean @ pL8pVRDugg (4417) | #4 Pener @ JKCP14uf2z (486) | #9 Shmoley @ OwnSfn9gR- (1831) | #10 JP @ m3-N51qfDy (1886)
+Your hand is 8♠, 2♥
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Uncalled bet of 50 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 50 from pot
+-- ending hand #107 --
+Undealt cards:  [2♦, A♦, 4♥, 3♥, K♠]
+-- starting hand #108  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1811) | #2 boobs @ 2yxSpZlTPR (2599) | #3 Sean @ pL8pVRDugg (4417) | #4 Pener @ JKCP14uf2z (486) | #9 Shmoley @ OwnSfn9gR- (1821) | #10 JP @ m3-N51qfDy (1866)
+Your hand is Q♦, 4♥
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg raises to 60
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 60
+Flop:  [8♣, 5♠, 6♠]
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg bets 55
+Nick @ mXtR2R3-I6 calls 55
+Turn: 8♣, 5♠, 6♠ [K♠]
+Nick @ mXtR2R3-I6 bets 180
+Sean @ pL8pVRDugg calls 180
+River: 8♣, 5♠, 6♠, K♠ [3♥]
+Nick @ mXtR2R3-I6 bets 250
+Sean @ pL8pVRDugg calls 250
+Nick @ mXtR2R3-I6 shows a K♥, 8♠.
+Nick @ mXtR2R3-I6 collected 1100 from pot with Two Pair, K's & 8's (combination: K♥, K♠, 8♠, 8♣, 6♠)
+-- ending hand #108 --
+-- starting hand #109  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2366) | #2 boobs @ 2yxSpZlTPR (2599) | #3 Sean @ pL8pVRDugg (3872) | #4 Pener @ JKCP14uf2z (486) | #9 Shmoley @ OwnSfn9gR- (1821) | #10 JP @ m3-N51qfDy (1856)
+Your hand is J♥, 3♦
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR calls 60
+Flop:  [5♣, J♠, K♦]
+Nick @ mXtR2R3-I6 bets 40
+boobs @ 2yxSpZlTPR calls 40
+Turn: 5♣, J♠, K♦ [9♠]
+Nick @ mXtR2R3-I6 bets 120
+boobs @ 2yxSpZlTPR raises to 240
+Nick @ mXtR2R3-I6 calls 240
+River: 5♣, J♠, K♦, 9♠ [3♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Nick @ mXtR2R3-I6 shows a K♥, 10♠.
+Nick @ mXtR2R3-I6 collected 680 from pot with Pair, K's (combination: K♥, K♦, J♠, 10♠, 9♠)
+-- ending hand #109 --
+boobs @ 2yxSpZlTPR shows a Q♥, Q♠.
+-- starting hand #110  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2706) | #2 boobs @ 2yxSpZlTPR (2259) | #3 Sean @ pL8pVRDugg (3872) | #4 Pener @ JKCP14uf2z (486) | #9 Shmoley @ OwnSfn9gR- (1821) | #10 JP @ m3-N51qfDy (1856)
+Your hand is 6♦, K♥
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Pener @ JKCP14uf2z calls 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 80
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Pener @ JKCP14uf2z raises to 140
+Nick @ mXtR2R3-I6 calls 140
+Flop:  [4♠, Q♠, 8♥]
+Pener @ JKCP14uf2z checks
+Nick @ mXtR2R3-I6 checks
+Turn: 4♠, Q♠, 8♥ [9♠]
+Pener @ JKCP14uf2z bets 155
+Nick @ mXtR2R3-I6 raises to 500
+Pener @ JKCP14uf2z calls 346 and go all in
+Uncalled bet of 154 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 shows a Q♣, 9♣.
+Pener @ JKCP14uf2z shows a 3♠, 3♥.
+River: 4♠, Q♠, 8♥, 9♠ [10♦]
+Nick @ mXtR2R3-I6 collected 1002 from pot with Two Pair, Q's & 9's (combination: Q♣, Q♠, 9♣, 9♠, 10♦)
+-- ending hand #110 --
+The player Pener @ JKCP14uf2z quits the game with a stack of 0.
+-- starting hand #111  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (3222) | #2 boobs @ 2yxSpZlTPR (2249) | #3 Sean @ pL8pVRDugg (3852) | #9 Shmoley @ OwnSfn9gR- (1821) | #10 JP @ m3-N51qfDy (1856)
+Your hand is 10♣, 2♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+The player Bo @ JKCP14uf2z requested a seat.
+The admin approved the player Bo @ JKCP14uf2z participation with a stack of 1000.
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg raises to 80
+Shmoley @ OwnSfn9gR- folds
+boobs @ 2yxSpZlTPR calls 80
+Flop:  [K♠, 3♥, K♥]
+Sean @ pL8pVRDugg bets 55
+boobs @ 2yxSpZlTPR calls 55
+Turn: K♠, 3♥, K♥ [6♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+River: K♠, 3♥, K♥, 6♣ [5♣]
+Sean @ pL8pVRDugg bets 180
+boobs @ 2yxSpZlTPR calls 180
+Sean @ pL8pVRDugg shows a 6♦, A♣.
+Sean @ pL8pVRDugg collected 650 from pot with Two Pair, K's & 6's (combination: K♠, K♥, 6♦, 6♣, A♣)
+-- ending hand #111 --
+boobs @ 2yxSpZlTPR shows a 7♣, A♥.
+-- starting hand #112  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (3222) | #2 boobs @ 2yxSpZlTPR (1934) | #3 Sean @ pL8pVRDugg (4187) | #9 Shmoley @ OwnSfn9gR- (1801) | #10 JP @ m3-N51qfDy (1856)
+Your hand is 8♣, 4♠
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy checks
+Flop:  [8♦, 8♠, 10♦]
+Shmoley @ OwnSfn9gR- bets 30
+JP @ m3-N51qfDy calls 30
+Nick @ mXtR2R3-I6 calls 30
+Turn: 8♦, 8♠, 10♦ [9♥]
+Shmoley @ OwnSfn9gR- bets 75
+JP @ m3-N51qfDy raises to 210
+Nick @ mXtR2R3-I6 folds
+Shmoley @ OwnSfn9gR- calls 210
+River: 8♦, 8♠, 10♦, 9♥ [3♦]
+Shmoley @ OwnSfn9gR- checks
+JP @ m3-N51qfDy bets 454
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 454 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 570 from pot
+-- ending hand #112 --
+The player Bo @ JKCP14uf2z joined the game with a stack of 1000.
+-- starting hand #113  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (3172) | #2 boobs @ 2yxSpZlTPR (1934) | #3 Sean @ pL8pVRDugg (4187) | #8 Bo @ JKCP14uf2z (1000) | #9 Shmoley @ OwnSfn9gR- (1541) | #10 JP @ m3-N51qfDy (2166)
+Your hand is 7♠, Q♣
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg folds
+Bo @ JKCP14uf2z calls 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR calls 60
+Bo @ JKCP14uf2z calls 60
+Flop:  [8♠, 7♦, 8♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Bo @ JKCP14uf2z bets 95
+Nick @ mXtR2R3-I6 calls 95
+boobs @ 2yxSpZlTPR calls 95
+Turn: 8♠, 7♦, 8♥ [2♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Bo @ JKCP14uf2z bets 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 287
+Bo @ JKCP14uf2z folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 267 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 535 from pot
+-- ending hand #113 --
+Undealt cards: 8♠, 7♦, 8♥, 2♥ [J♠]
+boobs @ 2yxSpZlTPR shows a K♥, 8♦.
+-- starting hand #114  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2997) | #2 boobs @ 2yxSpZlTPR (2294) | #3 Sean @ pL8pVRDugg (4187) | #8 Bo @ JKCP14uf2z (825) | #9 Shmoley @ OwnSfn9gR- (1541) | #10 JP @ m3-N51qfDy (2156)
+Your hand is 10♥, 10♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Bo @ JKCP14uf2z calls 60
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy raises to 140
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 140
+Sean @ pL8pVRDugg calls 140
+Bo @ JKCP14uf2z folds
+Flop:  [8♥, 6♠, A♠]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy bets 396
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Uncalled bet of 396 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 490 from pot
+-- ending hand #114 --
+Undealt cards: 8♥, 6♠, A♠ [6♣, 2♠]
+-- starting hand #115  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2987) | #2 boobs @ 2yxSpZlTPR (2154) | #3 Sean @ pL8pVRDugg (4047) | #8 Bo @ JKCP14uf2z (765) | #9 Shmoley @ OwnSfn9gR- (1541) | #10 JP @ m3-N51qfDy (2506)
+Your hand is J♣, A♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 100
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy calls 100
+Nick @ mXtR2R3-I6 folds
+Flop:  [9♦, A♥, 4♣]
+boobs @ 2yxSpZlTPR bets 120
+JP @ m3-N51qfDy calls 120
+Turn: 9♦, A♥, 4♣ [4♦]
+boobs @ 2yxSpZlTPR bets 480
+JP @ m3-N51qfDy raises to 960
+boobs @ 2yxSpZlTPR raises to 1440
+JP @ m3-N51qfDy calls 1440
+River: 9♦, A♥, 4♣, 4♦ [8♣]
+boobs @ 2yxSpZlTPR bets 494 and go all in
+JP @ m3-N51qfDy calls 494
+JP @ m3-N51qfDy shows a J♣, A♣.
+JP @ m3-N51qfDy collected 4348 from pot with Two Pair, A's & 4's (combination: A♣, A♥, 4♣, 4♦, J♣)
+boobs @ 2yxSpZlTPR shows a 7♦, J♦.
+-- ending hand #115 --
+The player boobs @ 2yxSpZlTPR quits the game with a stack of 0.
+-- starting hand #116  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2967) | #3 Sean @ pL8pVRDugg (4027) | #8 Bo @ JKCP14uf2z (765) | #9 Shmoley @ OwnSfn9gR- (1541) | #10 JP @ m3-N51qfDy (4700)
+Your hand is A♥, Q♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Bo @ JKCP14uf2z posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+The player boobs @ 2yxSpZlTPR requested a seat.
+The admin approved the player boobs @ 2yxSpZlTPR participation with a stack of 2000.
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg raises to 80
+Bo @ JKCP14uf2z folds
+JP @ m3-N51qfDy calls 80
+Flop:  [J♠, K♥, K♦]
+Sean @ pL8pVRDugg bets 100
+JP @ m3-N51qfDy calls 100
+Turn: J♠, K♥, K♦ [10♣]
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy bets 200
+Sean @ pL8pVRDugg folds
+Uncalled bet of 200 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 380 from pot
+-- ending hand #116 --
+JP @ m3-N51qfDy shows a A♥, Q♦.
+Undealt cards: J♠, K♥, K♦, 10♣ [7♠]
+The player boobs @ 2yxSpZlTPR joined the game with a stack of 2000.
+-- starting hand #117  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2967) | #2 boobs @ 2yxSpZlTPR (2000) | #3 Sean @ pL8pVRDugg (3847) | #8 Bo @ JKCP14uf2z (745) | #9 Shmoley @ OwnSfn9gR- (1541) | #10 JP @ m3-N51qfDy (4900)
+Your hand is K♣, A♥
+Bo @ JKCP14uf2z posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 raises to 80
+boobs @ 2yxSpZlTPR raises to 185
+Sean @ pL8pVRDugg folds
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 185
+Nick @ mXtR2R3-I6 folds
+Flop:  [10♦, Q♥, 4♥]
+JP @ m3-N51qfDy checks
+boobs @ 2yxSpZlTPR bets 150
+JP @ m3-N51qfDy folds
+Uncalled bet of 150 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 480 from pot
+-- ending hand #117 --
+JP @ m3-N51qfDy shows a K♣, A♥.
+Undealt cards: 10♦, Q♥, 4♥ [6♠, 10♥]
+boobs @ 2yxSpZlTPR shows a 5♣, 10♣.
+-- starting hand #118  (No Limit Texas Hold'em) (dealer: Bo @ JKCP14uf2z) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2887) | #2 boobs @ 2yxSpZlTPR (2295) | #3 Sean @ pL8pVRDugg (3847) | #8 Bo @ JKCP14uf2z (735) | #9 Shmoley @ OwnSfn9gR- (1521) | #10 JP @ m3-N51qfDy (4715)
+Your hand is K♥, 4♠
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy checks
+Flop:  [A♥, 4♣, Q♣]
+Shmoley @ OwnSfn9gR- checks
+JP @ m3-N51qfDy bets 100
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 100 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 40 from pot
+-- ending hand #118 --
+Undealt cards: A♥, 4♣, Q♣ [7♥, K♦]
+-- starting hand #119  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2887) | #2 boobs @ 2yxSpZlTPR (2295) | #3 Sean @ pL8pVRDugg (3847) | #8 Bo @ JKCP14uf2z (735) | #9 Shmoley @ OwnSfn9gR- (1501) | #10 JP @ m3-N51qfDy (4735)
+Your hand is Q♣, K♦
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Bo @ JKCP14uf2z calls 20
+Shmoley @ OwnSfn9gR- raises to 60
+JP @ m3-N51qfDy calls 60
+Nick @ mXtR2R3-I6 calls 60
+Bo @ JKCP14uf2z raises to 100
+Shmoley @ OwnSfn9gR- calls 100
+JP @ m3-N51qfDy calls 100
+Nick @ mXtR2R3-I6 calls 100
+Flop:  [9♥, 9♦, 2♣]
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 checks
+Bo @ JKCP14uf2z bets 200
+Shmoley @ OwnSfn9gR- raises to 800
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+Bo @ JKCP14uf2z folds
+Uncalled bet of 600 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 800 from pot
+-- ending hand #119 --
+Undealt cards: 9♥, 9♦, 2♣ [7♦, 10♦]
+-- starting hand #120  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2787) | #2 boobs @ 2yxSpZlTPR (2295) | #3 Sean @ pL8pVRDugg (3847) | #8 Bo @ JKCP14uf2z (435) | #9 Shmoley @ OwnSfn9gR- (2001) | #10 JP @ m3-N51qfDy (4635)
+Your hand is 5♣, 4♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 80
+JP @ m3-N51qfDy calls 80
+Nick @ mXtR2R3-I6 calls 80
+Flop:  [9♠, J♣, 4♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 60
+Nick @ mXtR2R3-I6 raises to 180
+boobs @ 2yxSpZlTPR calls 180
+JP @ m3-N51qfDy folds
+Turn: 9♠, J♣, 4♥ [Q♠]
+Nick @ mXtR2R3-I6 bets 400
+boobs @ 2yxSpZlTPR calls 400
+River: 9♠, J♣, 4♥, Q♠ [3♠]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+boobs @ 2yxSpZlTPR shows a Q♦, 8♥.
+boobs @ 2yxSpZlTPR collected 1460 from pot with Pair, Q's (combination: Q♦, Q♠, J♣, 9♠, 8♥)
+Nick @ mXtR2R3-I6 shows a J♦, 8♠.
+-- ending hand #120 --
+-- starting hand #121  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2127) | #2 boobs @ 2yxSpZlTPR (3095) | #3 Sean @ pL8pVRDugg (3847) | #8 Bo @ JKCP14uf2z (435) | #9 Shmoley @ OwnSfn9gR- (2001) | #10 JP @ m3-N51qfDy (4495)
+Your hand is 4♥, 7♦
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Bo @ JKCP14uf2z raises to 40
+Shmoley @ OwnSfn9gR- calls 40
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 60
+Sean @ pL8pVRDugg raises to 240
+Bo @ JKCP14uf2z calls 240
+Shmoley @ OwnSfn9gR- calls 240
+boobs @ 2yxSpZlTPR calls 240
+Flop:  [6♦, 2♣, 7♠]
+boobs @ 2yxSpZlTPR bets 150
+Sean @ pL8pVRDugg folds
+Bo @ JKCP14uf2z raises to 195 and go all in
+Shmoley @ OwnSfn9gR- folds
+boobs @ 2yxSpZlTPR calls 195
+boobs @ 2yxSpZlTPR shows a 2♥, A♦.
+Bo @ JKCP14uf2z shows a 9♣, 10♣.
+Turn: 6♦, 2♣, 7♠ [2♦]
+River: 6♦, 2♣, 7♠, 2♦ [8♠]
+Bo @ JKCP14uf2z collected 1350 from pot with Straight, 10 High (combination: 10♣, 9♣, 8♠, 7♠, 6♦)
+-- ending hand #121 --
+-- starting hand #122  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2127) | #2 boobs @ 2yxSpZlTPR (2660) | #3 Sean @ pL8pVRDugg (3607) | #8 Bo @ JKCP14uf2z (1350) | #9 Shmoley @ OwnSfn9gR- (1761) | #10 JP @ m3-N51qfDy (4495)
+Your hand is 9♣, 7♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Bo @ JKCP14uf2z posts a big blind of 20
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg calls 20
+Bo @ JKCP14uf2z checks
+Flop:  [8♥, 4♠, 4♦]
+Sean @ pL8pVRDugg checks
+Bo @ JKCP14uf2z bets 60
+Shmoley @ OwnSfn9gR- calls 60
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Turn: 8♥, 4♠, 4♦ [8♣]
+Bo @ JKCP14uf2z bets 150
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 150 returned to Bo @ JKCP14uf2z
+Bo @ JKCP14uf2z collected 200 from pot
+-- ending hand #122 --
+Bo @ JKCP14uf2z shows a 9♦, 8♦.
+Undealt cards: 8♥, 4♠, 4♦, 8♣ [3♣]
+-- starting hand #123  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (2127) | #2 boobs @ 2yxSpZlTPR (2640) | #3 Sean @ pL8pVRDugg (3587) | #8 Bo @ JKCP14uf2z (1470) | #9 Shmoley @ OwnSfn9gR- (1681) | #10 JP @ m3-N51qfDy (4495)
+Your hand is 3♦, 3♠
+Bo @ JKCP14uf2z posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg folds
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 60
+JP @ m3-N51qfDy calls 60
+Flop:  [6♣, 6♥, J♥]
+Shmoley @ OwnSfn9gR- checks
+JP @ m3-N51qfDy bets 120
+Nick @ mXtR2R3-I6 calls 120
+boobs @ 2yxSpZlTPR raises to 400
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 280 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 610 from pot
+-- ending hand #123 --
+Undealt cards: 6♣, 6♥, J♥ [Q♠, 9♥]
+boobs @ 2yxSpZlTPR shows a 5♥, 6♦.
+-- starting hand #124  (No Limit Texas Hold'em) (dealer: Bo @ JKCP14uf2z) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1947) | #2 boobs @ 2yxSpZlTPR (3070) | #3 Sean @ pL8pVRDugg (3587) | #8 Bo @ JKCP14uf2z (1460) | #9 Shmoley @ OwnSfn9gR- (1621) | #10 JP @ m3-N51qfDy (4315)
+Your hand is 6♥, J♣
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg raises to 80
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 80
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR calls 80
+Flop:  [9♥, 2♥, 4♣]
+Shmoley @ OwnSfn9gR- checks
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 130
+Shmoley @ OwnSfn9gR- calls 130
+boobs @ 2yxSpZlTPR folds
+Turn: 9♥, 2♥, 4♣ [7♣]
+Shmoley @ OwnSfn9gR- bets 390
+Sean @ pL8pVRDugg calls 390
+River: 9♥, 2♥, 4♣, 7♣ [A♥]
+Shmoley @ OwnSfn9gR- bets 1021 and go all in
+Sean @ pL8pVRDugg folds
+Uncalled bet of 1021 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 1300 from pot
+-- ending hand #124 --
+-- starting hand #125  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1947) | #2 boobs @ 2yxSpZlTPR (2990) | #3 Sean @ pL8pVRDugg (2987) | #8 Bo @ JKCP14uf2z (1460) | #9 Shmoley @ OwnSfn9gR- (2321) | #10 JP @ m3-N51qfDy (4295)
+Your hand is J♥, 5♦
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 57
+Sean @ pL8pVRDugg calls 57
+Bo @ JKCP14uf2z calls 57
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 57
+Flop:  [2♣, 3♣, 9♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Bo @ JKCP14uf2z checks
+Turn: 2♣, 3♣, 9♣ [4♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 119
+Sean @ pL8pVRDugg raises to 595
+Bo @ JKCP14uf2z folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 595
+River: 2♣, 3♣, 9♣, 4♥ [8♥]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 2335 and go all in
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 2335 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 1428 from pot
+-- ending hand #125 --
+-- starting hand #126  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1890) | #2 boobs @ 2yxSpZlTPR (2338) | #3 Sean @ pL8pVRDugg (3763) | #8 Bo @ JKCP14uf2z (1403) | #9 Shmoley @ OwnSfn9gR- (2321) | #10 JP @ m3-N51qfDy (4285)
+Your hand is A♣, J♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 60
+JP @ m3-N51qfDy calls 60
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 60
+Flop:  [9♣, 7♠, 8♠]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 110
+Shmoley @ OwnSfn9gR- calls 110
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR folds
+Turn: 9♣, 7♠, 8♠ [3♣]
+Sean @ pL8pVRDugg bets 390
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 390 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 470 from pot
+-- ending hand #126 --
+Undealt cards: 9♣, 7♠, 8♠, 3♣ [A♠]
+-- starting hand #127  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1880) | #2 boobs @ 2yxSpZlTPR (2278) | #3 Sean @ pL8pVRDugg (4063) | #8 Bo @ JKCP14uf2z (1403) | #9 Shmoley @ OwnSfn9gR- (2151) | #10 JP @ m3-N51qfDy (4225)
+Your hand is A♥, 2♥
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy raises to 60
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg folds
+Flop:  [2♠, 7♥, 10♣]
+boobs @ 2yxSpZlTPR bets 140
+JP @ m3-N51qfDy calls 140
+Turn: 2♠, 7♥, 10♣ [J♠]
+boobs @ 2yxSpZlTPR bets 420
+JP @ m3-N51qfDy folds
+Uncalled bet of 420 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 420 from pot
+-- ending hand #127 --
+Undealt cards: 2♠, 7♥, 10♣, J♠ [J♥]
+boobs @ 2yxSpZlTPR shows a Q♠, Q♣.
+-- starting hand #128  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1880) | #2 boobs @ 2yxSpZlTPR (2498) | #3 Sean @ pL8pVRDugg (4043) | #8 Bo @ JKCP14uf2z (1403) | #9 Shmoley @ OwnSfn9gR- (2151) | #10 JP @ m3-N51qfDy (4025)
+Your hand is 9♣, 7♠
+Sean @ pL8pVRDugg posts a small blind of 10
+Bo @ JKCP14uf2z posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 40
+Sean @ pL8pVRDugg calls 40
+Bo @ JKCP14uf2z folds
+Flop:  [10♦, 9♥, A♦]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: 10♦, 9♥, A♦ [6♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR bets 150
+Sean @ pL8pVRDugg folds
+Uncalled bet of 150 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 100 from pot
+-- ending hand #128 --
+Undealt cards: 10♦, 9♥, A♦, 6♣ [J♠]
+-- starting hand #129  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1880) | #2 boobs @ 2yxSpZlTPR (2558) | #3 Sean @ pL8pVRDugg (4003) | #8 Bo @ JKCP14uf2z (1383) | #9 Shmoley @ OwnSfn9gR- (2151) | #10 JP @ m3-N51qfDy (4025)
+Your hand is 4♦, Q♣
+Bo @ JKCP14uf2z posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR raises to 100
+Sean @ pL8pVRDugg calls 100
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 100
+Nick @ mXtR2R3-I6 folds
+Flop:  [2♦, 5♠, A♥]
+Shmoley @ OwnSfn9gR- checks
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 270
+Shmoley @ OwnSfn9gR- folds
+boobs @ 2yxSpZlTPR calls 270
+Turn: 2♦, 5♠, A♥ [7♣]
+boobs @ 2yxSpZlTPR bets 450
+Sean @ pL8pVRDugg calls 450
+River: 2♦, 5♠, A♥, 7♣ [J♦]
+boobs @ 2yxSpZlTPR bets 1357
+Sean @ pL8pVRDugg calls 1357
+Sean @ pL8pVRDugg shows a A♣, J♥.
+Sean @ pL8pVRDugg collected 4524 from pot with Two Pair, A's & J's (combination: A♣, A♥, J♥, J♦, 7♣)
+boobs @ 2yxSpZlTPR shows a 5♣, 7♠.
+-- ending hand #129 --
+-- starting hand #130  (No Limit Texas Hold'em) (dealer: Bo @ JKCP14uf2z) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1820) | #2 boobs @ 2yxSpZlTPR (381) | #3 Sean @ pL8pVRDugg (6350) | #8 Bo @ JKCP14uf2z (1373) | #9 Shmoley @ OwnSfn9gR- (2051) | #10 JP @ m3-N51qfDy (4025)
+Your hand is 9♠, K♦
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 381 and go all in
+Sean @ pL8pVRDugg folds
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 381
+boobs @ 2yxSpZlTPR shows a 10♣, J♣.
+JP @ m3-N51qfDy shows a 9♠, K♦.
+Flop:  [K♣, 9♥, 5♥]
+Turn: K♣, 9♥, 5♥ [6♥]
+River: K♣, 9♥, 5♥, 6♥ [10♦]
+JP @ m3-N51qfDy collected 772 from pot with Two Pair, K's & 9's (combination: K♦, K♣, 9♠, 9♥, 10♦)
+-- ending hand #130 --
+The player boobs @ 2yxSpZlTPR quits the game with a stack of 0.
+-- starting hand #131  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1820) | #3 Sean @ pL8pVRDugg (6350) | #8 Bo @ JKCP14uf2z (1373) | #9 Shmoley @ OwnSfn9gR- (2041) | #10 JP @ m3-N51qfDy (4416)
+Your hand is 2♠, 7♠
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Bo @ JKCP14uf2z calls 20
+Shmoley @ OwnSfn9gR- raises to 80
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 80
+Bo @ JKCP14uf2z raises to 140
+Shmoley @ OwnSfn9gR- calls 140
+Nick @ mXtR2R3-I6 calls 140
+Flop:  [5♠, 4♦, 3♥]
+Nick @ mXtR2R3-I6 checks
+Bo @ JKCP14uf2z bets 322
+Shmoley @ OwnSfn9gR- folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 322 returned to Bo @ JKCP14uf2z
+Bo @ JKCP14uf2z collected 430 from pot
+-- ending hand #131 --
+Bo @ JKCP14uf2z shows a J♠, J♣.
+Undealt cards: 5♠, 4♦, 3♥ [6♣, 5♥]
+-- starting hand #132  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1680) | #3 Sean @ pL8pVRDugg (6350) | #8 Bo @ JKCP14uf2z (1663) | #9 Shmoley @ OwnSfn9gR- (1901) | #10 JP @ m3-N51qfDy (4406)
+Your hand is 5♠, 6♥
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+The player boobs @ 2yxSpZlTPR requested a seat.
+The admin approved the player boobs @ 2yxSpZlTPR participation with a stack of 2000.
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 80
+Sean @ pL8pVRDugg calls 80
+Flop:  [K♠, 3♥, 10♦]
+Nick @ mXtR2R3-I6 bets 90
+Sean @ pL8pVRDugg folds
+Uncalled bet of 90 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 160 from pot
+-- ending hand #132 --
+Nick @ mXtR2R3-I6 shows a 2♦, 10♥.
+Undealt cards: K♠, 3♥, 10♦ [8♥, 6♣]
+Sean @ pL8pVRDugg shows a 6♠, 8♣.
+-- starting hand #133  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1760) | #3 Sean @ pL8pVRDugg (6270) | #8 Bo @ JKCP14uf2z (1663) | #9 Shmoley @ OwnSfn9gR- (1901) | #10 JP @ m3-N51qfDy (4406)
+Your hand is 9♦, 4♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Bo @ JKCP14uf2z posts a big blind of 20
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 20
+Sean @ pL8pVRDugg calls 20
+Bo @ JKCP14uf2z checks
+Flop:  [9♠, 3♦, K♠]
+Sean @ pL8pVRDugg checks
+Bo @ JKCP14uf2z checks
+Shmoley @ OwnSfn9gR- bets 40
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg raises to 120
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 80 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 160 from pot
+-- ending hand #133 --
+Undealt cards: 9♠, 3♦, K♠ [7♦, 4♠]
+The player boobs @ 2yxSpZlTPR joined the game with a stack of 2000.
+-- starting hand #134  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1740) | #2 boobs @ 2yxSpZlTPR (2000) | #3 Sean @ pL8pVRDugg (6370) | #8 Bo @ JKCP14uf2z (1643) | #9 Shmoley @ OwnSfn9gR- (1841) | #10 JP @ m3-N51qfDy (4406)
+Your hand is 2♦, Q♠
+Bo @ JKCP14uf2z posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 40
+Sean @ pL8pVRDugg calls 40
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 40
+Flop:  [3♠, 9♠, Q♦]
+Shmoley @ OwnSfn9gR- checks
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 65
+Shmoley @ OwnSfn9gR- folds
+boobs @ 2yxSpZlTPR calls 65
+Turn: 3♠, 9♠, Q♦ [5♠]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+River: 3♠, 9♠, Q♦, 5♠ [Q♣]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 175
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 175 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 260 from pot
+-- ending hand #134 --
+-- starting hand #135  (No Limit Texas Hold'em) (dealer: Bo @ JKCP14uf2z) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1740) | #2 boobs @ 2yxSpZlTPR (1895) | #3 Sean @ pL8pVRDugg (6525) | #8 Bo @ JKCP14uf2z (1633) | #9 Shmoley @ OwnSfn9gR- (1801) | #10 JP @ m3-N51qfDy (4406)
+Your hand is A♠, K♠
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg folds
+The admin boobs @ 2yxSpZlTPR enqueued the removal of the player Bo @ JKCP14uf2z.
+Bo @ JKCP14uf2z folds
+Shmoley @ OwnSfn9gR- calls 70
+JP @ m3-N51qfDy raises to 140
+boobs @ 2yxSpZlTPR calls 140
+Shmoley @ OwnSfn9gR- folds
+Flop:  [3♣, Q♣, 4♥]
+JP @ m3-N51qfDy bets 292
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 292 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 350 from pot
+-- ending hand #135 --
+Undealt cards: 3♣, Q♣, 4♥ [J♠, 10♥]
+The player Bo @ JKCP14uf2z quits the game with a stack of 1633.
+-- starting hand #136  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1740) | #2 boobs @ 2yxSpZlTPR (1755) | #3 Sean @ pL8pVRDugg (6525) | #9 Shmoley @ OwnSfn9gR- (1731) | #10 JP @ m3-N51qfDy (4616)
+Your hand is 2♦, 7♦
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 70
+Flop:  [3♦, 7♣, 7♠]
+Nick @ mXtR2R3-I6 bets 100
+boobs @ 2yxSpZlTPR raises to 200
+Nick @ mXtR2R3-I6 calls 200
+Turn: 3♦, 7♣, 7♠ [6♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 275
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 275 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 550 from pot
+-- ending hand #136 --
+Undealt cards: 3♦, 7♣, 7♠, 6♣ [5♦]
+-- starting hand #137  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1470) | #2 boobs @ 2yxSpZlTPR (2035) | #3 Sean @ pL8pVRDugg (6525) | #9 Shmoley @ OwnSfn9gR- (1731) | #10 JP @ m3-N51qfDy (4606)
+Your hand is 5♣, 7♥
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR checks
+Flop:  [K♣, 5♠, J♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Turn: K♣, 5♠, J♣ [2♦]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 30
+Nick @ mXtR2R3-I6 raises to 90
+boobs @ 2yxSpZlTPR calls 90
+River: K♣, 5♠, J♣, 2♦ [10♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Nick @ mXtR2R3-I6 shows a Q♣, 4♦.
+Nick @ mXtR2R3-I6 collected 220 from pot with K High (combination: K♣, Q♣, J♣, 10♥, 5♠)
+-- ending hand #137 --
+-- starting hand #138  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1580) | #2 boobs @ 2yxSpZlTPR (1925) | #3 Sean @ pL8pVRDugg (6525) | #9 Shmoley @ OwnSfn9gR- (1731) | #10 JP @ m3-N51qfDy (4606)
+Your hand is J♣, Q♥
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy raises to 40
+Nick @ mXtR2R3-I6 calls 40
+boobs @ 2yxSpZlTPR calls 40
+Sean @ pL8pVRDugg calls 40
+Flop:  [5♥, Q♠, 5♦]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy bets 160
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Uncalled bet of 160 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 160 from pot
+-- ending hand #138 --
+Undealt cards: 5♥, Q♠, 5♦ [4♣, 7♣]
+-- starting hand #139  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1540) | #2 boobs @ 2yxSpZlTPR (1885) | #3 Sean @ pL8pVRDugg (6485) | #9 Shmoley @ OwnSfn9gR- (1731) | #10 JP @ m3-N51qfDy (4726)
+Your hand is 4♣, 9♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 40 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 50 from pot
+-- ending hand #139 --
+Undealt cards:  [A♠, J♥, Q♠, A♣, 8♣]
+-- starting hand #140  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1570) | #2 boobs @ 2yxSpZlTPR (1885) | #3 Sean @ pL8pVRDugg (6475) | #9 Shmoley @ OwnSfn9gR- (1711) | #10 JP @ m3-N51qfDy (4726)
+Your hand is 4♣, 8♣
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+boobs @ 2yxSpZlTPR raises to 100
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 100
+Flop:  [5♥, 9♥, A♠]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Turn: 5♥, 9♥, A♠ [K♥]
+Nick @ mXtR2R3-I6 bets 100
+boobs @ 2yxSpZlTPR calls 100
+River: 5♥, 9♥, A♠, K♥ [8♠]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 215
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 215 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 430 from pot
+-- ending hand #140 --
+-- starting hand #141  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1370) | #2 boobs @ 2yxSpZlTPR (2115) | #3 Sean @ pL8pVRDugg (6475) | #9 Shmoley @ OwnSfn9gR- (1701) | #10 JP @ m3-N51qfDy (4706)
+Your hand is K♣, 8♣
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy raises to 60
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 60
+Flop:  [A♣, J♦, 10♣]
+JP @ m3-N51qfDy checks
+boobs @ 2yxSpZlTPR checks
+Turn: A♣, J♦, 10♣ [10♦]
+JP @ m3-N51qfDy checks
+boobs @ 2yxSpZlTPR bets 80
+JP @ m3-N51qfDy calls 80
+River: A♣, J♦, 10♣, 10♦ [7♥]
+JP @ m3-N51qfDy checks
+boobs @ 2yxSpZlTPR checks
+boobs @ 2yxSpZlTPR shows a 7♠, 4♥.
+boobs @ 2yxSpZlTPR collected 300 from pot with Two Pair, 10's & 7's (combination: 10♣, 10♦, 7♠, 7♥, A♣)
+JP @ m3-N51qfDy shows a K♣, 8♣.
+-- ending hand #141 --
+-- starting hand #142  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1350) | #2 boobs @ 2yxSpZlTPR (2275) | #3 Sean @ pL8pVRDugg (6475) | #9 Shmoley @ OwnSfn9gR- (1701) | #10 JP @ m3-N51qfDy (4566)
+Your hand is A♦, 4♦
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 60
+The player Ryan @ f9IlhVCCzp requested a seat.
+Sean @ pL8pVRDugg calls 60
+Flop:  [5♠, 8♠, 3♦]
+The admin approved the player Ryan @ f9IlhVCCzp participation with a stack of 500.
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 95
+boobs @ 2yxSpZlTPR raises to 190
+Sean @ pL8pVRDugg calls 190
+Turn: 5♠, 8♠, 3♦ [J♦]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+River: 5♠, 8♠, 3♦, J♦ [K♣]
+boobs @ 2yxSpZlTPR bets 255
+Sean @ pL8pVRDugg calls 255
+Sean @ pL8pVRDugg shows a 4♠, 8♣.
+Sean @ pL8pVRDugg collected 1020 from pot with Pair, 8's (combination: 8♣, 8♠, K♣, J♦, 5♠)
+boobs @ 2yxSpZlTPR shows a A♠, 7♦.
+-- ending hand #142 --
+The player Ryan @ f9IlhVCCzp joined the game with a stack of 500.
+-- starting hand #143  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1340) | #2 boobs @ 2yxSpZlTPR (1770) | #3 Sean @ pL8pVRDugg (6990) | #4 Ryan @ f9IlhVCCzp (500) | #9 Shmoley @ OwnSfn9gR- (1701) | #10 JP @ m3-N51qfDy (4566)
+Your hand is K♠, Q♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ f9IlhVCCzp folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy raises to 80
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 80
+Sean @ pL8pVRDugg folds
+Flop:  [10♥, 7♠, K♦]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy checks
+Turn: 10♥, 7♠, K♦ [8♦]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 100
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 100 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 180 from pot
+-- ending hand #143 --
+Undealt cards: 10♥, 7♠, K♦, 8♦ [7♦]
+-- starting hand #144  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1340) | #2 boobs @ 2yxSpZlTPR (1690) | #3 Sean @ pL8pVRDugg (6970) | #4 Ryan @ f9IlhVCCzp (500) | #9 Shmoley @ OwnSfn9gR- (1701) | #10 JP @ m3-N51qfDy (4666)
+Your hand is 4♠, A♣
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg calls 20
+Ryan @ f9IlhVCCzp checks
+Flop:  [J♠, K♠, Q♠]
+Sean @ pL8pVRDugg checks
+Ryan @ f9IlhVCCzp bets 20
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg calls 20
+Turn: J♠, K♠, Q♠ [8♠]
+Sean @ pL8pVRDugg checks
+Ryan @ f9IlhVCCzp checks
+JP @ m3-N51qfDy checks
+River: J♠, K♠, Q♠, 8♠ [K♣]
+Sean @ pL8pVRDugg bets 90
+Ryan @ f9IlhVCCzp folds
+JP @ m3-N51qfDy calls 90
+JP @ m3-N51qfDy shows a 4♠, A♣.
+JP @ m3-N51qfDy collected 320 from pot with Flush, Ks High (combination: K♠, Q♠, J♠, 8♠, 4♠)
+Sean @ pL8pVRDugg shows a 6♥, J♥.
+-- ending hand #144 --
+Shmoley @ OwnSfn9gR- shows a 3♦, 5♠.
+-- starting hand #145  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1320) | #2 boobs @ 2yxSpZlTPR (1690) | #3 Sean @ pL8pVRDugg (6840) | #4 Ryan @ f9IlhVCCzp (460) | #9 Shmoley @ OwnSfn9gR- (1701) | #10 JP @ m3-N51qfDy (4856)
+Your hand is 4♦, J♣
+Ryan @ f9IlhVCCzp posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg calls 20
+Ryan @ f9IlhVCCzp calls 20
+Shmoley @ OwnSfn9gR- checks
+Flop:  [10♦, 4♥, 8♣]
+Ryan @ f9IlhVCCzp checks
+Shmoley @ OwnSfn9gR- bets 40
+boobs @ 2yxSpZlTPR raises to 80
+Sean @ pL8pVRDugg folds
+Ryan @ f9IlhVCCzp folds
+Shmoley @ OwnSfn9gR- calls 80
+Turn: 10♦, 4♥, 8♣ [4♠]
+Shmoley @ OwnSfn9gR- bets 180
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 180 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 240 from pot
+-- ending hand #145 --
+Undealt cards: 10♦, 4♥, 8♣, 4♠ [7♣]
+-- starting hand #146  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1320) | #2 boobs @ 2yxSpZlTPR (1590) | #3 Sean @ pL8pVRDugg (6820) | #4 Ryan @ f9IlhVCCzp (440) | #9 Shmoley @ OwnSfn9gR- (1841) | #10 JP @ m3-N51qfDy (4856)
+Your hand is K♥, 4♦
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 72
+Sean @ pL8pVRDugg folds
+Ryan @ f9IlhVCCzp raises to 164
+Shmoley @ OwnSfn9gR- calls 164
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 164
+Flop:  [K♦, J♥, J♣]
+Shmoley @ OwnSfn9gR- checks
+boobs @ 2yxSpZlTPR bets 276
+Ryan @ f9IlhVCCzp folds
+Shmoley @ OwnSfn9gR- calls 276
+Turn: K♦, J♥, J♣ [10♥]
+Shmoley @ OwnSfn9gR- checks
+boobs @ 2yxSpZlTPR checks
+River: K♦, J♥, J♣, 10♥ [6♦]
+Shmoley @ OwnSfn9gR- checks
+boobs @ 2yxSpZlTPR checks
+boobs @ 2yxSpZlTPR shows a 8♠, K♣.
+boobs @ 2yxSpZlTPR collected 1084 from pot with Two Pair, K's & J's (combination: K♣, K♦, J♥, J♣, 10♥)
+Shmoley @ OwnSfn9gR- shows a 5♣, A♣.
+-- ending hand #146 --
+JP @ m3-N51qfDy shows a K♥, 4♦.
+-- starting hand #147  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1300) | #2 boobs @ 2yxSpZlTPR (2234) | #3 Sean @ pL8pVRDugg (6820) | #4 Ryan @ f9IlhVCCzp (276) | #9 Shmoley @ OwnSfn9gR- (1401) | #10 JP @ m3-N51qfDy (4836)
+Your hand is 9♠, J♥
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 45
+Sean @ pL8pVRDugg calls 45
+Ryan @ f9IlhVCCzp raises to 276 and go all in
+Shmoley @ OwnSfn9gR- calls 276
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 276
+Sean @ pL8pVRDugg folds
+Flop:  [J♦, 10♥, 7♠]
+boobs @ 2yxSpZlTPR bets 451
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 451 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR shows a Q♥, 9♦.
+Ryan @ f9IlhVCCzp shows a A♠, Q♦.
+Turn: J♦, 10♥, 7♠ [6♠]
+River: J♦, 10♥, 7♠, 6♠ [Q♣]
+Ryan @ f9IlhVCCzp collected 903 from pot with Pair, Q's (combination: Q♦, Q♣, A♠, J♦, 10♥)
+-- ending hand #147 --
+-- starting hand #148  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1280) | #2 boobs @ 2yxSpZlTPR (1958) | #3 Sean @ pL8pVRDugg (6775) | #4 Ryan @ f9IlhVCCzp (903) | #9 Shmoley @ OwnSfn9gR- (1125) | #10 JP @ m3-N51qfDy (4826)
+Your hand is Q♦, J♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Ryan @ f9IlhVCCzp raises to 150
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 150
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 150
+Sean @ pL8pVRDugg folds
+Flop:  [8♥, 8♠, A♥]
+boobs @ 2yxSpZlTPR checks
+Ryan @ f9IlhVCCzp bets 753 and go all in
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 753 returned to Ryan @ f9IlhVCCzp
+Ryan @ f9IlhVCCzp collected 500 from pot
+-- ending hand #148 --
+Undealt cards: 8♥, 8♠, A♥ [10♦, 3♠]
+Ryan @ f9IlhVCCzp shows a A♦, 9♥.
+-- starting hand #149  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1270) | #2 boobs @ 2yxSpZlTPR (1808) | #3 Sean @ pL8pVRDugg (6735) | #4 Ryan @ f9IlhVCCzp (1253) | #9 Shmoley @ OwnSfn9gR- (1125) | #10 JP @ m3-N51qfDy (4676)
+Your hand is A♠, 6♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Ryan @ f9IlhVCCzp calls 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 raises to 100
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Ryan @ f9IlhVCCzp calls 100
+JP @ m3-N51qfDy calls 100
+Flop:  [9♦, 7♥, 4♠]
+Ryan @ f9IlhVCCzp bets 330
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 1170 and go all in
+Ryan @ f9IlhVCCzp calls 1153 and go all in
+Uncalled bet of 17 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 shows a 8♣, A♣.
+Ryan @ f9IlhVCCzp shows a 9♣, K♦.
+Turn: 9♦, 7♥, 4♠ [7♠]
+River: 9♦, 7♥, 4♠, 7♠ [3♣]
+Ryan @ f9IlhVCCzp collected 2636 from pot with Two Pair, 9's & 7's (combination: 9♣, 9♦, 7♥, 7♠, K♦)
+-- ending hand #149 --
+-- starting hand #150  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (17) | #2 boobs @ 2yxSpZlTPR (1798) | #3 Sean @ pL8pVRDugg (6715) | #4 Ryan @ f9IlhVCCzp (2636) | #9 Shmoley @ OwnSfn9gR- (1125) | #10 JP @ m3-N51qfDy (4576)
+Your hand is 7♦, 2♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 17 and go all in
+boobs @ 2yxSpZlTPR raises to 100
+Sean @ pL8pVRDugg folds
+The admin boobs @ 2yxSpZlTPR enqueued the removal of the player Ryan @ f9IlhVCCzp.
+Ryan @ f9IlhVCCzp folds
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 80 returned to boobs @ 2yxSpZlTPR
+Nick @ mXtR2R3-I6 shows a 2♠, K♦.
+boobs @ 2yxSpZlTPR shows a Q♠, A♣.
+Flop:  [10♥, Q♦, A♦]
+Turn: 10♥, Q♦, A♦ [5♠]
+River: 10♥, Q♦, A♦, 5♠ [7♥]
+boobs @ 2yxSpZlTPR collected 78 from pot with Two Pair, A's & Q's (combination: A♣, A♦, Q♠, Q♦, 10♥)
+boobs @ 2yxSpZlTPR collected 9 from pot with Two Pair, A's & Q's (combination: A♣, A♦, Q♠, Q♦, 10♥)
+-- ending hand #150 --
+The player Nick @ mXtR2R3-I6 quits the game with a stack of 0.
+The player Ryan @ f9IlhVCCzp quits the game with a stack of 2616.
+-- starting hand #151  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1865) | #3 Sean @ pL8pVRDugg (6705) | #9 Shmoley @ OwnSfn9gR- (1105) | #10 JP @ m3-N51qfDy (4576)
+Your hand is J♦, K♦
+Dead Small Blind
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy raises to 60
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 40 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 40 from pot
+-- ending hand #151 --
+Undealt cards:  [6♣, 7♥, 8♣, 8♦, A♦]
+-- starting hand #152  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #2 boobs @ 2yxSpZlTPR (1865) | #3 Sean @ pL8pVRDugg (6705) | #9 Shmoley @ OwnSfn9gR- (1085) | #10 JP @ m3-N51qfDy (4596)
+Your hand is 6♦, 5♦
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+The player Nick @ mXtR2R3-I6 requested a seat.
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg folds
+The admin approved the player Nick @ mXtR2R3-I6 participation with a stack of 1000.
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 70
+Flop:  [8♥, 3♠, J♣]
+JP @ m3-N51qfDy checks
+boobs @ 2yxSpZlTPR bets 150
+JP @ m3-N51qfDy folds
+Uncalled bet of 150 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 150 from pot
+-- ending hand #152 --
+Undealt cards: 8♥, 3♠, J♣ [8♣, 10♣]
+The player Nick @ mXtR2R3-I6 joined the game with a stack of 1000.
+-- starting hand #153  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1000) | #2 boobs @ 2yxSpZlTPR (1945) | #3 Sean @ pL8pVRDugg (6705) | #9 Shmoley @ OwnSfn9gR- (1075) | #10 JP @ m3-N51qfDy (4526)
+Your hand is J♣, 9♠
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg calls 20
+Shmoley @ OwnSfn9gR- raises to 70
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 70
+Sean @ pL8pVRDugg calls 70
+Flop:  [10♥, 8♥, 5♠]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 160
+Shmoley @ OwnSfn9gR- calls 160
+boobs @ 2yxSpZlTPR folds
+Turn: 10♥, 8♥, 5♠ [9♥]
+Sean @ pL8pVRDugg bets 450
+Shmoley @ OwnSfn9gR- calls 450
+River: 10♥, 8♥, 5♠, 9♥ [Q♣]
+Sean @ pL8pVRDugg checks
+Shmoley @ OwnSfn9gR- bets 395 and go all in
+Sean @ pL8pVRDugg calls 395
+Shmoley @ OwnSfn9gR- shows a A♥, 4♥.
+Shmoley @ OwnSfn9gR- collected 2250 from pot with Flush, Ah High (combination: A♥, 10♥, 9♥, 8♥, 4♥)
+Sean @ pL8pVRDugg shows a 6♦, 10♦.
+-- ending hand #153 --
+-- starting hand #154  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (980) | #2 boobs @ 2yxSpZlTPR (1875) | #3 Sean @ pL8pVRDugg (5630) | #9 Shmoley @ OwnSfn9gR- (2250) | #10 JP @ m3-N51qfDy (4516)
+Your hand is Q♦, 7♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 40
+boobs @ 2yxSpZlTPR raises to 60
+Sean @ pL8pVRDugg calls 60
+Nick @ mXtR2R3-I6 calls 60
+Flop:  [3♣, 5♥, 10♦]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 85
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 85
+Turn: 3♣, 5♥, 10♦ [4♦]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg bets 290
+boobs @ 2yxSpZlTPR calls 290
+River: 3♣, 5♥, 10♦, 4♦ [5♦]
+boobs @ 2yxSpZlTPR bets 1440 and go all in
+Sean @ pL8pVRDugg folds
+Uncalled bet of 1440 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 930 from pot
+-- ending hand #154 --
+-- starting hand #155  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (920) | #2 boobs @ 2yxSpZlTPR (2370) | #3 Sean @ pL8pVRDugg (5195) | #9 Shmoley @ OwnSfn9gR- (2250) | #10 JP @ m3-N51qfDy (4516)
+Your hand is 2♣, 4♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 50
+boobs @ 2yxSpZlTPR calls 50
+Sean @ pL8pVRDugg calls 50
+Flop:  [5♦, A♥, 5♠]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 checks
+Turn: 5♦, A♥, 5♠ [5♣]
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg checks
+Nick @ mXtR2R3-I6 bets 75
+boobs @ 2yxSpZlTPR calls 75
+Sean @ pL8pVRDugg folds
+River: 5♦, A♥, 5♠, 5♣ [6♠]
+boobs @ 2yxSpZlTPR checks
+Nick @ mXtR2R3-I6 bets 400
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 400 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 300 from pot
+-- ending hand #155 --
+-- starting hand #156  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1095) | #2 boobs @ 2yxSpZlTPR (2245) | #3 Sean @ pL8pVRDugg (5145) | #9 Shmoley @ OwnSfn9gR- (2250) | #10 JP @ m3-N51qfDy (4516)
+Your hand is 10♦, 9♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy raises to 60
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 60
+Sean @ pL8pVRDugg calls 60
+Shmoley @ OwnSfn9gR- folds
+Flop:  [10♠, 2♣, Q♣]
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy bets 140
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Uncalled bet of 140 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 200 from pot
+-- ending hand #156 --
+Undealt cards: 10♠, 2♣, Q♣ [J♠, 4♣]
+-- starting hand #157  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1095) | #2 boobs @ 2yxSpZlTPR (2185) | #3 Sean @ pL8pVRDugg (5085) | #9 Shmoley @ OwnSfn9gR- (2230) | #10 JP @ m3-N51qfDy (4656)
+Your hand is 10♣, 7♣
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 70
+Flop:  [A♣, K♥, 3♦]
+JP @ m3-N51qfDy checks
+boobs @ 2yxSpZlTPR checks
+Turn: A♣, K♥, 3♦ [9♣]
+JP @ m3-N51qfDy bets 75
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 75 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 150 from pot
+-- ending hand #157 --
+Undealt cards: A♣, K♥, 3♦, 9♣ [4♠]
+-- starting hand #158  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1095) | #2 boobs @ 2yxSpZlTPR (2115) | #3 Sean @ pL8pVRDugg (5085) | #9 Shmoley @ OwnSfn9gR- (2220) | #10 JP @ m3-N51qfDy (4736)
+Your hand is 3♣, 5♥
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 70
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 70
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 70
+Flop:  [5♣, A♥, 7♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 100
+Shmoley @ OwnSfn9gR- raises to 350
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 600
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 250 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 920 from pot
+-- ending hand #158 --
+Undealt cards: 5♣, A♥, 7♣ [J♠, 4♠]
+-- starting hand #159  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1025) | #2 boobs @ 2yxSpZlTPR (2615) | #3 Sean @ pL8pVRDugg (5085) | #9 Shmoley @ OwnSfn9gR- (1800) | #10 JP @ m3-N51qfDy (4726)
+Your hand is 4♠, 6♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Shmoley @ OwnSfn9gR- calls 40
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 40
+boobs @ 2yxSpZlTPR raises to 100
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 100
+Nick @ mXtR2R3-I6 calls 100
+Flop:  [6♦, K♦, 10♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Shmoley @ OwnSfn9gR- bets 170
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 170
+Turn: 6♦, K♦, 10♣ [2♦]
+boobs @ 2yxSpZlTPR bets 345
+Shmoley @ OwnSfn9gR- raises to 1000
+boobs @ 2yxSpZlTPR raises to 1655
+Shmoley @ OwnSfn9gR- calls 1530 and go all in
+Uncalled bet of 125 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR shows a A♥, 7♥.
+Shmoley @ OwnSfn9gR- shows a 10♥, K♣.
+River: 6♦, K♦, 10♣, 2♦ [6♥]
+Shmoley @ OwnSfn9gR- collected 3740 from pot with Two Pair, K's & 10's (combination: K♣, K♦, 10♥, 10♣, 6♦)
+-- ending hand #159 --
+-- starting hand #160  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (925) | #2 boobs @ 2yxSpZlTPR (815) | #3 Sean @ pL8pVRDugg (5045) | #9 Shmoley @ OwnSfn9gR- (3740) | #10 JP @ m3-N51qfDy (4726)
+Your hand is 8♦, 2♠
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 10 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 20 from pot
+-- ending hand #160 --
+Sean @ pL8pVRDugg shows a 8♠, Q♣.
+Undealt cards:  [3♦, J♣, 6♦, 7♣, A♠]
+-- starting hand #161  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (925) | #2 boobs @ 2yxSpZlTPR (805) | #3 Sean @ pL8pVRDugg (5055) | #9 Shmoley @ OwnSfn9gR- (3740) | #10 JP @ m3-N51qfDy (4726)
+Your hand is 2♦, Q♦
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR calls 20
+Sean @ pL8pVRDugg raises to 100
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+boobs @ 2yxSpZlTPR calls 100
+Flop:  [3♣, 6♠, Q♥]
+Sean @ pL8pVRDugg bets 140
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 140 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 240 from pot
+-- ending hand #161 --
+Undealt cards: 3♣, 6♠, Q♥ [4♠, 8♠]
+Shmoley @ OwnSfn9gR- shows a 6♣, Q♣.
+JP @ m3-N51qfDy shows a 2♦, Q♦.
+-- starting hand #162  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (925) | #2 boobs @ 2yxSpZlTPR (705) | #3 Sean @ pL8pVRDugg (5195) | #9 Shmoley @ OwnSfn9gR- (3720) | #10 JP @ m3-N51qfDy (4706)
+Your hand is 4♠, J♠
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 40
+boobs @ 2yxSpZlTPR calls 40
+Sean @ pL8pVRDugg calls 40
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 40
+Flop:  [10♣, 2♥, 2♣]
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 bets 65
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+JP @ m3-N51qfDy folds
+Uncalled bet of 65 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 170 from pot
+-- ending hand #162 --
+Undealt cards: 10♣, 2♥, 2♣ [5♥, 10♦]
+-- starting hand #163  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1055) | #2 boobs @ 2yxSpZlTPR (665) | #3 Sean @ pL8pVRDugg (5155) | #9 Shmoley @ OwnSfn9gR- (3710) | #10 JP @ m3-N51qfDy (4666)
+Your hand is A♣, 4♦
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy raises to 40
+Nick @ mXtR2R3-I6 calls 40
+Flop:  [8♣, K♣, 5♠]
+JP @ m3-N51qfDy bets 80
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 80 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 80 from pot
+-- ending hand #163 --
+Undealt cards: 8♣, K♣, 5♠ [5♦, 8♦]
+-- starting hand #164  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1015) | #2 boobs @ 2yxSpZlTPR (665) | #3 Sean @ pL8pVRDugg (5155) | #9 Shmoley @ OwnSfn9gR- (3710) | #10 JP @ m3-N51qfDy (4706)
+Your hand is A♠, 2♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy raises to 80
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg calls 80
+Flop:  [A♣, 10♣, A♦]
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy checks
+Turn: A♣, 10♣, A♦ [10♥]
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy bets 190
+Sean @ pL8pVRDugg folds
+Uncalled bet of 190 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 190 from pot
+-- ending hand #164 --
+JP @ m3-N51qfDy shows a A♠, 2♠.
+Undealt cards: A♣, 10♣, A♦, 10♥ [8♦]
+-- starting hand #165  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1005) | #2 boobs @ 2yxSpZlTPR (645) | #3 Sean @ pL8pVRDugg (5075) | #9 Shmoley @ OwnSfn9gR- (3710) | #10 JP @ m3-N51qfDy (4816)
+Your hand is 8♦, 10♠
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 809
+boobs @ 2yxSpZlTPR folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 789 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 70 from pot
+-- ending hand #165 --
+Undealt cards:  [Q♦, 5♦, 6♠, K♥, 8♥]
+-- starting hand #166  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1055) | #2 boobs @ 2yxSpZlTPR (635) | #3 Sean @ pL8pVRDugg (5055) | #9 Shmoley @ OwnSfn9gR- (3690) | #10 JP @ m3-N51qfDy (4816)
+Your hand is 6♦, 4♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 635 and go all in
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 615 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 50 from pot
+-- ending hand #166 --
+Undealt cards:  [A♥, 10♦, 10♣, 7♠, 4♠]
+-- starting hand #167  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1055) | #2 boobs @ 2yxSpZlTPR (665) | #3 Sean @ pL8pVRDugg (5045) | #9 Shmoley @ OwnSfn9gR- (3670) | #10 JP @ m3-N51qfDy (4816)
+Your hand is A♠, 7♥
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 calls 20
+boobs @ 2yxSpZlTPR raises to 72
+Sean @ pL8pVRDugg raises to 250
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+boobs @ 2yxSpZlTPR raises to 665 and go all in
+Sean @ pL8pVRDugg calls 665
+boobs @ 2yxSpZlTPR shows a 8♦, K♣.
+Sean @ pL8pVRDugg shows a 7♦, 6♦.
+Flop:  [2♦, 4♦, Q♦]
+Turn: 2♦, 4♦, Q♦ [5♥]
+River: 2♦, 4♦, Q♦, 5♥ [5♠]
+Sean @ pL8pVRDugg collected 1380 from pot with Flush, Qd High (combination: Q♦, 7♦, 6♦, 4♦, 2♦)
+-- ending hand #167 --
+The player boobs @ 2yxSpZlTPR quits the game with a stack of 0.
+-- starting hand #168  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1035) | #3 Sean @ pL8pVRDugg (5760) | #9 Shmoley @ OwnSfn9gR- (3660) | #10 JP @ m3-N51qfDy (4796)
+Your hand is J♦, 8♥
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Sean @ pL8pVRDugg posts a straddle of 40
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 40
+Nick @ mXtR2R3-I6 raises to 120
+Sean @ pL8pVRDugg calls 120
+JP @ m3-N51qfDy folds
+Flop:  [5♦, 9♣, 6♣]
+Nick @ mXtR2R3-I6 bets 100
+Sean @ pL8pVRDugg folds
+Uncalled bet of 100 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 280 from pot
+-- ending hand #168 --
+Undealt cards: 5♦, 9♣, 6♣ [A♥, 2♥]
+-- starting hand #169  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1195) | #3 Sean @ pL8pVRDugg (5640) | #9 Shmoley @ OwnSfn9gR- (3660) | #10 JP @ m3-N51qfDy (4756)
+Your hand is 4♥, 4♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy raises to 80
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 80
+Flop:  [8♦, 10♣, 8♣]
+Shmoley @ OwnSfn9gR- bets 95
+JP @ m3-N51qfDy calls 95
+Turn: 8♦, 10♣, 8♣ [A♦]
+Shmoley @ OwnSfn9gR- bets 190
+JP @ m3-N51qfDy calls 190
+River: 8♦, 10♣, 8♣, A♦ [J♥]
+Shmoley @ OwnSfn9gR- bets 380
+JP @ m3-N51qfDy calls 380
+Shmoley @ OwnSfn9gR- shows a 7♣, A♣.
+Shmoley @ OwnSfn9gR- collected 1520 from pot with Two Pair, A's & 8's (combination: A♣, A♦, 8♦, 8♣, J♥)
+-- ending hand #169 --
+-- starting hand #170  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1185) | #3 Sean @ pL8pVRDugg (5620) | #9 Shmoley @ OwnSfn9gR- (4435) | #10 JP @ m3-N51qfDy (4011)
+Your hand is 10♥, A♥
+Sean @ pL8pVRDugg posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+JP @ m3-N51qfDy raises to 60
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg folds
+Shmoley @ OwnSfn9gR- calls 60
+Flop:  [2♥, Q♠, 8♣]
+Shmoley @ OwnSfn9gR- checks
+JP @ m3-N51qfDy bets 65
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 65 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 130 from pot
+-- ending hand #170 --
+Undealt cards: 2♥, Q♠, 8♣ [J♥, 6♥]
+-- starting hand #171  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1185) | #3 Sean @ pL8pVRDugg (5610) | #9 Shmoley @ OwnSfn9gR- (4375) | #10 JP @ m3-N51qfDy (4081)
+Your hand is J♠, 2♣
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+The player Ryan @ f9IlhVCCzp requested a seat.
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg raises to 60
+Shmoley @ OwnSfn9gR- folds
+The admin approved the player Ryan @ f9IlhVCCzp participation with a stack of 500.
+JP @ m3-N51qfDy folds
+Uncalled bet of 40 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg collected 50 from pot
+-- ending hand #171 --
+Undealt cards:  [Q♥, 10♥, 5♣, 10♦, A♦]
+The player boobs @ 2yxSpZlTPR passed the room ownership to Sean @ pL8pVRDugg.
+The player Ryan @ f9IlhVCCzp joined the game with a stack of 500.
+-- starting hand #172  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1185) | #2 Ryan @ f9IlhVCCzp (500) | #3 Sean @ pL8pVRDugg (5640) | #9 Shmoley @ OwnSfn9gR- (4365) | #10 JP @ m3-N51qfDy (4061)
+Your hand is 2♠, 7♠
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Ryan @ f9IlhVCCzp calls 20
+Sean @ pL8pVRDugg raises to 80
+Shmoley @ OwnSfn9gR- calls 80
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp calls 80
+Flop:  [9♦, K♠, K♦]
+The player boobs @ 2yxSpZlTPR requested a seat.
+Ryan @ f9IlhVCCzp bets 20
+The admin approved the player boobs @ 2yxSpZlTPR participation with a stack of 500.
+Sean @ pL8pVRDugg calls 20
+Shmoley @ OwnSfn9gR- raises to 350
+Ryan @ f9IlhVCCzp calls 350
+Sean @ pL8pVRDugg folds
+Turn: 9♦, K♠, K♦ [4♠]
+Ryan @ f9IlhVCCzp bets 70 and go all in
+Shmoley @ OwnSfn9gR- calls 70
+Ryan @ f9IlhVCCzp shows a 8♠, 9♥.
+Shmoley @ OwnSfn9gR- shows a 3♥, 3♣.
+River: 9♦, K♠, K♦, 4♠ [3♠]
+Shmoley @ OwnSfn9gR- collected 1130 from pot with Full House, 3's over K's (combination: 3♥, 3♣, 3♠, K♠, K♦)
+-- ending hand #172 --
+Sean @ pL8pVRDugg shows a J♣, J♠.
+The player Ryan @ f9IlhVCCzp quits the game with a stack of 0.
+The player boobs @ 2yxSpZlTPR joined the game with a stack of 500.
+-- starting hand #173  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1165) | #3 Sean @ pL8pVRDugg (5540) | #4 boobs @ 2yxSpZlTPR (500) | #9 Shmoley @ OwnSfn9gR- (4995) | #10 JP @ m3-N51qfDy (4051)
+Your hand is A♠, A♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg checks
+Flop:  [8♠, K♣, 4♥]
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy bets 50
+Sean @ pL8pVRDugg folds
+Uncalled bet of 50 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 50 from pot
+-- ending hand #173 --
+JP @ m3-N51qfDy shows a A♠, A♣.
+Undealt cards: 8♠, K♣, 4♥ [9♠, 3♣]
+-- starting hand #174  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1155) | #3 Sean @ pL8pVRDugg (5520) | #4 boobs @ 2yxSpZlTPR (500) | #9 Shmoley @ OwnSfn9gR- (4995) | #10 JP @ m3-N51qfDy (4081)
+Your hand is 10♥, J♦
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Shmoley @ OwnSfn9gR- raises to 70
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 180
+Sean @ pL8pVRDugg folds
+boobs @ 2yxSpZlTPR folds
+Shmoley @ OwnSfn9gR- calls 180
+Flop:  [K♣, K♦, K♠]
+Shmoley @ OwnSfn9gR- bets 195
+Nick @ mXtR2R3-I6 raises to 975 and go all in
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 780 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 780 from pot
+-- ending hand #174 --
+Sean @ pL8pVRDugg shows a 2♠, 2♦.
+Undealt cards: K♣, K♦, K♠ [A♠, 5♣]
+-- starting hand #175  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1560) | #3 Sean @ pL8pVRDugg (5510) | #4 boobs @ 2yxSpZlTPR (480) | #9 Shmoley @ OwnSfn9gR- (4620) | #10 JP @ m3-N51qfDy (4081)
+Your hand is K♦, 7♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+Shmoley @ OwnSfn9gR- posts a big blind of 20
+The player Ryan @ f9IlhVCCzp requested a seat.
+The admin approved the player Ryan @ f9IlhVCCzp participation with a stack of 500.
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 raises to 80
+Sean @ pL8pVRDugg folds
+boobs @ 2yxSpZlTPR raises to 480 and go all in
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 480
+Nick @ mXtR2R3-I6 shows a K♥, A♦.
+boobs @ 2yxSpZlTPR shows a 4♠, A♠.
+Flop:  [2♠, 8♠, 3♦]
+Turn: 2♠, 8♠, 3♦ [J♣]
+River: 2♠, 8♠, 3♦, J♣ [4♥]
+boobs @ 2yxSpZlTPR collected 1000 from pot with Pair, 4's (combination: 4♠, 4♥, A♠, J♣, 8♠)
+-- ending hand #175 --
+The player Ryan @ f9IlhVCCzp joined the game with a stack of 500.
+-- starting hand #176  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1080) | #2 Ryan @ f9IlhVCCzp (500) | #3 Sean @ pL8pVRDugg (5510) | #4 boobs @ 2yxSpZlTPR (1000) | #9 Shmoley @ OwnSfn9gR- (4600) | #10 JP @ m3-N51qfDy (4061)
+Your hand is 4♥, A♠
+Shmoley @ OwnSfn9gR- posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp raises to 60
+Sean @ pL8pVRDugg calls 60
+boobs @ 2yxSpZlTPR folds
+Shmoley @ OwnSfn9gR- folds
+JP @ m3-N51qfDy raises to 140
+Ryan @ f9IlhVCCzp calls 140
+Sean @ pL8pVRDugg calls 140
+Flop:  [10♥, 10♠, 6♠]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp bets 360 and go all in
+Sean @ pL8pVRDugg calls 360
+JP @ m3-N51qfDy folds
+Ryan @ f9IlhVCCzp shows a 6♦, A♦.
+Sean @ pL8pVRDugg shows a 10♣, Q♦.
+Turn: 10♥, 10♠, 6♠ [Q♠]
+River: 10♥, 10♠, 6♠, Q♠ [J♥]
+Sean @ pL8pVRDugg collected 1150 from pot with Full House, 10's over Q's (combination: 10♣, 10♥, 10♠, Q♦, Q♠)
+-- ending hand #176 --
+The player Ryan @ f9IlhVCCzp quits the game with a stack of 0.
+-- starting hand #177  (No Limit Texas Hold'em) (dealer: Shmoley @ OwnSfn9gR-) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1080) | #3 Sean @ pL8pVRDugg (6160) | #4 boobs @ 2yxSpZlTPR (1000) | #9 Shmoley @ OwnSfn9gR- (4590) | #10 JP @ m3-N51qfDy (3921)
+Your hand is J♠, 8♣
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Sean @ pL8pVRDugg folds
+boobs @ 2yxSpZlTPR folds
+Shmoley @ OwnSfn9gR- raises to 60
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 60
+Flop:  [Q♠, 9♥, K♦]
+Nick @ mXtR2R3-I6 checks
+Shmoley @ OwnSfn9gR- bets 65
+Nick @ mXtR2R3-I6 calls 65
+Turn: Q♠, 9♥, K♦ [4♣]
+Nick @ mXtR2R3-I6 checks
+Shmoley @ OwnSfn9gR- bets 195
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 195 returned to Shmoley @ OwnSfn9gR-
+Shmoley @ OwnSfn9gR- collected 260 from pot
+-- ending hand #177 --
+-- starting hand #178  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (955) | #3 Sean @ pL8pVRDugg (6160) | #4 boobs @ 2yxSpZlTPR (1000) | #9 Shmoley @ OwnSfn9gR- (4725) | #10 JP @ m3-N51qfDy (3911)
+Your hand is 8♣, K♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+The player Ryan @ f9IlhVCCzp requested a seat.
+boobs @ 2yxSpZlTPR raises to 100
+Shmoley @ OwnSfn9gR- folds
+The admin approved the player Ryan @ f9IlhVCCzp participation with a stack of 500.
+JP @ m3-N51qfDy calls 100
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg folds
+Flop:  [9♦, 9♣, A♠]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy checks
+Turn: 9♦, 9♣, A♠ [9♠]
+boobs @ 2yxSpZlTPR bets 230
+JP @ m3-N51qfDy folds
+Uncalled bet of 230 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 230 from pot
+-- ending hand #178 --
+Undealt cards: 9♦, 9♣, A♠, 9♠ [8♥]
+-- starting hand #179  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (945) | #3 Sean @ pL8pVRDugg (6140) | #4 boobs @ 2yxSpZlTPR (1130) | #9 Shmoley @ OwnSfn9gR- (4725) | #10 JP @ m3-N51qfDy (3811)
+Your hand is 6♥, 5♥
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+Shmoley @ OwnSfn9gR- calls 20
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg calls 20
+boobs @ 2yxSpZlTPR checks
+Flop:  [5♣, 3♠, 2♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Shmoley @ OwnSfn9gR- checks
+JP @ m3-N51qfDy bets 80
+Sean @ pL8pVRDugg folds
+boobs @ 2yxSpZlTPR folds
+Shmoley @ OwnSfn9gR- folds
+Uncalled bet of 80 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 80 from pot
+-- ending hand #179 --
+Undealt cards: 5♣, 3♠, 2♣ [Q♣, 4♠]
+The player Shmoley @ OwnSfn9gR- stand up with the stack of 4705.
+The player Ryan @ f9IlhVCCzp joined the game with a stack of 500.
+-- starting hand #180  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (945) | #2 Ryan @ f9IlhVCCzp (500) | #3 Sean @ pL8pVRDugg (6120) | #4 boobs @ 2yxSpZlTPR (1110) | #10 JP @ m3-N51qfDy (3871)
+Your hand is 8♥, 4♥
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp folds
+Sean @ pL8pVRDugg calls 20
+boobs @ 2yxSpZlTPR calls 20
+JP @ m3-N51qfDy checks
+Flop:  [9♠, K♦, K♥]
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy folds
+Sean @ pL8pVRDugg collected 60 from pot
+-- ending hand #180 --
+Sean @ pL8pVRDugg shows a 5♦, K♣.
+Undealt cards: 9♠, K♦, K♥ [2♥, 9♣]
+-- starting hand #181  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (945) | #2 Ryan @ f9IlhVCCzp (500) | #3 Sean @ pL8pVRDugg (6160) | #4 boobs @ 2yxSpZlTPR (1090) | #10 JP @ m3-N51qfDy (3851)
+Your hand is 4♠, 7♠
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Ryan @ f9IlhVCCzp raises to 40
+Sean @ pL8pVRDugg calls 40
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 40
+Flop:  [K♥, K♣, K♠]
+Nick @ mXtR2R3-I6 checks
+Ryan @ f9IlhVCCzp bets 20
+Sean @ pL8pVRDugg folds
+Nick @ mXtR2R3-I6 calls 20
+Turn: K♥, K♣, K♠ [6♥]
+Nick @ mXtR2R3-I6 checks
+Ryan @ f9IlhVCCzp bets 80
+Nick @ mXtR2R3-I6 calls 80
+River: K♥, K♣, K♠, 6♥ [9♣]
+Nick @ mXtR2R3-I6 checks
+Ryan @ f9IlhVCCzp checks
+Nick @ mXtR2R3-I6 shows a 9♦, 8♠.
+Nick @ mXtR2R3-I6 collected 330 from pot with Full House, K's over 9's (combination: K♥, K♣, K♠, 9♦, 9♣)
+-- ending hand #181 --
+Ryan @ f9IlhVCCzp shows a 7♣, 7♥.
+-- starting hand #182  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1135) | #2 Ryan @ f9IlhVCCzp (360) | #3 Sean @ pL8pVRDugg (6120) | #4 boobs @ 2yxSpZlTPR (1090) | #10 JP @ m3-N51qfDy (3841)
+Your hand is 5♠, 2♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+boobs @ 2yxSpZlTPR raises to 100
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 100
+Ryan @ f9IlhVCCzp folds
+Sean @ pL8pVRDugg calls 100
+Flop:  [K♣, 6♣, 6♥]
+Nick @ mXtR2R3-I6 checks
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: K♣, 6♣, 6♥ [Q♥]
+Nick @ mXtR2R3-I6 bets 20
+Sean @ pL8pVRDugg folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 20 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 320 from pot
+-- ending hand #182 --
+Nick @ mXtR2R3-I6 shows a 6♦, Q♦.
+Undealt cards: K♣, 6♣, 6♥, Q♥ [J♣]
+-- starting hand #183  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1355) | #2 Ryan @ f9IlhVCCzp (340) | #3 Sean @ pL8pVRDugg (6020) | #4 boobs @ 2yxSpZlTPR (990) | #10 JP @ m3-N51qfDy (3841)
+Your hand is A♣, 3♥
+Ryan @ f9IlhVCCzp posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy raises to 60
+Nick @ mXtR2R3-I6 calls 60
+Ryan @ f9IlhVCCzp calls 60
+Sean @ pL8pVRDugg folds
+Flop:  [K♣, 6♣, J♥]
+Ryan @ f9IlhVCCzp checks
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 checks
+Turn: K♣, 6♣, J♥ [4♠]
+Ryan @ f9IlhVCCzp checks
+JP @ m3-N51qfDy checks
+Nick @ mXtR2R3-I6 bets 120
+Ryan @ f9IlhVCCzp folds
+JP @ m3-N51qfDy folds
+Uncalled bet of 120 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 200 from pot
+-- ending hand #183 --
+Undealt cards: K♣, 6♣, J♥, 4♠ [5♣]
+-- starting hand #184  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1495) | #2 Ryan @ f9IlhVCCzp (280) | #3 Sean @ pL8pVRDugg (6000) | #4 boobs @ 2yxSpZlTPR (990) | #10 JP @ m3-N51qfDy (3781)
+Your hand is 4♦, 8♦
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 raises to 50
+Ryan @ f9IlhVCCzp folds
+Sean @ pL8pVRDugg raises to 160
+boobs @ 2yxSpZlTPR raises to 270
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg calls 270
+Flop:  [J♦, 7♠, 2♦]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR bets 720 and go all in
+Sean @ pL8pVRDugg calls 720
+Sean @ pL8pVRDugg shows a 10♣, 10♠.
+boobs @ 2yxSpZlTPR shows a 7♣, 7♥.
+Turn: J♦, 7♠, 2♦ [8♥]
+River: J♦, 7♠, 2♦, 8♥ [6♦]
+boobs @ 2yxSpZlTPR collected 2030 from pot with Three of a Kind, 7's (combination: 7♣, 7♥, 7♠, J♦, 8♥)
+-- ending hand #184 --
+JP @ m3-N51qfDy shows a 4♦, 8♦.
+-- starting hand #185  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1445) | #2 Ryan @ f9IlhVCCzp (280) | #3 Sean @ pL8pVRDugg (5010) | #4 boobs @ 2yxSpZlTPR (2030) | #10 JP @ m3-N51qfDy (3781)
+Your hand is 6♠, 5♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 calls 20
+Ryan @ f9IlhVCCzp raises to 280 and go all in
+Sean @ pL8pVRDugg folds
+boobs @ 2yxSpZlTPR calls 280
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp shows a 3♥, Q♣.
+boobs @ 2yxSpZlTPR shows a A♣, 4♥.
+Flop:  [J♣, 9♠, 5♠]
+Turn: J♣, 9♠, 5♠ [8♠]
+River: J♣, 9♠, 5♠, 8♠ [7♥]
+boobs @ 2yxSpZlTPR collected 600 from pot with A High (combination: A♣, J♣, 9♠, 8♠, 7♥)
+-- ending hand #185 --
+JP @ m3-N51qfDy shows a 6♠, 5♣.
+The player Ryan @ f9IlhVCCzp quits the game with a stack of 0.
+-- starting hand #186  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1425) | #3 Sean @ pL8pVRDugg (5010) | #4 boobs @ 2yxSpZlTPR (2350) | #10 JP @ m3-N51qfDy (3761)
+Your hand is 8♦, 6♣
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Sean @ pL8pVRDugg folds
+boobs @ 2yxSpZlTPR calls 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 checks
+Flop:  [8♥, 9♥, 7♠]
+Nick @ mXtR2R3-I6 bets 20
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 20 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 50 from pot
+-- ending hand #186 --
+Undealt cards: 8♥, 9♥, 7♠ [3♦, 6♠]
+-- starting hand #187  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1455) | #3 Sean @ pL8pVRDugg (5010) | #4 boobs @ 2yxSpZlTPR (2330) | #10 JP @ m3-N51qfDy (3751)
+Your hand is 10♦, 3♦
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy folds
+The player Ryan @ f9IlhVCCzp requested a seat.
+Nick @ mXtR2R3-I6 raises to 60
+The admin approved the player Ryan @ f9IlhVCCzp participation with a stack of 500.
+Sean @ pL8pVRDugg folds
+Uncalled bet of 40 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 40 from pot
+-- ending hand #187 --
+Undealt cards:  [3♥, Q♥, 3♠, 7♠, 8♥]
+-- starting hand #188  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1475) | #3 Sean @ pL8pVRDugg (4990) | #4 boobs @ 2yxSpZlTPR (2330) | #10 JP @ m3-N51qfDy (3751)
+Your hand is K♥, Q♣
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy raises to 60
+Nick @ mXtR2R3-I6 folds
+Sean @ pL8pVRDugg folds
+boobs @ 2yxSpZlTPR calls 60
+Flop:  [2♦, 3♦, 9♠]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 130
+boobs @ 2yxSpZlTPR calls 130
+Turn: 2♦, 3♦, 9♠ [A♦]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 390
+boobs @ 2yxSpZlTPR raises to 780
+JP @ m3-N51qfDy folds
+Uncalled bet of 390 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 1170 from pot
+-- ending hand #188 --
+boobs @ 2yxSpZlTPR shows a 6♦, 10♦.
+Undealt cards: 2♦, 3♦, 9♠, A♦ [6♠]
+The player Ryan @ f9IlhVCCzp joined the game with a stack of 500.
+-- starting hand #189  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1475) | #2 Ryan @ f9IlhVCCzp (500) | #3 Sean @ pL8pVRDugg (4980) | #4 boobs @ 2yxSpZlTPR (2920) | #10 JP @ m3-N51qfDy (3171)
+Your hand is 8♦, 2♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp raises to 40
+Sean @ pL8pVRDugg raises to 130
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy folds
+Ryan @ f9IlhVCCzp raises to 500 and go all in
+Sean @ pL8pVRDugg calls 500
+Ryan @ f9IlhVCCzp shows a A♣, J♥.
+Sean @ pL8pVRDugg shows a K♠, K♣.
+Flop:  [7♠, J♣, 4♦]
+Turn: 7♠, J♣, 4♦ [J♦]
+River: 7♠, J♣, 4♦, J♦ [9♦]
+Ryan @ f9IlhVCCzp collected 1030 from pot with Three of a Kind, J's (combination: J♥, J♣, J♦, A♣, 9♦)
+-- ending hand #189 --
+-- starting hand #190  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1475) | #2 Ryan @ f9IlhVCCzp (1030) | #3 Sean @ pL8pVRDugg (4480) | #4 boobs @ 2yxSpZlTPR (2910) | #10 JP @ m3-N51qfDy (3151)
+Your hand is A♣, A♥
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Ryan @ f9IlhVCCzp folds
+Sean @ pL8pVRDugg folds
+boobs @ 2yxSpZlTPR raises to 40
+JP @ m3-N51qfDy calls 40
+Nick @ mXtR2R3-I6 folds
+Flop:  [Q♣, 8♣, A♠]
+JP @ m3-N51qfDy bets 50
+boobs @ 2yxSpZlTPR calls 50
+Turn: Q♣, 8♣, A♠ [9♠]
+JP @ m3-N51qfDy bets 100
+boobs @ 2yxSpZlTPR calls 100
+River: Q♣, 8♣, A♠, 9♠ [7♦]
+JP @ m3-N51qfDy bets 713
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 713 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 400 from pot
+-- ending hand #190 --
+-- starting hand #191  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1455) | #2 Ryan @ f9IlhVCCzp (1030) | #3 Sean @ pL8pVRDugg (4480) | #4 boobs @ 2yxSpZlTPR (2720) | #10 JP @ m3-N51qfDy (3361)
+Your hand is 8♦, 6♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+Sean @ pL8pVRDugg raises to 60
+boobs @ 2yxSpZlTPR raises to 100
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp folds
+Sean @ pL8pVRDugg calls 100
+Flop:  [6♦, 5♥, 2♦]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Turn: 6♦, 5♥, 2♦ [4♣]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR bets 150
+Sean @ pL8pVRDugg calls 150
+River: 6♦, 5♥, 2♦, 4♣ [4♦]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR checks
+Sean @ pL8pVRDugg shows a Q♥, A♣.
+Sean @ pL8pVRDugg collected 530 from pot with Pair, 4's (combination: 4♣, 4♦, A♣, Q♥, 6♦)
+-- ending hand #191 --
+Ryan @ f9IlhVCCzp shows a 3♣, 8♠.
+boobs @ 2yxSpZlTPR shows a K♥, 9♥.
+-- starting hand #192  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1445) | #2 Ryan @ f9IlhVCCzp (1010) | #3 Sean @ pL8pVRDugg (4760) | #4 boobs @ 2yxSpZlTPR (2470) | #10 JP @ m3-N51qfDy (3361)
+Your hand is 8♠, 9♠
+Ryan @ f9IlhVCCzp posts a small blind of 10
+Sean @ pL8pVRDugg posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy raises to 60
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp calls 60
+Sean @ pL8pVRDugg calls 60
+Flop:  [A♦, 4♣, 3♠]
+Ryan @ f9IlhVCCzp checks
+Sean @ pL8pVRDugg checks
+JP @ m3-N51qfDy checks
+Turn: A♦, 4♣, 3♠ [6♣]
+Ryan @ f9IlhVCCzp bets 40
+Sean @ pL8pVRDugg raises to 160
+JP @ m3-N51qfDy folds
+Ryan @ f9IlhVCCzp calls 160
+River: A♦, 4♣, 3♠, 6♣ [6♥]
+Ryan @ f9IlhVCCzp bets 500
+Sean @ pL8pVRDugg folds
+Uncalled bet of 500 returned to Ryan @ f9IlhVCCzp
+Ryan @ f9IlhVCCzp collected 500 from pot
+-- ending hand #192 --
+-- starting hand #193  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1445) | #2 Ryan @ f9IlhVCCzp (1290) | #3 Sean @ pL8pVRDugg (4540) | #4 boobs @ 2yxSpZlTPR (2470) | #10 JP @ m3-N51qfDy (3301)
+Your hand is 5♣, 4♠
+Sean @ pL8pVRDugg posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp raises to 40
+Sean @ pL8pVRDugg raises to 120
+boobs @ 2yxSpZlTPR raises to 200
+Ryan @ f9IlhVCCzp folds
+Sean @ pL8pVRDugg calls 200
+Flop:  [7♦, A♦, 10♥]
+Sean @ pL8pVRDugg checks
+boobs @ 2yxSpZlTPR bets 220
+Sean @ pL8pVRDugg raises to 660
+boobs @ 2yxSpZlTPR calls 660
+Turn: 7♦, A♦, 10♥ [6♣]
+Sean @ pL8pVRDugg bets 1760
+boobs @ 2yxSpZlTPR calls 1610 and go all in
+Uncalled bet of 150 returned to Sean @ pL8pVRDugg
+Sean @ pL8pVRDugg shows a Q♠, A♥.
+boobs @ 2yxSpZlTPR shows a Q♥, A♠.
+River: 7♦, A♦, 10♥, 6♣ [8♠]
+Sean @ pL8pVRDugg collected 2490 from pot with Pair, A's (combination: A♥, A♦, Q♠, 10♥, 8♠)
+boobs @ 2yxSpZlTPR collected 2490 from pot with Pair, A's (combination: A♠, A♦, Q♥, 10♥, 8♠)
+-- ending hand #193 --
+-- starting hand #194  (No Limit Texas Hold'em) (dealer: Sean @ pL8pVRDugg) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1445) | #2 Ryan @ f9IlhVCCzp (1250) | #3 Sean @ pL8pVRDugg (4560) | #4 boobs @ 2yxSpZlTPR (2490) | #10 JP @ m3-N51qfDy (3301)
+Your hand is J♥, Q♥
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 calls 20
+Ryan @ f9IlhVCCzp raises to 60
+Sean @ pL8pVRDugg calls 60
+boobs @ 2yxSpZlTPR calls 60
+JP @ m3-N51qfDy calls 60
+Nick @ mXtR2R3-I6 calls 60
+Flop:  [K♥, Q♠, 8♦]
+boobs @ 2yxSpZlTPR bets 200
+JP @ m3-N51qfDy calls 200
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp calls 200
+Sean @ pL8pVRDugg calls 200
+Turn: K♥, Q♠, 8♦ [9♣]
+boobs @ 2yxSpZlTPR bets 2230 and go all in
+JP @ m3-N51qfDy folds
+Ryan @ f9IlhVCCzp calls 990 and go all in
+Sean @ pL8pVRDugg folds
+Uncalled bet of 1240 returned to boobs @ 2yxSpZlTPR
+Ryan @ f9IlhVCCzp shows a 7♣, K♣.
+boobs @ 2yxSpZlTPR shows a Q♣, 7♠.
+River: K♥, Q♠, 8♦, 9♣ [6♥]
+Ryan @ f9IlhVCCzp collected 3080 from pot with Pair, K's (combination: K♣, K♥, Q♠, 9♣, 8♦)
+-- ending hand #194 --
+The player Sean @ pL8pVRDugg stand up with the stack of 4300.
+-- starting hand #195  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1385) | #2 Ryan @ f9IlhVCCzp (3080) | #4 boobs @ 2yxSpZlTPR (1240) | #10 JP @ m3-N51qfDy (3041)
+Your hand is 5♦, 7♦
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Ryan @ f9IlhVCCzp raises to 60
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy calls 60
+Nick @ mXtR2R3-I6 raises to 180
+Ryan @ f9IlhVCCzp calls 180
+JP @ m3-N51qfDy folds
+Flop:  [8♠, 9♣, Q♥]
+Nick @ mXtR2R3-I6 checks
+Ryan @ f9IlhVCCzp checks
+Turn: 8♠, 9♣, Q♥ [Q♠]
+Nick @ mXtR2R3-I6 checks
+Ryan @ f9IlhVCCzp checks
+River: 8♠, 9♣, Q♥, Q♠ [2♣]
+Nick @ mXtR2R3-I6 bets 300
+Ryan @ f9IlhVCCzp folds
+Uncalled bet of 300 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 420 from pot
+-- ending hand #195 --
+Ryan @ f9IlhVCCzp shows a 3♠, A♠.
+-- starting hand #196  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1625) | #2 Ryan @ f9IlhVCCzp (2900) | #4 boobs @ 2yxSpZlTPR (1240) | #10 JP @ m3-N51qfDy (2981)
+Your hand is Q♥, 7♥
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 70
+JP @ m3-N51qfDy raises to 120
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp calls 120
+boobs @ 2yxSpZlTPR calls 120
+Flop:  [Q♦, K♣, 10♠]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 370
+Ryan @ f9IlhVCCzp calls 370
+boobs @ 2yxSpZlTPR raises to 740
+JP @ m3-N51qfDy raises to 2861 and go all in
+Ryan @ f9IlhVCCzp folds
+boobs @ 2yxSpZlTPR calls 1120 and go all in
+Uncalled bet of 1741 returned to JP @ m3-N51qfDy
+boobs @ 2yxSpZlTPR shows a K♠, J♠.
+JP @ m3-N51qfDy shows a Q♥, 7♥.
+Turn: Q♦, K♣, 10♠ [6♠]
+River: Q♦, K♣, 10♠, 6♠ [3♥]
+boobs @ 2yxSpZlTPR collected 2980 from pot with Pair, K's (combination: K♠, K♣, Q♦, J♠, 10♠)
+-- ending hand #196 --
+-- starting hand #197  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1615) | #2 Ryan @ f9IlhVCCzp (2410) | #4 boobs @ 2yxSpZlTPR (2980) | #10 JP @ m3-N51qfDy (1741)
+Your hand is 4♥, 2♥
+Ryan @ f9IlhVCCzp posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 20
+Ryan @ f9IlhVCCzp calls 20
+boobs @ 2yxSpZlTPR checks
+Flop:  [K♠, 8♠, K♣]
+Ryan @ f9IlhVCCzp bets 60
+boobs @ 2yxSpZlTPR folds
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 60 returned to Ryan @ f9IlhVCCzp
+Ryan @ f9IlhVCCzp collected 60 from pot
+-- ending hand #197 --
+Undealt cards: K♠, 8♠, K♣ [3♠, J♠]
+-- starting hand #198  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1595) | #2 Ryan @ f9IlhVCCzp (2450) | #4 boobs @ 2yxSpZlTPR (2960) | #10 JP @ m3-N51qfDy (1741)
+Your hand is 4♣, 6♠
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+Ryan @ f9IlhVCCzp folds
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy folds
+Uncalled bet of 40 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 50 from pot
+-- ending hand #198 --
+Undealt cards:  [8♠, Q♦, 7♥, A♥, 3♥]
+-- starting hand #199  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1625) | #2 Ryan @ f9IlhVCCzp (2450) | #4 boobs @ 2yxSpZlTPR (2950) | #10 JP @ m3-N51qfDy (1721)
+Your hand is A♠, K♠
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Ryan @ f9IlhVCCzp raises to 40
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy raises to 60
+Nick @ mXtR2R3-I6 raises to 120
+Ryan @ f9IlhVCCzp calls 120
+JP @ m3-N51qfDy raises to 390
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp calls 390
+Flop:  [J♦, 3♥, 4♦]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp checks
+Turn: J♦, 3♥, 4♦ [9♦]
+JP @ m3-N51qfDy bets 900
+Ryan @ f9IlhVCCzp folds
+Uncalled bet of 900 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 900 from pot
+-- ending hand #199 --
+Undealt cards: J♦, 3♥, 4♦, 9♦ [A♥]
+-- starting hand #200  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1505) | #2 Ryan @ f9IlhVCCzp (2060) | #4 boobs @ 2yxSpZlTPR (2950) | #10 JP @ m3-N51qfDy (2231)
+Your hand is 6♦, 5♣
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+boobs @ 2yxSpZlTPR calls 20
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 20
+Ryan @ f9IlhVCCzp checks
+Flop:  [7♠, K♠, 8♥]
+Nick @ mXtR2R3-I6 bets 40
+Ryan @ f9IlhVCCzp folds
+boobs @ 2yxSpZlTPR calls 40
+Turn: 7♠, K♠, 8♥ [Q♥]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 20
+Nick @ mXtR2R3-I6 calls 20
+River: 7♠, K♠, 8♥, Q♥ [9♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR checks
+Nick @ mXtR2R3-I6 shows a 10♣, 9♠.
+Nick @ mXtR2R3-I6 collected 180 from pot with Pair, 9's (combination: 9♠, 9♣, K♠, Q♥, 10♣)
+-- ending hand #200 --
+-- starting hand #201  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1605) | #2 Ryan @ f9IlhVCCzp (2040) | #4 boobs @ 2yxSpZlTPR (2870) | #10 JP @ m3-N51qfDy (2231)
+Your hand is J♠, 2♦
+Ryan @ f9IlhVCCzp posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy calls 20
+Nick @ mXtR2R3-I6 raises to 80
+Ryan @ f9IlhVCCzp calls 80
+boobs @ 2yxSpZlTPR calls 80
+JP @ m3-N51qfDy folds
+Flop:  [Q♣, K♥, 7♦]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR checks
+Nick @ mXtR2R3-I6 bets 160
+Ryan @ f9IlhVCCzp folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 160 returned to Nick @ mXtR2R3-I6
+Nick @ mXtR2R3-I6 collected 260 from pot
+-- ending hand #201 --
+Ryan @ f9IlhVCCzp shows a 10♦, 2♥.
+Undealt cards: Q♣, K♥, 7♦ [10♥, 8♠]
+boobs @ 2yxSpZlTPR shows a 7♠, 10♠.
+-- starting hand #202  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1785) | #2 Ryan @ f9IlhVCCzp (1960) | #4 boobs @ 2yxSpZlTPR (2790) | #10 JP @ m3-N51qfDy (2211)
+Your hand is 3♣, 4♥
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Nick @ mXtR2R3-I6 raises to 60
+Ryan @ f9IlhVCCzp calls 60
+boobs @ 2yxSpZlTPR calls 60
+JP @ m3-N51qfDy calls 60
+Flop:  [3♦, 10♠, 6♦]
+boobs @ 2yxSpZlTPR bets 120
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 120
+Ryan @ f9IlhVCCzp folds
+Turn: 3♦, 10♠, 6♦ [3♥]
+boobs @ 2yxSpZlTPR bets 120
+Nick @ mXtR2R3-I6 calls 120
+River: 3♦, 10♠, 6♦, 3♥ [10♦]
+boobs @ 2yxSpZlTPR bets 200
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 200 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 720 from pot
+-- ending hand #202 --
+-- starting hand #203  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1485) | #2 Ryan @ f9IlhVCCzp (1900) | #4 boobs @ 2yxSpZlTPR (3210) | #10 JP @ m3-N51qfDy (2151)
+Your hand is 10♦, 3♦
+JP @ m3-N51qfDy posts a small blind of 10
+Nick @ mXtR2R3-I6 posts a big blind of 20
+Ryan @ f9IlhVCCzp calls 20
+boobs @ 2yxSpZlTPR raises to 72
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 folds
+Ryan @ f9IlhVCCzp folds
+Uncalled bet of 52 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 70 from pot
+-- ending hand #203 --
+Undealt cards:  [A♣, K♥, 9♠, 3♠, K♠]
+-- starting hand #204  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1465) | #2 Ryan @ f9IlhVCCzp (1880) | #4 boobs @ 2yxSpZlTPR (3260) | #10 JP @ m3-N51qfDy (2141)
+Your hand is 5♥, 9♠
+Nick @ mXtR2R3-I6 posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 40
+JP @ m3-N51qfDy folds
+Nick @ mXtR2R3-I6 calls 40
+Ryan @ f9IlhVCCzp folds
+Flop:  [5♦, K♥, J♠]
+Nick @ mXtR2R3-I6 bets 70
+boobs @ 2yxSpZlTPR raises to 140
+Nick @ mXtR2R3-I6 calls 140
+Turn: 5♦, K♥, J♠ [9♣]
+Nick @ mXtR2R3-I6 checks
+boobs @ 2yxSpZlTPR bets 285
+Nick @ mXtR2R3-I6 folds
+Uncalled bet of 285 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 380 from pot
+-- ending hand #204 --
+Undealt cards: 5♦, K♥, J♠, 9♣ [2♥]
+-- starting hand #205  (No Limit Texas Hold'em) (dealer: Nick @ mXtR2R3-I6) --
+Player stacks: #1 Nick @ mXtR2R3-I6 (1285) | #2 Ryan @ f9IlhVCCzp (1860) | #4 boobs @ 2yxSpZlTPR (3460) | #10 JP @ m3-N51qfDy (2141)
+Your hand is A♥, A♣
+Ryan @ f9IlhVCCzp posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy raises to 60
+Nick @ mXtR2R3-I6 raises to 150
+Ryan @ f9IlhVCCzp folds
+boobs @ 2yxSpZlTPR calls 150
+JP @ m3-N51qfDy raises to 260
+Nick @ mXtR2R3-I6 raises to 1285 and go all in
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy calls 1285
+Nick @ mXtR2R3-I6 shows a 7♦, 7♣.
+JP @ m3-N51qfDy shows a A♥, A♣.
+Flop:  [Q♦, 3♦, A♠]
+Turn: Q♦, 3♦, A♠ [8♣]
+River: Q♦, 3♦, A♠, 8♣ [5♣]
+JP @ m3-N51qfDy collected 2730 from pot with Three of a Kind, A's (combination: A♥, A♣, A♠, Q♦, 8♣)
+-- ending hand #205 --
+The player Nick @ mXtR2R3-I6 quits the game with a stack of 0.
+-- starting hand #206  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (1850) | #4 boobs @ 2yxSpZlTPR (3310) | #10 JP @ m3-N51qfDy (3586)
+Your hand is 2♥, 8♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Ryan @ f9IlhVCCzp raises to 40
+boobs @ 2yxSpZlTPR calls 40
+JP @ m3-N51qfDy calls 40
+Flop:  [Q♠, 7♣, J♣]
+boobs @ 2yxSpZlTPR bets 70
+JP @ m3-N51qfDy folds
+Ryan @ f9IlhVCCzp calls 70
+Turn: Q♠, 7♣, J♣ [2♦]
+boobs @ 2yxSpZlTPR bets 150
+Ryan @ f9IlhVCCzp folds
+Uncalled bet of 150 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 260 from pot
+-- ending hand #206 --
+-- starting hand #207  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (1740) | #4 boobs @ 2yxSpZlTPR (3460) | #10 JP @ m3-N51qfDy (3546)
+Your hand is 3♣, 9♦
+JP @ m3-N51qfDy posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 40
+JP @ m3-N51qfDy folds
+Ryan @ f9IlhVCCzp calls 40
+Flop:  [K♥, K♦, 7♦]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR checks
+Turn: K♥, K♦, 7♦ [Q♦]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR bets 100
+Ryan @ f9IlhVCCzp calls 100
+River: K♥, K♦, 7♦, Q♦ [5♦]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR checks
+Ryan @ f9IlhVCCzp shows a 6♣, 6♦.
+Ryan @ f9IlhVCCzp collected 290 from pot with Flush, Kd High (combination: K♦, Q♦, 7♦, 6♦, 5♦)
+-- ending hand #207 --
+-- starting hand #208  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (1890) | #4 boobs @ 2yxSpZlTPR (3320) | #10 JP @ m3-N51qfDy (3536)
+Your hand is 3♥, 9♥
+Ryan @ f9IlhVCCzp posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy raises to 40
+Ryan @ f9IlhVCCzp calls 40
+boobs @ 2yxSpZlTPR folds
+Flop:  [A♠, 2♠, K♣]
+Ryan @ f9IlhVCCzp checks
+JP @ m3-N51qfDy checks
+Turn: A♠, 2♠, K♣ [J♣]
+Ryan @ f9IlhVCCzp bets 60
+JP @ m3-N51qfDy folds
+Uncalled bet of 60 returned to Ryan @ f9IlhVCCzp
+Ryan @ f9IlhVCCzp collected 100 from pot
+-- ending hand #208 --
+Undealt cards: A♠, 2♠, K♣, J♣ [7♠]
+-- starting hand #209  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (1950) | #4 boobs @ 2yxSpZlTPR (3300) | #10 JP @ m3-N51qfDy (3496)
+Your hand is 5♦, 7♥
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Ryan @ f9IlhVCCzp raises to 40
+boobs @ 2yxSpZlTPR calls 40
+JP @ m3-N51qfDy folds
+Flop:  [9♥, 2♠, 2♣]
+boobs @ 2yxSpZlTPR checks
+Ryan @ f9IlhVCCzp bets 20
+boobs @ 2yxSpZlTPR calls 20
+Turn: 9♥, 2♠, 2♣ [9♠]
+boobs @ 2yxSpZlTPR bets 200
+Ryan @ f9IlhVCCzp raises to 400
+boobs @ 2yxSpZlTPR raises to 600
+Ryan @ f9IlhVCCzp raises to 1890 and go all in
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 1290 returned to Ryan @ f9IlhVCCzp
+Ryan @ f9IlhVCCzp collected 1340 from pot
+-- ending hand #209 --
+Undealt cards: 9♥, 2♠, 2♣, 9♠ [2♥]
+boobs @ 2yxSpZlTPR shows a 3♣, 3♥.
+-- starting hand #210  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (2630) | #4 boobs @ 2yxSpZlTPR (2640) | #10 JP @ m3-N51qfDy (3476)
+Your hand is 5♦, 6♣
+JP @ m3-N51qfDy posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy calls 20
+Ryan @ f9IlhVCCzp checks
+Flop:  [9♠, A♣, 8♥]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp checks
+Turn: 9♠, A♣, 8♥ [A♥]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp checks
+River: 9♠, A♣, 8♥, A♥ [J♥]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp checks
+Ryan @ f9IlhVCCzp shows a 7♥, 4♣.
+Ryan @ f9IlhVCCzp collected 20 from pot with Pair, A's (combination: A♣, A♥, J♥, 9♠, 8♥)
+JP @ m3-N51qfDy shows a 5♦, 6♣.
+JP @ m3-N51qfDy collected 20 from pot with Pair, A's (combination: A♣, A♥, J♥, 9♠, 8♥)
+-- ending hand #210 --
+-- starting hand #211  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (2630) | #4 boobs @ 2yxSpZlTPR (2640) | #10 JP @ m3-N51qfDy (3476)
+Your hand is 8♠, A♥
+Ryan @ f9IlhVCCzp posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy calls 20
+Ryan @ f9IlhVCCzp calls 20
+boobs @ 2yxSpZlTPR raises to 80
+JP @ m3-N51qfDy calls 80
+Ryan @ f9IlhVCCzp calls 80
+Flop:  [Q♠, J♥, 2♥]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 240
+Ryan @ f9IlhVCCzp folds
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 240 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 240 from pot
+-- ending hand #211 --
+Undealt cards: Q♠, J♥, 2♥ [3♣, 8♥]
+-- starting hand #212  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (2550) | #4 boobs @ 2yxSpZlTPR (2560) | #10 JP @ m3-N51qfDy (3636)
+Your hand is 8♥, 2♥
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Ryan @ f9IlhVCCzp raises to 40
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy calls 40
+Flop:  [9♣, 2♦, 7♠]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp bets 40
+JP @ m3-N51qfDy calls 40
+Turn: 9♣, 2♦, 7♠ [7♦]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp checks
+River: 9♣, 2♦, 7♠, 7♦ [10♥]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp bets 170
+JP @ m3-N51qfDy calls 170
+Ryan @ f9IlhVCCzp shows a J♥, 7♣.
+Ryan @ f9IlhVCCzp collected 510 from pot with Three of a Kind, 7's (combination: 7♣, 7♠, 7♦, J♥, 10♥)
+-- ending hand #212 --
+-- starting hand #213  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (2810) | #4 boobs @ 2yxSpZlTPR (2550) | #10 JP @ m3-N51qfDy (3386)
+Your hand is Q♦, 2♠
+JP @ m3-N51qfDy posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 57
+JP @ m3-N51qfDy folds
+Ryan @ f9IlhVCCzp calls 57
+Flop:  [8♠, 9♣, 4♥]
+Ryan @ f9IlhVCCzp bets 20
+boobs @ 2yxSpZlTPR raises to 102
+Ryan @ f9IlhVCCzp calls 102
+Turn: 8♠, 9♣, 4♥ [2♣]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR bets 164
+Ryan @ f9IlhVCCzp calls 164
+River: 8♠, 9♣, 4♥, 2♣ [3♣]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR checks
+boobs @ 2yxSpZlTPR shows a 10♥, 8♦.
+boobs @ 2yxSpZlTPR collected 656 from pot with Pair, 8's (combination: 8♦, 8♠, 10♥, 9♣, 4♥)
+Ryan @ f9IlhVCCzp shows a J♠, 10♣.
+-- ending hand #213 --
+-- starting hand #214  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (2487) | #4 boobs @ 2yxSpZlTPR (2883) | #10 JP @ m3-N51qfDy (3376)
+Your hand is K♠, 7♠
+Ryan @ f9IlhVCCzp posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy raises to 40
+Ryan @ f9IlhVCCzp calls 40
+boobs @ 2yxSpZlTPR calls 40
+Flop:  [A♦, 8♠, 7♥]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR bets 100
+JP @ m3-N51qfDy calls 100
+Ryan @ f9IlhVCCzp folds
+Turn: A♦, 8♠, 7♥ [K♥]
+boobs @ 2yxSpZlTPR bets 150
+JP @ m3-N51qfDy calls 150
+River: A♦, 8♠, 7♥, K♥ [2♠]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 310
+boobs @ 2yxSpZlTPR calls 310
+JP @ m3-N51qfDy shows a K♠, 7♠.
+JP @ m3-N51qfDy collected 1240 from pot with Two Pair, K's & 7's (combination: K♠, K♥, 7♠, 7♥, A♦)
+-- ending hand #214 --
+-- starting hand #215  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (2447) | #4 boobs @ 2yxSpZlTPR (2283) | #10 JP @ m3-N51qfDy (4016)
+Your hand is 2♦, 4♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Ryan @ f9IlhVCCzp raises to 40
+boobs @ 2yxSpZlTPR folds
+JP @ m3-N51qfDy folds
+Uncalled bet of 20 returned to Ryan @ f9IlhVCCzp
+Ryan @ f9IlhVCCzp collected 50 from pot
+-- ending hand #215 --
+Undealt cards:  [5♠, 7♣, A♣, 3♣, 3♠]
+boobs @ 2yxSpZlTPR shows a 2♣, 4♥.
+-- starting hand #216  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (2477) | #4 boobs @ 2yxSpZlTPR (2273) | #10 JP @ m3-N51qfDy (3996)
+Your hand is J♦, 6♠
+JP @ m3-N51qfDy posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 70
+JP @ m3-N51qfDy folds
+Ryan @ f9IlhVCCzp calls 70
+Flop:  [7♦, 9♦, K♠]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR checks
+Turn: 7♦, 9♦, K♠ [K♣]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR bets 75
+Ryan @ f9IlhVCCzp folds
+Uncalled bet of 75 returned to boobs @ 2yxSpZlTPR
+boobs @ 2yxSpZlTPR collected 150 from pot
+-- ending hand #216 --
+Undealt cards: 7♦, 9♦, K♠, K♣ [10♣]
+-- starting hand #217  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (2407) | #4 boobs @ 2yxSpZlTPR (2353) | #10 JP @ m3-N51qfDy (3986)
+Your hand is 5♥, 5♣
+Ryan @ f9IlhVCCzp posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy raises to 40
+Ryan @ f9IlhVCCzp calls 40
+boobs @ 2yxSpZlTPR calls 40
+Flop:  [4♥, 7♠, 3♣]
+Ryan @ f9IlhVCCzp checks
+boobs @ 2yxSpZlTPR bets 100
+JP @ m3-N51qfDy raises to 200
+Ryan @ f9IlhVCCzp folds
+boobs @ 2yxSpZlTPR calls 200
+Turn: 4♥, 7♠, 3♣ [6♥]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy checks
+River: 4♥, 7♠, 3♣, 6♥ [8♣]
+boobs @ 2yxSpZlTPR bets 150
+JP @ m3-N51qfDy raises to 340
+boobs @ 2yxSpZlTPR calls 340
+JP @ m3-N51qfDy shows a 5♥, 5♣.
+JP @ m3-N51qfDy collected 1200 from pot with Straight, 8 High (combination: 8♣, 7♠, 6♥, 5♥, 4♥)
+-- ending hand #217 --
+-- starting hand #218  (No Limit Texas Hold'em) (dealer: Ryan @ f9IlhVCCzp) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (2367) | #4 boobs @ 2yxSpZlTPR (1773) | #10 JP @ m3-N51qfDy (4606)
+Your hand is 5♠, 5♣
+boobs @ 2yxSpZlTPR posts a small blind of 10
+JP @ m3-N51qfDy posts a big blind of 20
+Ryan @ f9IlhVCCzp raises to 40
+boobs @ 2yxSpZlTPR calls 40
+JP @ m3-N51qfDy calls 40
+Flop:  [5♦, 8♦, 4♦]
+boobs @ 2yxSpZlTPR checks
+JP @ m3-N51qfDy bets 323
+Ryan @ f9IlhVCCzp calls 323
+boobs @ 2yxSpZlTPR folds
+Turn: 5♦, 8♦, 4♦ [7♠]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp checks
+River: 5♦, 8♦, 4♦, 7♠ [2♦]
+JP @ m3-N51qfDy checks
+Ryan @ f9IlhVCCzp bets 383
+JP @ m3-N51qfDy calls 383
+Ryan @ f9IlhVCCzp shows a A♦, 8♥.
+Ryan @ f9IlhVCCzp collected 1532 from pot with Flush, Ad High (combination: A♦, 8♦, 5♦, 4♦, 2♦)
+-- ending hand #218 --
+-- starting hand #219  (No Limit Texas Hold'em) (dealer: boobs @ 2yxSpZlTPR) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (3153) | #4 boobs @ 2yxSpZlTPR (1733) | #10 JP @ m3-N51qfDy (3860)
+Your hand is Q♠, 7♦
+JP @ m3-N51qfDy posts a small blind of 10
+Ryan @ f9IlhVCCzp posts a big blind of 20
+boobs @ 2yxSpZlTPR raises to 80
+JP @ m3-N51qfDy calls 80
+Ryan @ f9IlhVCCzp folds
+Flop:  [2♠, 5♦, 7♠]
+JP @ m3-N51qfDy bets 60
+boobs @ 2yxSpZlTPR calls 60
+Turn: 2♠, 5♦, 7♠ [Q♦]
+JP @ m3-N51qfDy bets 180
+boobs @ 2yxSpZlTPR folds
+Uncalled bet of 180 returned to JP @ m3-N51qfDy
+JP @ m3-N51qfDy collected 300 from pot
+-- ending hand #219 --
+-- starting hand #220  (No Limit Texas Hold'em) (dealer: JP @ m3-N51qfDy) --
+Player stacks: #2 Ryan @ f9IlhVCCzp (3133) | #4 boobs @ 2yxSpZlTPR (1593) | #10 JP @ m3-N51qfDy (4020)
+Your hand is K♦, 4♦
+Ryan @ f9IlhVCCzp posts a small blind of 10
+boobs @ 2yxSpZlTPR posts a big blind of 20
+JP @ m3-N51qfDy calls 20
+Ryan @ f9IlhVCCzp folds
+entry
